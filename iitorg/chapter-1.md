@@ -41,13 +41,13 @@ De indeling van de organisatie kan op verschillende manieren:
 
 - Matrixorganisatie: organisatievorm die is opgedeeld naar verschillende gezichtspunten, bijvoorbeeld naar productgroep en naar geografische regio. Een medewerker heeft dan twee bazen, namelijk het hoofd van de productgroep én het hoofd van de geografische regio. In de top dient dan afgesproken te zijn wat de zeggenschap is van ieder van de bazen, welke terreinen die zeggenschap bestrijkt.
 
-![lijn-staf](/images/organisatiestructuren.jpg)
+![lijn-staf](images/organisatiestructuren.jpg)
 
 ## Cirkel van falen
  <!-- Insert image of failure -->
 
 ## Cirkel van succes
-![Cirkel van succes](/images/cirkelvansucces.jpg)
+![Cirkel van succes](images/cirkelvansucces.jpg)
 
 ## Leiderschapsstijlen (Quinn)  
 
