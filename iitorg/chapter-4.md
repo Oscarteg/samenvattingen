@@ -99,3 +99,37 @@ De *innovators* spelen een rol tijdens de **vraagteken** van de BCG-matrix. De *
 ## Product
 Een product is *tasbaar, heeft een voorraad, garantie en (meestal) vaste prijs.* Een dienst is *persoonlijk, mensenwerk, afnemer werkt mee aan de dienst.*
 
+### Productsamenstelling  (Leeflang)
+![productsamenstelling-leeflang](http://www.economiehulp.nl/images/stories/totale%20product.jpg)
+
+het fysiek product: Het kale product, dit zijn de functionele en esthetische kenmerken zoals afmetingen en kleur.het uitgebreide product: Het fysiek product, met toegevoegde eigenschappen. Zoals, verpakking, merknaam, service en garantie.het totale product: Het uitgebreid product, maar dan met toegevoegde emotionele, instrumentele en expressieve eigenschappen/waarden door de consument toegevoegd!
+
+### Productsamenstelling (Copeland)
+
+![productsamenstelling-copeland](images/product-samenstelling-copeland.jpg)
+
+**Convenience goods:**
+> zonder na te denken of enige inspanning gekocht, meestal producten met een lage waarde per eenheid
+
+- impulsgoederen (zonder na te denken of inspanning gekocht. Bijvoorbeeld albert heijn bij de kassa of tankstation).
+- stapelgoederen (dagelijks gebruik)
+- emergency goederen (bijv. een gloeilamp).
+
+**Shopping goods**
+> Producten worden gekocht na een duidelijk en bewust onderzoek. (bijvoorbeeld kleding) 
+
+- Kleding
+- Laptop
+- PC
+ 
+**Speciality goods**
+> Een consument doet zeer veel moeite voor dit product, bijvoorbeeld voor een bepaalde parfum naar Parijs. 
+
+- Auto
+- Huis
+ 
+**Unsought goods**
+> Consumenten weten nog niet van het bestaan af van het product, er bestaan ook regular unsought goods. Hiervan kent men wel het bestaan maar, deze goederen wenst men nog niet.
+
+- Uitvaartpolis
+- Verzekeringen
