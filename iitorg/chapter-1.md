@@ -65,10 +65,10 @@ De indeling van de organisatie kan op verschillende manieren:
 Hofstede heeft 5 dimensies bedacht die als graadmeter dienen voor culturele verschillen en die zou moeten helpen bij het overbruggen van deze verschillen tijdens de interculturele communicatie tussen partijen van verschillende culturen.
 
 - Machtsafstand
-- Individualisme vs. collectivisme
-- Masculiniteit vs. femininiteit
-- Onzekerheidsvermijding
-- Lange termijn vs. korte termijn oriëntatie (nieuw)
+- individualisme vs. collectivisme: organisaties waarbij ieder individueel werkt en geen of nauwelijks samenhang met de anderen ervaart, ieder hakt voor zichzelf knopen door (individualisme) of organisaties waarbij men in groepen opereert (of als gehele afdeling, of als gehele organisatie) en alleen gezamenlijk knopen doorhakt (collectivisme).
+- masculiniteit vs. feminiteit: organisaties waarbij de macht van de sterkste geldt en men elkaar 'stoer' en 'mannelijk' behandelt, wil wínnen (masculien) of organisaties waarbij men gezamenlijk de dingen onderneemt, elkaar de helpen hand toesteekt en uit is op eenheid (feminiteit).
+- onzekerheidsvermijding: organisaties die zekerheden heel belangrijk vinden en niet goed om kunnen gaan met het onverwachte (onzekerheidsvermijding) versus organisaties die veranderingen en het onverwachte volkomen normaal vinden en die daarmee heel goed overweg kunnen (onzekerheidaccepterend).
+- lange termijn vs. korte termijn: organisaties die het focus leggen op termijnen van vele jaren of decennia, zoals vaker in bijv. Japan en China aangetroffen wordt (lange termijn) versus organisaties die slechts kort vooruitkijken, bijv. enkele aanden, zoals je dat vaker in bijv. Europa en Noordamerika aantreft.
 
 ![hofstede](http://managementplatform.nl/wp-content/uploads/2014/02/002_cultuur_type3_hofstede.jpg)
 
