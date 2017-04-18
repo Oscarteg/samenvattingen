@@ -22,7 +22,7 @@ Ondersteunende activiteiten:
 
 ## Mintzberg
 Mintzberg heeft bepaald dat een organisatie bestaat uit verschillende onderdelen.
-![organisatie-onderdelen](https://www.expand.nl/uploads/filemanager/img/Mintzberg%20organisatiemodel%20of%20configuratie.jpg/$FILE/Mintzberg%20organisatiemodel%20of%20configuratie.jpg)
+![organisatie-onderdelen](https://managementmodellensite.nl/webcontent/uploads/organisatieeenhedenmintzberg.jpg)
 
  - De strategische top (het top-management).
  - Het midden management. Deze voert het beleid uit van het top-mangement met in acht nemend de wensen van de operende kern.
@@ -91,5 +91,3 @@ Elke onderdeel van een organisatie heeft zijn eigen belangen.
 >Contingentietheorie: Het gedrag van de medewerkers uit zich op een bepaalde manier en dat wordt bijv. ervaren als stimulerend of juist demotiverend. Dit gedrag is het gevolg van wat er in de organisatie is gebeurd. Het staat dus niet op zichzelf.
 
 ![levenscyclus-organisatie](images/levenscyclus-organisatie.png)
-
-Elke organisatie heeft een levenscyclus. Greiner heeft bepaald dat er 6 fasen zijn die elke organisatie doormaakt. Elke fase word afgesloten met een crisis.
