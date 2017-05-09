@@ -1,4 +1,4 @@
-# Greiner:ontwikkelingvanorganisaties
+# Greiner
 
 > Hoofdstuk 20
 

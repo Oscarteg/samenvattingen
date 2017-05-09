@@ -1,4 +1,4 @@
-# IITORG
+# Introductie organisatiekunde
 
 Het vak IITORG word gegeven op de Hogeschool Leiden door Remco Meisner. Het vak is *Inleiding ogrganisatiekunde*. Na het volgen van dit vak kan de student het volgende:
 
@@ -8,7 +8,7 @@ Mintzberg en de culturele typologie van Hofstede
 - het levencyclusmodel van Greiner uitleggen
 - de vijf P's van de marketingmix (product, prijs, plaats, promotie en
 personeel) en de daarbijbehorende theoretische modellen benoemen,
-verklaren en toepassen
+verklaren en toepasseni
 - de BCG-matrix en de PLC uitleggen en toepassen
 - de valuechain en het vijfkrachtenmodel van Porter uitleggen en toepassen
 - aan de hand van PMC's nieuwe mogelijkheden voor producten en diensten
