@@ -1,0 +1,37 @@
+# Hoofdstuk 2 - Normen, waarden en deugden
+
+## 2.1 Normen
+
+Een *norm* is een argument in de vorm van een regel waar je je aan moet houden. Bijvoorbeeld:' Ik maak die opdracht af want dat heb ik beloofd, en wat je beloofd moet je doen. Hierbij wordt echt aangegeven dat je je aan je beloftes moet houden. Dit is dat ook een norm; aan je beloftes houden. Als het nou een regel is over hoe mensen met elkaar om moeten gaan, spreek je van een morele norm. Morele normen zijn dus regels aangaande goed samenleven. Deze *gedragsregels* onderscheiden zich van andere regels zoals verkeersregels. Dit omdat wij onze normen zelf aangeven en de verkeersregels worden ons opgelegd. Normen kunnen geformuleerd worden in de vorm van *wetten*. In Nederland is een aantal morele regels in de wet vastgelegd. Bijvoorbeeld dat je niet mag discrimineren. Een ander belangrijk document waarin veel morele regels voor handelen in staan is de *Universele Verklaring van de Rechten van de Mens*. Op deze regels staan geen sancties. Het verschil tussen wetten en morele normen is dat wetten expliciet geformuleerd zijn, terwijl morele normen heel vaak impliciet blijven in ons gedrag. Ze worden niet uitgesproken.
+
+## 2.2 Waarden
+Om de gevolgen van een handeling moreel te beoordelen, gebruiken we *waarden*. We vergelijken de gevolgen van ons gedrag met een vooropgesteld doel dat we willen realiseren. Zo'n doel noemen we een waarde. Een *morele waarde* is een ideaal, een principe betreffende goed samenleven dat we proberen te realiseren door middel van ons gedag. Enkele voorbeelden van belangrijke idealen in de moderne samenleving zijn: gezondheid, vrijheid, rechtvaardigheid, solidariteit of gelijkheid.
+Het verschil tussen waarden en normen kan als het volgt worden omschreven. Waarden zijn abstracte *idealen* of doelen die men door middel van bepaald gedrag nastreeft; het is datgene wat men uiteindelijk beoogt te bereiken. Normen daarentegen zijn concrete regels die als praktische richtlijn voor het handelen functioneren.
+
+## 2.3 Deugden
+Karaktereigenschappen betreffende goed samenleven noemen we *deugden*. en als je een moreel oordeel geeft over gedrag aan de hand van bedoelingen, dan beoordeel je met behulp van deugden. Een deugd is een goede karaktereigenschap van mensen die hun gedrag stuurt. Als je gedrag aan de hand van deugden beoordeelt, doe je niet zozeer een uitspraak over een incidentele handeling als wel over de persoon en diens houding. Je gaat vooral na wat voor mens je wilt zijn. Wil je iemand zijn die altijd zijn afspraken nakomt of iemand die attent is?
+
+| Gedragskeuze                                                  | Norm als argument                             | Deugd als argument                                 |
+|---------------------------------------------------------------|-----------------------------------------------|----------------------------------------------------|
+| Ik maak die opdracht af want...                               | Je moet je aan de afspraken houden            | Ik wil betrouwbaar zijn. (deugd: betrouwbaarheid)  |
+| Ik neem koffie mee voor mijn collega's, want...               | Je behoort koffie voor elkaar mee te brengen. | Ik wil attent zijn. (deugd: hulpvaardig)           |
+| Ik pik geen koekjes uit de trommel, want...                   | Je mag geen koekjes pikken.                   | Ik wil gehoorzaam zijn. (deugd: gehoorzaamheid)    |
+| Ik zeg niet dat ik Erik zag spieken tijdens tentamen, want... | Je moet je niet met andermans zaken bemoeien. | Ik wil geen bemoeial zijn. (deugd: bescheidenheid) |
+
+
+## 2.4 Ethische theorieen
+Mensen kunnen een vraag heel verschillend benaderen. Deze verschillende benaderingen hebben elk hun eigen denksysteem met vaststaande uitgangspunten en vaste denkpatronen. Binnen zo'n systeem kun je je ervaringen verklaren en kom je niet vaak een tegenstrijdigheid tegen. In de psychologie noemt men zo'n systeem van benaderen van de werkelijkheid een *interne theorie*. Een voorbeeld hiervan is dat je altijd vriendelijk moet zijn tegen andere mensen. Politieke partijen hebben ook vaak een eigen interne theorie. In de ethiek noemen we zo'n denksysteem een *ethische theorie*.
+Morele vragen kun je met drie verschillende ethische theorieën benaderen. Je kunt de vraag 'Wat is goed handelen?' benaderen met de ethische theorie dat mensen zich aan de regels moeten houden. Dat dit belangrijk is voor een hoede samenleving. Als dit je ethische theorie is, gebruik je alleen normen als morele argumenten. Deze ethische theorie noem je de *plichtethiek* omdat normen ons verplichten.
+Je kunt de vraag 'Wat is goed handelen?' ook benaderen met de ethische theorie dat het erom gaat dat je gedrag goede gevolgen moeten hebben. Hierbij gebruik je alleen waarden als morele argumenten. Deze ethische theorie noemen we de *gevolgenethiek*.
+Ten slotte kun je de ethische theorie hebben dat je een goed mens moet zijn en dat je gedrag uit goede bedoelingen moet voortkomen. Je benadert de vraag 'Wat is goed handelen?' met deugden als morele argumenten. Dit is de *deugdethiek*.
+
+| Ethische theorie                                 | Uitgangspunt                                        | Werkwijze                                                                 | Valkuil                      |
+|--------------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|------------------------------|
+| Plichtethiek bekijkt de handeling                | Moraal is een kwestie van morele regels opvolgen    | Bepaal welke norm het belangrijkst is                                     | Bevel is bevel               |
+| Gevolgenethiek bekijkt gevolgen van de handeling | Moraal is een kwestie van idealen realiseren        | Bepaal welk gedrag het meeste bijdraagt aan het realiseren van je ideaal. | Het doel heiligt de middelen |
+| Deugdethiek bekijkt de bedoeling van je gedrag   | Moraal is een kwestie van een goed mens willen zijn | Kijk in de spiegel en bedenk wie je wilt zijn                             | Ik bedoelde het goed         |
+
+## 2.5 Drie ethische theorieen vergeleken
+Plichtethisch redeneren raakt de kern van het moraal. Het centrale punt van moraal is dat het ons verplicht. De eigenschap van plichtsethisch denken brengt met zich mee dat concrete normen vaak sterke argumenten zijn voor degene die ze inbrengt. Je bent er stellig van overtuigd dat het hoort zoals de norm voorschrijft. Probleem is dat voor een ander diezelfde norm niet zo zwaar hoeft te wegen. Met normen kun je dus heel goed jezelf, maar veel moeilijker anderen overtuigen.
+Bij de gevolgenethiek kan je juist anderen beter overtuigen. Als je een ander wilt overtuigen ven je morele gelijk, dan gebruik je argumenten. Waarden kun je beter onderbouwen met argumenten dan dat je normen kan onderbouwen. Normen zijn namelijk geen argumenten maar meteen een conclusie in één keer. Bij normen ga je meer met stemverheffing spreken en vaker de gebiedende wijs gebruiken. Waarden hebben dit probleem niet. Omdat het idealen zijn, maak je gebruik van een *doel- middel- argumentatie*. Met normen overtuig je dus jezelf en met waarden overtuig je juist de ander.
+De deugden zijn geschikt om personen te waarderen, maar geven vaak geen concrete aanwijzingen van gedrag. Met deugden beoordelen we de persoon en dus niet het gedrag.

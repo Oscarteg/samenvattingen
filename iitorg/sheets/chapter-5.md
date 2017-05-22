@@ -1,5 +1,7 @@
 # Promotie,plaats,distributieenkanalen
 
+<!-- toc -->
+
 ## Promotie
 > Promotie is het onder de aandacht brengen van een nieuw of bestaand product of service met als doel de omzet positief te beïnvloeden. 
 

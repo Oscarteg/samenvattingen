@@ -1,5 +1,8 @@
 # Rechtsvormen,PMC,BCG,PLC,Leeflang,Copeland
+
 > Hoofdstuk 9, hoofstuk 21, hoofdstuk 22, hoofstuk 24
+
+<!-- toc -->
 
 ## Rechtsvormen
 ### Eenmanszaak
@@ -102,7 +105,9 @@ Een product is *tasbaar, heeft een voorraad, garantie en (meestal) vaste prijs.*
 ### Productsamenstelling  (Leeflang)
 ![productsamenstelling-leeflang](http://www.economiehulp.nl/images/stories/totale%20product.jpg)
 
-het fysiek product: Het kale product, dit zijn de functionele en esthetische kenmerken zoals afmetingen en kleur.het uitgebreide product: Het fysiek product, met toegevoegde eigenschappen. Zoals, verpakking, merknaam, service en garantie.het totale product: Het uitgebreid product, maar dan met toegevoegde emotionele, instrumentele en expressieve eigenschappen/waarden door de consument toegevoegd!
+het fysiek product: Het kale product, dit zijn de functionele en esthetische kenmerken zoals afmetingen en kleur.
+het uitgebreide product: Het fysiek product, met toegevoegde eigenschappen. Zoals, verpakking, merknaam, service en garantie.
+het totale product: Het uitgebreid product, maar dan met toegevoegde emotionele, instrumentele en expressieve eigenschappen/waarden door de consument toegevoegd!
 
 ### Productsamenstelling (Copeland)
 

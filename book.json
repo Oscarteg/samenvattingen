@@ -1,3 +1,9 @@
 {
-    "plugins": ["katex"]
+    "plugins": ["katex", "atoc"],
+	"pluginsConfig": {
+		"atoc": {
+			"addClass": true,
+			"className": "atoc"
+		}
+	}
 }

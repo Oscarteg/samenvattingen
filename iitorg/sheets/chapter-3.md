@@ -2,6 +2,9 @@
 
 > Hoofdstuk 20
 
+<!-- toc -->
+
+
 Elke organisatie heeft een levenscyclus. Greiner heeft bepaald dat er 6 fasen zijn die elke organisatie doormaakt. Elke fase word afgesloten met een crisis. Organisaties kunnen anticiperen en voorbereiden op de aankomende crisis.
 
 ![greiner](https://managementmodellensite.nl/webcontent/uploads/Greiner.jpg)

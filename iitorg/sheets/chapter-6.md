@@ -1,5 +1,8 @@
 #  Kosten, (prijs)strategieën, prijselasticiteit, winst
 
+<!-- toc -->
+
+
 ## Prijs
 Klant: datgene wat de klant betaalt om het product of dienst geleverd te krijgen
 Bedrijf: Datgene wat het bedrijf binnen krijgt aan omzet
@@ -61,7 +64,8 @@ $$
 Voorbeeld:
 Bij een prijs van E 5,- per stuk worden 10.000 stuks verkocht. Na een prijsverhoging tot E 5,50 worden nog slechts 7.000 stuks afgezet.
 
-$$PE = \frac{dV(\%)}{dP(\%)} = \frac{-30\%} {+10\%} = -3
+$$
+PE = \frac{dV(\%)}{dP(\%)} = \frac{-30\%} {+10\%} = -3
 $$
 
 Hoe hoog wordt de prijs als er 15.000 stuks verkocht moeten worden?
@@ -69,7 +73,8 @@ Hoe hoog wordt de prijs als er 15.000 stuks verkocht moeten worden?
 $$
 PE = -3 = \frac{dV(\%)}{dP(\%)} = \frac{+50\%}{dP(\%)} -> dP(\%) = \frac{+50\%}{-3} = -17\% 
 $$
-$$P = 5 * (1-0.17) = 5 * 0.83 = 4.15 Euro
+$$
+P = 5 * (1-0.17) = 5 * 0.83 = 4.15 Euro
 $$
 
 ## Kosten

@@ -2,7 +2,11 @@
 
 > Hoofstuk 15, hoofdstuk 19, hoofdstuk 20
 
+<!-- toc -->
+
+
 ## Valuechain of porter 
+
 Michael Porter ontwikkelde een belangrijk instrument voor het vinden van manieren om meer klantenwaarde te creëren. De valuechain splitst een bedrijf op in negen waardegenererende activiteiten.
 
 Primaire activiteiten:
@@ -20,8 +24,12 @@ Ondersteunende activiteiten:
 
 ![value chain of porter](https://www.strategischmarketingplan.com/wp-content/uploads/value-chain-porter.png)
 
-## Mintzberg
-Mintzberg heeft bepaald dat een organisatie bestaat uit verschillende onderdelen.
+## Mintzberg  
+
+Mintzberg heeft bepaald dat een organisatie bestaat uit verschillende onderdelen
+
+### Configuraties
+
 ![organisatie-onderdelen](https://managementmodellensite.nl/webcontent/uploads/organisatieeenhedenmintzberg.jpg)
 
  - De strategische top (het top-management).
@@ -31,6 +39,7 @@ Mintzberg heeft bepaald dat een organisatie bestaat uit verschillende onderdelen
  - De ondersteunende staf (administratie, finance, cafetaria).
 
 --- 
+
 Mintzberg heeft bepaald dat er 5 configuraties zijn van een organisatie. 
 - Ondernemersorganisatie 
 	- meeste macht bij de top
@@ -42,6 +51,7 @@ Mintzberg heeft bepaald dat er 5 configuraties zijn van een organisatie.
 ![ondernemersorganisatie](images/ondernemers-organisatie.png)
 
 ---
+
 - Machineorganisatie 
 	- routinematig
 	- sterke hierarchie en technostructuur
@@ -52,6 +62,7 @@ Mintzberg heeft bepaald dat er 5 configuraties zijn van een organisatie.
 ![machineorganisatie](images/machine-organisatie.png)
 
 ---
+
 - Professionele organisatie
 	- hoogopgeleid
 	- belangrijke rol zelfstandige proffessionals
@@ -60,6 +71,7 @@ Mintzberg heeft bepaald dat er 5 configuraties zijn van een organisatie.
 	- geoliede machine structuur
 
 ![professionele-organisatie](images/professionele-organisatie.png)
+
 ---
 
 - Innovatieve organisatie 
@@ -73,11 +85,13 @@ Mintzberg heeft bepaald dat er 5 configuraties zijn van een organisatie.
 
 
 ---
+
 - Gediversificeerde organisatie
   - binnen bedrijf onderverdeling naar producten of markten
   - belangrijke rol middenkader: aansturing van de divisies
 
 ---
+
 Een zendings organisatie staat ideologie voorop. Management staat dicht bij de uitvoering. Hierbij kan je denken aan WNF die dieren over heel de wereld helpt. Een politike organisatie draait het om macht. Dit zijn zowel politieke partijen als regeringen. 
 
 Elke onderdeel van een organisatie heeft zijn eigen belangen. 
