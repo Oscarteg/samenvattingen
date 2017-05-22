@@ -3,32 +3,32 @@
 ------
 
 * [Introductie organisatiekunde](iitorg/iitorg.md)
-    * [Organisatie,omgeving,leiderschap,cultuur](iitorg/sheets/chapter-1.md)
-    * [Valuechain,Mintzberg,contingentie,levenscyclus](iitorg/sheets/chapter-2.md)
-	* [Greiner:ontwikkelingvanorganisaties](iitorg/sheets/chapter-3.md)
-	* [Rechtsvormen,PMC,BCG,PLC,Leeflang,Copeland](iitorg/sheets/chapter-4.md)
-	* [Promotie,plaats,distributieenkanalen](iitorg/sheets/chapter-5.md)
-	* [Kosten,(prijs)strategieën,prijselasticiteit,winst](iitorg/sheets/chapter-6.md)
-	* [Personeel,Maslow,Herzberg,marketingmix/PLC](iitorg/sheets/chapter-7.md)
+    * [Organisatie,omgeving,leiderschap,cultuur](iitorg/chapter-1.md)
+    * [Valuechain,Mintzberg,contingentie,levenscyclus](iitorg/chapter-2.md)
+	* [Greiner:ontwikkelingvanorganisaties](iitorg/chapter-3.md)
+	* [Rechtsvormen,PMC,BCG,PLC,Leeflang,Copeland](iitorg/chapter-4.md)
+	* [Promotie,plaats,distributieenkanalen](iitorg/chapter-5.md)
+	* [Kosten,(prijs)strategieën,prijselasticiteit,winst](iitorg/chapter-6.md)
+	* [Personeel,Maslow,Herzberg,marketingmix/PLC](iitorg/chapter-7.md)
 ------
 
 * [Kwaliteit in de IT](iqua/iqua.md)
-	* [Introductie Kwaliteit](iqua/sheets/chapter-1.md)
-	* [Software Ontwikkelmethoden](iqua/sheets/chapter-2.md)
-	* [Kwaliteitsmodellen I](iqua/sheets/chapter-3.md)
-	* [Kwaliteitsmodellen II](iqua/sheets/chapter-4.md)
-	* [Projectmanagement](iqua/sheets/chapter-5.md)
-	* [Standaarden](iqua/sheets/chapter-6.md)
-	* [Auditing](iqua/sheets/chapter-7.md)
+	* [Introductie Kwaliteit](iqua/chapter-1.md)
+	* [Software Ontwikkelmethoden](iqua/chapter-2.md)
+	* [Kwaliteitsmodellen I](iqua/chapter-3.md)
+	* [Kwaliteitsmodellen II](iqua/chapter-4.md)
+	* [Projectmanagement](iqua/chapter-5.md)
+	* [Standaarden](iqua/chapter-6.md)
+	* [Auditing](iqua/chapter-7.md)
 
 ------
 
 * [Introduction to network security](isec/isec.md)
-	* [Security](isec/sheets/chapter-1.md)
-    * [Checking](isec/sheets/chapter-2.md)
-	* [Encryptie](isec/sheets/chapter-3.md)
-	* [VPN](isec/sheets/chapter-4.md)
-	* [Applicaties](isec/sheets/chapter-5.md)
+	* [Security](isec/chapter-1.md)
+    * [Checking](isec/chapter-2.md)
+	* [Encryptie](isec/chapter-3.md)
+	* [VPN](isec/chapter-4.md)
+	* [Applicaties](isec/chapter-5.md)
 
 ------
 
@@ -53,9 +53,9 @@
 <!-- Not taking this class anymore -->
 <!-- * [Kennismanagement](ikema/ikema.md)
 	* [Sheets]()
-		* [Wat is kennismanagement?](ikema/sheets/chapter-1.md)
-		* [Wie doet eraan en hoe?](ikema/sheets/chapter-2.md)
-		* [Analyseren ist-situatie](ikema/sheets/chapter-3.md)
-		* [Kennismanagement-instrumentarium](ikema/sheets/chapter-4.md)
-		* [Kennistechnologie](ikema/sheets/chapter-5.md)
-		* [KM-uitwerking & intellectueel kapitaal](ikema/sheets/chapter-6.md) -->
+		* [Wat is kennismanagement?](ikema/chapter-1.md)
+		* [Wie doet eraan en hoe?](ikema/chapter-2.md)
+		* [Analyseren ist-situatie](ikema/chapter-3.md)
+		* [Kennismanagement-instrumentarium](ikema/chapter-4.md)
+		* [Kennistechnologie](ikema/chapter-5.md)
+		* [KM-uitwerking & intellectueel kapitaal](ikema/chapter-6.md) -->

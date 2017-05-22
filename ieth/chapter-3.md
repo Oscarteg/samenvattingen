@@ -1,5 +1,7 @@
 # Hoofstuk 3 - Verantwoordelijkheid
 
+<!-- toc -->
+
 ## 3.1 Verantwoordelijkheis is overal
 
 Er is een belangrijk onderscheid bij het woord verantwoordelijkheid. Verantwoordelijkheid kan betekenen:

@@ -1,5 +1,7 @@
 # Hoofdstuk 1 - Moraal een kwestie van oordelen
 
+<!-- toc -->
+
 ## 1.1 Moreel oordeel
 Als een **moreel oordeel** is een oordeel dat gaat over gedrag van mensen en hoe ze met elkaar omgaan. In een moreel oordeel spreek je uit wat je behoorlijk vindt van jezelf en van anderen. Je geeft aan hoe je verwacht dat die ander met jou of anderen om zou moeten gaan. Wanneer een moreel oordeel vanzelf komt, noem je dat een **intuïtief moreel oordeel**. Je oordeelt dus automatisch, net zoals fietsen en auto rijden automatisch gaan. Je denkt er niet over na voordat je het doet. Vaak besef je niet dat je een moreel oordeel uitspreekt. Als de ander het niet met je eens is, word het wel vaak duidelijk. Er ontstaat dan een gesprek of een discussie. Je word dus aan het denken gezet. Is dit wel het juiste wat ik vind? Om te kunnen begrijpen wat er gebeurt als je intuïtieve more oordeel plotseling bewust wordt, maken we een onderscheid tussen drie verschillende processen die zich in je bewust zijn afspelen:
 

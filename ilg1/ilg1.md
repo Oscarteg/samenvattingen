@@ -1,5 +1,8 @@
 # Logica
 
+<!-- Not going to finish this, I passed the class -->
+
+
 Leerdoelen:
 - De student kan na (gunstige) afloop van deze module
 - Aangeven wat wel/niet een propositie is.

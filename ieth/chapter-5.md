@@ -1,5 +1,8 @@
 # Hoofdstuk 5 Rechten.
 
+<!-- toc -->
+
+
 ## 5.1 Rechten, een speciaal soort normen.
 
 Rechten die de norm inhouden dat anderen iets moeten nalaten, zich niet moeten bemoeien, noemen wij *vrijheidsrechten*. Ze beschermen de vrijheden van de mensen. Rechten die de norm inhouden dat anderen iets moeten doen, een inspanning plegen, noemen wij *sociale rechten*. Deze beschermen de mogelijkheden van de mensen. De totale definitie van een recht: *Een recht is een norm die stelt dat anderen iets moeten doen of laten met als doel een bepaalde vrijheid van een individu te garanderen. Een recht is zo geformuleerd dat het resultaat, de vrijheid van het individu, centraal staat. Een recht verplicht anderen.

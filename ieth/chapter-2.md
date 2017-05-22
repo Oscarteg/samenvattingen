@@ -1,5 +1,7 @@
 # Hoofdstuk 2 - Normen, waarden en deugden
 
+<!-- toc -->
+
 ## 2.1 Normen
 
 Een *norm* is een argument in de vorm van een regel waar je je aan moet houden. Bijvoorbeeld:' Ik maak die opdracht af want dat heb ik beloofd, en wat je beloofd moet je doen. Hierbij wordt echt aangegeven dat je je aan je beloftes moet houden. Dit is dat ook een norm; aan je beloftes houden. Als het nou een regel is over hoe mensen met elkaar om moeten gaan, spreek je van een morele norm. Morele normen zijn dus regels aangaande goed samenleven. Deze *gedragsregels* onderscheiden zich van andere regels zoals verkeersregels. Dit omdat wij onze normen zelf aangeven en de verkeersregels worden ons opgelegd. Normen kunnen geformuleerd worden in de vorm van *wetten*. In Nederland is een aantal morele regels in de wet vastgelegd. Bijvoorbeeld dat je niet mag discrimineren. Een ander belangrijk document waarin veel morele regels voor handelen in staan is de *Universele Verklaring van de Rechten van de Mens*. Op deze regels staan geen sancties. Het verschil tussen wetten en morele normen is dat wetten expliciet geformuleerd zijn, terwijl morele normen heel vaak impliciet blijven in ons gedrag. Ze worden niet uitgesproken.

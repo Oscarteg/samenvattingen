@@ -1,4 +1,6 @@
 # Hoofdstuk 7. Integriteit en morele competentie.
+<!-- toc -->
+
 > Een integer persoon is iemand die in staat is moreel gedrag te tonen.
 
 ## 7.1 Wat is nodig voor moreel gedrag.

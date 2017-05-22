@@ -1,5 +1,7 @@
 # Hoofdstuk 4 Vrijheid.
 
+<!-- toc -->
+
 ## 4.1 Zelfbeschikking zonder dwang.
 Er zijn twee aspecten aan vrijheid. Het feit dat vrijheid zo belangrijks is dat haast een levensvoorwaarde is, én het feit dat vrijheid van de één de vrijheid van de ander kan schaden. Voor iedereen heeft vrijheid een andere betekenis. Bijvoorbeeld dat je kan gaan en staan waar je zelf wilt, maar ook je mening verkondigen of je bij een vereniging aansluiten. Als deze vormen van vrijheid worden door het woord *zelfbeschikking* weergeven. Om de vrijheid tot zelfbeschikking te beschermen heeft iedere burger dan ook een zelfbeschikkingsrecht. Ieder mens heeft de vrijheid om zelf te beschikken hoe ze hun eigen leven vormgeven. Maar hoever gaat dit zelfbeschikkingsrecht? Inbreken bij iemand op grond van het zelfbeschikkingsrecht mag niet. Het zelfbeschikkingsrecht wordt dus ingeperkt door het verbod anderen schade aan te brengen. Deze inperking van ieders vrijheid noem we het *schadebeginsel*.
 
