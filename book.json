@@ -1,5 +1,5 @@
 {
-    "plugins": ["katex", "atoc"],
+    "plugins": ["katex", "atoc", "-sharing"],
 	"pluginsConfig": {
 		"atoc": {
 			"addClass": true,

@@ -1,4 +1,4 @@
-#  Kosten, (prijs)strategieën, prijselasticiteit, winst
+# Kosten, (prijs)strategieën, prijselasticiteit, winst
 
 <!-- toc -->
 
@@ -27,6 +27,7 @@ Bedrijf: Datgene wat het bedrijf binnen krijgt aan omzet
 | Penetratie pricing |  |
 
 #### Actief prijsbeleid
+
 ##### Skim pricing  
 
 ![skim-pricing](http://www.witiger.com/marketing/skimming.jpg)
@@ -34,28 +35,36 @@ Bedrijf: Datgene wat het bedrijf binnen krijgt aan omzet
 Het beetje bij beetje verlagen van de prijs om zodoende de markt af te romen. Ook wel de kaasschaafmethode genoemd. Deze methode kan alleen worden toegepast in een monopolie-positie
 
 ##### Stay-Out pricing
+
 Stay out betekent ‘blijf weg'. Door de bestaande aanbieders op de markt worden de prijzen zo laag gehouden dat het voor nieuwkomers niet interessant is te investeren om zich op deze markt te begeven.
 
 ##### Put-Out pricing
+
 Put out betekent ‘druk weg'. Een op de concurrentie gerichte prijsstrategie, waarbij de marktleider zijn prijs -tijdelijk- sterk verlaagt om kleinere concurrenten uit de markt te dwingen.
 
 ##### Prijsdifferentiatie
+
 Van prijsdifferentiatie is sprake als dezelfde leverancier op basis van onderhandelingen verschillende prijzen vraagt aan verschillende klanten. Bijvoorbeeld als een fabrikant van diervoedsel voor zijn producten aan supermarkten een lagere prijs vraagt dan aan dierenwinkels en dat bijvoorbeeld verpakt als kwantumkorting.
 
 ##### Prijsdiscriminatie
+
 Van prijsdiscriminatie is sprake als dezelfde leverancier verschillende prijzen vraagt op verschillende markten op grond van uiteenlopende afzetsituaties. Voorwaarde hiervoor is dat de markten gescheiden zijn, zodat de goederen niet via een omweg van de ene markt naar de andere stromen..
 
 ##### Penetratie pricing
+
 Penetratiepricing is een techniek waarbij een prijs wordt gevraagd die (ver) beneden die van de concurrenten ligt. Voordelen zijn het snel verhogen van de omzet alsook het verkrijgen van naamsbekendheid en marktaandeel.
 
 ### Passief prijsbeleid
+
 #### Kartel
 Een economisch kartel is een overeenkomst tussen bedrijven die bedoeld is om de onderlinge concurrentie te verminderen.
 
 #### Me-Too pricing
+
 Met name bij oligopolie (enkele grote spelers op de markt) probeert men prijsconflicten te vermijden. Er vindt dan non-price competition plaats. De prijzen tussen de verschillende leveranciers verschillen weinig tot niets.
 
 ### Prijselasticiteit
+
 $$
 prijselasticiteit = \frac{\Delta Vraag (in \% )}{\Delta Prijs (in \%)}
 $$

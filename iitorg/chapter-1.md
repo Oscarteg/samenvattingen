@@ -53,7 +53,7 @@ De indeling van de organisatie kan op verschillende manieren:
 
 > Wie macht heeft, is in staat om het gedrag van anderen te sturen.
 
-Wie heeft de 'macht in een organisatie'
+Wie heeft de 'macht in een organisatie'?
 
 - Hiërarchische macht
 - Kennis, toegang tot informatie
@@ -69,7 +69,6 @@ Politiek
 
 > Reden: “Eigenbelang”
 
-
 ## Redenen van hiërarchie en coördinatie
 - Directe supervisie
 - Onderlinge afstemming
@@ -82,9 +81,8 @@ Politiek
 - Regels en procedures
 - Planning en controle van planning
 
-
 ## Cirkel van falen
- <!-- Insert image of failure -->
+![Cirkel van falen](images/cirkelvanfalen.png)
 
 ## Cirkel van succes
 ![Cirkel van succes](images/cirkelvansucces.jpg)
@@ -114,5 +112,4 @@ Hofstede heeft 5 dimensies bedacht die als graadmeter dienen voor culturele vers
 
 Bijvoorbeeld: 
 
-
-
+<!-- TODO Voorbeeld noemen -->

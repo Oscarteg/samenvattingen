@@ -41,60 +41,74 @@ Mintzberg heeft bepaald dat een organisatie bestaat uit verschillende onderdelen
 --- 
 
 Mintzberg heeft bepaald dat er 5 configuraties zijn van een organisatie. 
-- Ondernemersorganisatie 
-	- meeste macht bij de top
-	- weinig regels en procedures 
-	- weinig staf, plaate informele organisatie 
-	- familiecultuur
-	- informatie loopt vooral van en naar de top
+#### Ondernemersorganisatie 
+
+- meeste macht bij de top
+- weinig regels en procedures 
+- weinig staf, plaate informele organisatie 
+- familiecultuur
+- informatie loopt vooral van en naar de top
 
 ![ondernemersorganisatie](images/ondernemers-organisatie.png)
 
 ---
 
-- Machineorganisatie 
-	- routinematig
-	- sterke hierarchie en technostructuur
-	- veel regels en procedures
-	- stabiele omgeving
-	- piramide cultuur
+#### Machineorganisatie 
+
+- routinematig
+- sterke hierarchie en technostructuur
+- veel regels en procedures
+- stabiele omgeving
+- piramide cultuur
 
 ![machineorganisatie](images/machine-organisatie.png)
 
 ---
 
-- Professionele organisatie
-	- hoogopgeleid
-	- belangrijke rol zelfstandige proffessionals
-	- grote ondersteunende staf
-	- technostructuur is beperkt. regels komen vaak van buitenaf
-	- geoliede machine structuur
+#### Professionele organisatie
+
+- hoogopgeleid
+- belangrijke rol zelfstandige proffessionals
+- grote ondersteunende staf
+- technostructuur is beperkt. regels komen vaak van buitenaf
+- geoliede machine structuur
 
 ![professionele-organisatie](images/professionele-organisatie.png)
 
 ---
 
-- Innovatieve organisatie 
-	- jong flexibel
-	- projectmatig werken
-	- onduidelijke taakverdeling
-	- veel onzekerheid en politiek
-	- medewerkers hebben vaan laptops met allerlei ‘freeware’
+#### Innovatieve organisatie 
+	
+- jong flexibel
+- projectmatig werken
+- onduidelijke taakverdeling
+- veel onzekerheid en politiek
+- medewerkers hebben vaan laptops met allerlei ‘freeware’
 
- ![innovatieve-organisatie](images/innovatieve-organisatie.png)
+![innovatieve-organisatie](images/innovatieve-organisatie.png)
 
-
----
-
-- Gediversificeerde organisatie
-  - binnen bedrijf onderverdeling naar producten of markten
-  - belangrijke rol middenkader: aansturing van de divisies
 
 ---
 
-Een zendings organisatie staat ideologie voorop. Management staat dicht bij de uitvoering. Hierbij kan je denken aan WNF die dieren over heel de wereld helpt. Een politike organisatie draait het om macht. Dit zijn zowel politieke partijen als regeringen. 
+#### Gediversificeerde organisatie
+
+
+![gedivisionaliseerde organisatie](images/gedivisionaliseerde-organisatie.png)
+
+- binnen bedrijf onderverdeling naar producten of markten
+- belangrijke rol middenkader: aansturing van de divisies
+
+---
+
+#### Kenmerken
+
+![organisatie kenmerken](images/organisatie-kenmerken.png)
+
+#### Componenten en hun belangen
 
 Elke onderdeel van een organisatie heeft zijn eigen belangen. 
+
+![mintzberg belangen](http://www.lindsay-sherwin.co.uk/guide_managing_change/images/mintzberg_3by.gif)
 
 - *De strategische top* wilt graag centralizeren. Het belang ligt erbij om de organisatie zoveel mogelijk samen te voegen en optimaal overzicht te houden.
 - *Support* wilt graag de samenwerking bevorderen intern en met externe belanghebbenden. 
@@ -102,6 +116,15 @@ Elke onderdeel van een organisatie heeft zijn eigen belangen.
 - *De opererende kern*  wilt graag professionalisering. Het steeds beter realiseren van dagelijkse werkzaamheden.
 - *Lijn management* streeft ernaar om te balkaniseren. Ze streven ernaar om verschillende groepen te plezieren. 
 
->Contingentietheorie: Het gedrag van de medewerkers uit zich op een bepaalde manier en dat wordt bijv. ervaren als stimulerend of juist demotiverend. Dit gedrag is het gevolg van wat er in de organisatie is gebeurd. Het staat dus niet op zichzelf.
+> Contingentietheorie: Het gedrag van de medewerkers uit zich op een bepaalde manier en dat wordt bijv. ervaren als stimulerend of juist demotiverend. Dit gedrag is het gevolg van wat er in de organisatie is gebeurd. Het staat dus niet op zichzelf.
+
+
+### Zendings- en politieke organisatie
+
+Een zendings organisatie staat ideologie voorop. Management staat dicht bij de uitvoering. Hierbij kan je denken aan WNF die dieren over heel de wereld helpt. Een politike organisatie draait het om macht. Dit zijn zowel politieke partijen als regeringen. 
+
+
+
+### Levenscyclus van organisatie
 
 ![levenscyclus-organisatie](images/levenscyclus-organisatie.png)

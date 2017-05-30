@@ -82,7 +82,7 @@ $$
 	- Productkenmerken
 	- Productvoordelen
 	- Oplossing van het probleem van de klant
-- **T**egenwerpingen/
+- **T**egenwerpingen
 	- Luisteren
 	- Onjuiste beweringen weerleggen
 	- onderhandelen
