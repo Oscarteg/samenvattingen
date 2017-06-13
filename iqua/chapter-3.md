@@ -1,4 +1,5 @@
 
+<!-- toc -->
 
 # Proces
 > Standaard aanpak om iets te doen/maken, gedocumenteerd of herhaalbaar gedrag/aanpak. 
@@ -11,15 +12,16 @@ Een ‘proces’ wordt nog te weinig gezien als een aanwinst (zoals producten of
 
 
 ## Soorten processen
+
 ![Soorten processen](images/soorten-processen.jpg)
 
-#### Besturende processen
+### Besturende processen
 Besturende- of managementprocessen omvatten alle acitviteiten betreffende het plannen, controleren, evalueren en bijsturen. In een procesgerichte organisatie vindt besturen op strategisch, tactisch en operationeel niveau plaats. Daarnaast onderscheiden we nog de besturen van de procesontwikkeling zelf. Dit soort besturende processen worden verbeterprocessen genoemd.
 
-#### Primaire processen
+### Primaire processen
 Primaraire processe (ook kern- of operationele processen genoemd) beschrijven de dienstverlening of het productieproces. Primaire processen lopen van klant tot klant. Voor een productiebedrijf zijn dat: productontwerp, productontwikkeling, de productie zelf en de logistieke distributiefunctie. Voor dienstverlenend bedrijf: intake, behandeling en nazorg.
 
-#### Onderstudende processen
+### Onderstudende processen
 Ondersteunende processen zijn ondersteunend aan de primaire processen (uiteraard ook aan de besturingsprocessen zelf). Resultaat zijn mensen en middelen zoals informatie, faciliteiten en financien.
 
 ![Soorten processen](images/processen-soorten.jpg)
@@ -170,7 +172,7 @@ van hun processen?
 
 Er zijn 3 klassen voor de striktheid waarop het niveau van procesverbetering wordt beoordeeld A, B en C. Daaruit volgt een lijst met conclusies, aanbevelingen en een rating over de volwassenheid van de organisatie.
 
-### CCMI wel of niet?
+## CCMI wel of niet?
 - Kan samengaan met software ontwikkelmethodieken.
 - Draagt bij aan de voorspelbaarheid, consistentie en herhaalbaarheid van processen.
 - Niet het wiel opnieuw hoeven uitvinden
@@ -214,16 +216,17 @@ De aanwezigheid van ongelijkheden binnen een proces heet mura. Een voorbeeld is 
 
 # Six Sigma
 
-> Meten is weten
+> Processen kun je pas goed beheersen als je weet hoe elk proces verloopt en om dat te weten moet er gemeten worden: “meten is weten”. Dit is de basis van Six Sigma.
 
 <!-- TODO verbeteren en aanvullen -->
-Opdatagebaseerdekwaliteit-en procesverbeteringsmethode middels:
+Op data gebaseerde kwaliteit- en procesverbeteringsmethode middels:
+
 – Vermindering van variaties
-– Verwijdering van restanten en ‘dingen overdoen’ 
+– Verwijdering van restanten en ‘dingen overdoen’
 – Optimalisatie van proces
 – Procesbeheersing
 
-Eenbeheersbaarprocesis: 
+Een beheersbaar proces is:     
 – Stabiel
 – Accuraat
 – Voorspelbaar
