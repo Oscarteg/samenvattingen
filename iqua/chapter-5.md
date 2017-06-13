@@ -71,7 +71,6 @@ DMAIC staat voor Define, Measure, Analyze, Improve and Control en is een methode
 | Improve | Ideevorming, verbeteren, pilots draaien: Brainstorms, Uitvoeringsplan                                                  |
 | Control | Borgen in organisatie: controle zodat toekomstige afwijkingen niet plaats vinden en toezicht op blijvende verbetering  |
 
-
 ![Lean Six Sigma DMAIC](images/lean-six-sigma-dmaic.png)
 
 ## Define
@@ -97,7 +96,28 @@ Een probleem definitie zou antwoord moeten geven op de volgende vragen:
 - Is het probleem te groot gedefineerd?
 - Bevat de eerste probleemdefinitie aannames en haastige conclusies?
 
-Een Project Charter
+Een project charter is de eerste stap bij alle kwaliteit methodieken, bij Lean en vooral bij Six Sigma. Het project charter definieert alle interacties van het project en de stappen voor een succesvolle afronding van het project. Het vindt plaats in de Define stap van de DMAIC, en het charter is essentieel voor een succesvol project. Een goed project charter zorgt voor succes door het definiëren van de nodige middelen, mensen en scope van het project, en een slecht projectcharter kan teamfocus, effectiviteit en motivatie verminderen.
+
+- Project heeft een goed gedefinieerde:
+	- Baseline = minimum
+	- Goal = doelstelling
+	- Entitlement = beste ooit behaald
+- Voeg meetwaarden toe
+- Bestaande KPI's gebruiken indien aanwezig
+- Herzien wanneer dat nodig is
+
+
+## Measure
+
+
+## Analyse
+
+
+## Improve
+
+
+## Controle
+
 
 
 
