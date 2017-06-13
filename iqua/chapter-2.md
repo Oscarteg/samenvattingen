@@ -101,6 +101,21 @@ Risico's verminderen door:
 
 > Definition of Done: alleen dingen op de checklist die echt klaar zijn worden opgeleverd. (functionaliteit en kwaliteit)
 
+Aantal puntjes van SCRUM:
+
+- Heeft geen stuurgroep
+- Werkt met sprints (agile)
+- Daily scrum meetings
+- Scrum master heeft de leiding
+- Op het einde sprint review
+- Als het nog niet af is, nieuwe sprint met het werk wat niet af is.
+- Burndown/up charts
+- Product owner is verantwoordelijk voor het product backlog
+- Spring backlog is alles wat je gaat maken in een sprint
+- Definition of Done (wanneer is iets echt klaar)
+
+> Definition of Done: Alleen dinge op de checklist die echt klaar zijn worden opgeleverd.
+
 ### Extreme programming
 > Een humanistische discipline van software-ontwikkeling, gebaseerd op de beginselen van eenvoud, communicatie, feedback, en moed.
 

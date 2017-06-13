@@ -12,9 +12,6 @@
 
 # Lean
 
-
-
-
 ## Tools van Lean
 
 ### House of Lean

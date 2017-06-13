@@ -2,13 +2,11 @@
 <!-- toc -->
 
 # Proces
-> Standaard aanpak om iets te doen/maken, gedocumenteerd of herhaalbaar gedrag/aanpak. 
 
-Combinatie van mensen, middelen, materialen, methoden en omgeving die voor bepaalde output zorgt (product, dienst).
-
-> Kwaliteit van product komt voort uit kwaliteit van proces
-
-Een ‘proces’ wordt nog te weinig gezien als een aanwinst (zoals producten of mensen/resources of eigendom van bedrijf)
+- Standaard aanpak om iets te doen/maken, gedocumenteerd of herhaalbaar gedrag/aanpak. 
+- Combinatie van mensen, middelen, materialen, methoden en omgeving die voor bepaalde output zorgt (product, dienst).
+- Kwaliteit van product komt voort uit kwaliteit van proces
+- Een ‘proces’ wordt nog te weinig gezien als een aanwinst (zoals producten of mensen/resources of eigendom van bedrijf)
 
 
 ## Soorten processen
@@ -26,14 +24,13 @@ Ondersteunende processen zijn ondersteunend aan de primaire processen (uiteraard
 
 ![Soorten processen](images/processen-soorten.jpg)
 
-# Waarom een kwaliteits model?
-
-> Standaard manier voor bepalen en meten kwaliteit. 
-
-## Wat heb je nodig als je wilt weten wat de kwaliteit van een proces ?
-Informatie over het proces
-- Van welke kwaliteit zijn de resultaten van het proces?
-- Welke kwaliteit zouden de resultaten **moeten hebben**?
+# Continious Proces Improvement
+- Waarom een kwaliteits model?
+	- Standaard manier voor bepalen en meten kwaliteit. 
+- Wat heb je nodig als je wilt weten wat de kwaliteit van een proces ?
+	-Informatie over het proces
+		- Van welke kwaliteit zijn de resultaten van het proces?
+		- Welke kwaliteit zouden de resultaten **moeten hebben**?
 - Wat is de kwaliteit van veranderingen en verbeteringen?
 - Hoe zorgen we voor **Continuous Improvement**?
 
@@ -56,7 +53,7 @@ Bijstellen aan de hand van de resultaten uit voorgaande activiteit.
 
 ![INK model](images/ink-model.jpg)
 
-Het INK model geeft schematisch de tien belangrijkste aspecten van een organisatie in hun onderlinge verband weer. Om goed sturing te kunnen geven aan de organisatie dient het management aandacht te besteden aan elk van de 10 aandachtsgebieden.
+Het INK model is een evaluatie tool dat schematisch weergeeft de tien belangrijkste aspecten van een organisatie in hun onderlinge verband weer. Om goed sturing te kunnen geven aan de organisatie dient het management aandacht te besteden aan elk van de 10 aandachtsgebieden.
 
 **Kenmerken**
  - Leiderschap met lef
@@ -83,6 +80,8 @@ In de vijf organisatiegebieden, de linker helft van het model, wordt weergeven h
 De vier resultaatsgebieden (de rechter helft van het model) geven weer wat de beoogde of bereikte resultaten zijn van de organisatie. De gedachte hierbij is dat een organisatie altijd resultaten bereikt voor een bepaalde doelgroep. Dat kunnen zijn: klanten, leveranciers en samenwerkingspartners, de eigen medewerkers, de maatschappij, het bestuur en de financiers (bijv. de overheid) van de organisatie. 
 
 Het INK stelt in welk mate wil de organisatie tegemoet komen aan de wensen/verwachtingen/behoefte van de verschillende doelgroepen.
+
+## Fasen
 
 Het INK model word in 5 fasen onderscheiden
 1. Activiteit georiënteerd
@@ -140,7 +139,10 @@ De kwaliteit van het (te ontwikkelen) software systeem wordt sterk beïnvloed do
 Capability Maturity Model Integration (CMMI) geeft aan op welk niveau softwareontwikkeling van een organisatie zit. Je kun het ook de volwassenheid van de organisatie noemen. Ontwikkeld voor 3 branches. Development, Acquisition, Service
 
 
-Verschillende niveau's:
+## Maturity levels
+
+CMMI heeft verschillende niveau's van maturity:
+
 1. Initial (Initieel)
 	- Ad hoc probleemoplossen
 	- Onbekend welke hulpmiddelen voor resultaat
@@ -159,18 +161,12 @@ Verschillende niveau's:
 5. Optimized (Geoptimaliseerd)
 	- Verbeterpunten en actieplannen worden uitgewerkt en uitgevoerd
 
+## Aandachtspunten
+
 Aandachtspunten van CMMI zijn:
 - Vaststellen op welk niveau een organisatie zich bevind. Met goede leiding kan de organisatie naar een hoger niveau.	
 - Er kan geen niveau worden overgeslagen
 - Meeste ondernemingen op niveau 3
-
-## SCAMPI
-Standaardmethodeomhetniveauvan procesverbetering te evalueren en vaststellen:
-
-> Hoe goed is deze organisatie in het verbeteren
-van hun processen?
-
-Er zijn 3 klassen voor de striktheid waarop het niveau van procesverbetering wordt beoordeeld A, B en C. Daaruit volgt een lijst met conclusies, aanbevelingen en een rating over de volwassenheid van de organisatie.
 
 ## CCMI wel of niet?
 - Kan samengaan met software ontwikkelmethodieken.
@@ -180,14 +176,23 @@ Er zijn 3 klassen voor de striktheid waarop het niveau van procesverbetering wor
 - Veel voorwaarden aan documentatie
 - Geschikt voor grote organisaties
 
+# SCAMPI
+Standaardmethodeomhetniveauvan procesverbetering te evalueren en vaststellen:
+
+> Hoe goed is deze organisatie in het verbeteren
+van hun processen?
+
+Er zijn 3 klassen voor de striktheid waarop het niveau van procesverbetering wordt beoordeeld A, B en C. Daaruit volgt een lijst met conclusies, aanbevelingen en een rating over de volwassenheid van de organisatie.
+
 # LEAN
 
 LEAN is een business strategie en een manier van werken waarbij alles en iedereen in de onderneming zich richt op het creeren van waarde voor de klant in alle processen. Verspillingen worden geelimineerd. Doordat de klant centraal staat creeer je maximale toegevoegde waarden voor de klant tegen minimale inspanning.
 
-
 > Een Lean bedrijf is zich bewust van haar omgeving en wil niet alleen voor de klanten, maar ook voor de maatschappij waarde toevoegen.
 
-Iedereactiviteitdiedevormoffunctievaneen product of dienst aanpast, creëert de waarde. Lean richt zich op het verwijderen van verspilling zoals afval, overschotten, restanten om kosten te besparen: remove non-value adding activities
+> Lean richt op het verlagen van de kosten
+
+Iedere activiteit die de vorm of functie van een product of dienst aanpast, creëert de waarde. Lean richt zich op het verwijderen van verspilling zoals afval, overschotten, restanten om kosten te besparen: "remove non-value adding activities"
 
 ## Muri
 Er is sprake van **muri** wanneer er boven de capiciteit van een persoon of machine geproduceerd moet worden, oftewel **overbelasting**. 
@@ -230,4 +235,3 @@ Een beheersbaar proces is:
 – Stabiel
 – Accuraat
 – Voorspelbaar
-
