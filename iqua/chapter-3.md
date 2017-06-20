@@ -126,8 +126,6 @@ De IMWR cyclus is nodig om de PDCA cyclus draaiend te krijgen. Elke stap uit de 
 | Risk management                | Risico's. Risicoplanning en Identificatie, Risicoanalyse zowel kwalitatief als kwantitatief. Reactie's op risico's (acties)                                                      |
 | Procuremanagement              | Inkoop. Aankoop en Inhuurplan, Reacties van verkopers en selectie. Contract administratie en contractafsluiting                                                                  |
 
-Tijdens een project doorloopt het projectbeheer een periodieke cyclus van projectinitiatie, planning, uitvoering, controle & bijsturing en projectafsluiting. Een project dient volgens PMBOK te worden benaderd vanuit 10 verschillende aandachtsgebieden:
-
 # CMMI
 
 ![CMMI](images/cmmi.png)
@@ -198,7 +196,7 @@ Iedere activiteit die de vorm of functie van een product of dienst aanpast, cree
 Er is sprake van **muri** wanneer er boven de capiciteit van een persoon of machine geproduceerd moet worden, oftewel **overbelasting**. 
 
 ## Muda
-Met **muda** wordt elke activiteit bedoeld die beslag legt op resources maar geen waarde toevoegt voor de klant, oftewel **verspilling**. Er zijn 3 sorten groepen activiteiten;
+Met **muda** wordt elke activiteit bedoeld die beslag legt op resources maar geen waarde toevoegt voor de klant, oftewel **verspilling**. Er zijn 3 soorten groepen activiteiten;
 - waardetoevoegende activiteiten. Die moeten behouden worden.
 - niet-waardetoevoegende activiteiten. Die echter wel nodig zijn om aan externe en interne eisen te voldoen. Denk hierbij aan wet- en regelgeving en intern beleid. Die moeten verminderd worden.
 - verspillingen. Die moeten geëlimineerd worden. 
