@@ -39,8 +39,8 @@
 
 ------
 
-* [Ethiek](ieths/ieth.md)
-	* [Moraal een kwestie van oordelen](ieth/chapter-1.md)
+* [Ethiek](ieth/ieth.md)
+    * [Moraal een kwestie van oordelen](ieth/chapter-1.md)
     * [Normen, waarden en deugden](ieth/chapter-2.md)
     * [Verantwoordelijkheid](ieth/chapter-3.md)
     * [Vrijheid](ieth/chapter-4.md)

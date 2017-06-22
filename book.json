@@ -1,9 +1,12 @@
 {
-    "plugins": ["katex", "atoc", "-sharing"],
-	"pluginsConfig": {
-		"atoc": {
-			"addClass": true,
-			"className": "atoc"
-		}
-	}
+    "plugins": ["katex", "-sharing", "expand-active-chapter", "etoc-plus"],
+      "pluginsConfig": {
+    "etoc-plus": {
+      "mindepth": 3,
+      "maxdepth": 4,
+      "notoc": false,
+      "header": 1,
+      "translit": false
+    }
+  }
 }

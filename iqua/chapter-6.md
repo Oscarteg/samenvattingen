@@ -1,5 +1,7 @@
 # Prince 2 
 
+<!-- toc -->
+
  > **Pr**ojects **IN** **C**ontrolled **E**nvironments
 
 ![All PRINCE2 components](images/prince2-components.gif)
