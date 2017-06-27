@@ -1,4 +1,9 @@
-# Auditing
+
+<!-- toc -->
+
+
+
+# Auditing  
 
 > Audit is geven van een oordeel door middel van toetsing aan een norm
 
@@ -78,7 +83,8 @@ Bij COBIT vallen de activiteiten binnen 4 domeinen:
 	* Word er optimaal gebruik gemaakt van de middelen?
 	* Begrijpt iedereen in de organisatie de IT doelen?
 	* Worden de IT risico's begrepen en beheerd?
-	* Is de kwaliteit van IT systemen geschikt voor de bedrijfsbenodigheden?* Acquire and Implement -- Om de IT strategy te realiseren moeten IT oplossingen worden geïdentificeerd, ontwikkeld en verworven, maar ook geïmplementeerd en geïntegreerd in het bedrijfsproces. Veranderingen en onderhoud bij bestaande systemen hoort ook bij dit domein. 
+	* Is de kwaliteit van IT systemen geschikt voor de bedrijfsbenodigheden?
+* Acquire and Implement -- Om de IT strategy te realiseren moeten IT oplossingen worden geïdentificeerd, ontwikkeld en verworven, maar ook geïmplementeerd en geïntegreerd in het bedrijfsproces. Veranderingen en onderhoud bij bestaande systemen hoort ook bij dit domein. 
 	* Passen de oplossingen van de projecten bij behoeftes van het bedrijf?
 	* Worden de nieuwe projecten opgeleverd binnen de afgesproken tijd en budget?
 	* Werken de nieuwe systemen naar behoren wanneer geïmplementeerd?
@@ -87,7 +93,8 @@ Bij COBIT vallen de activiteiten binnen 4 domeinen:
 	* Zijn de geleverde IT services in lijn met de bedrijfs prioriteiten?
 	* Zijn de IT kosten geoptimaliseerd?
 	* Kunnen de IT systemen productief en veilig gebruikt worden door de werkgroep?
-	* Zijn passende vertrouwlijkheid, integriteit en beschikbaarheid op zijn plaats?* Monitor and Evaluate -- Alle IT processen moeten regelmatig worden geëvalueerd over de kwaliteit en de meegaandheid met control vereisten. Dit domein betreft prestatie management, toezicht houden op interne controles, naleving van regelgeving en verstrekken van bestuur.
+	* Zijn passende vertrouwlijkheid, integriteit en beschikbaarheid op zijn plaats?
+* Monitor and Evaluate -- Alle IT processen moeten regelmatig worden geëvalueerd over de kwaliteit en de meegaandheid met control vereisten. Dit domein betreft prestatie management, toezicht houden op interne controles, naleving van regelgeving en verstrekken van bestuur.
 	* Worden IT prestaties gemeten om problemen te detecteren?
 	* Zorgt management ervoor dat interne controles effectief en efficient zijn?
 	* Kan IT performance worden terug gelinked naar bedrijfs doelen?

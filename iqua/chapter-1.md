@@ -13,7 +13,6 @@
 **T**est **M**anage **Approach** oftewel **TMap** is een testmethode voor software. 
 
 ### Fasering
-
 TMap kent verschillende fasen waarin de testwerkzaamheden worden uitgevoerd.. et voorbereiden en specificeren van de testcases wordt gelijktijdig met het ontwerp- en ontwikkelwerk gedaan. Tegen de tijd dat een (deel)product dan eenmaal wordt opgeleverd hoeft het testen en goedkeuren niet veel tijd in beslag te nemen. De acceptatiecriteria en testcases zijn immers van tevoren vastgelegd. De gehanteerde fasen zijn;
 
 - Planning en beheer (master testplan word geschreven)
