@@ -1,5 +1,14 @@
 # Introductie organisatiekunde
 
+## Literatuur
+
+![It management voor het HBO: Organisatie](http://static.webshopapp.com/shops/019644/files/005256418/it-management-voor-het-hbo-organisatie.jpg)
+
+- Titel: IT management voor het HBO: Organisatie
+- Auteur: Remco Meisner
+- ISBN: 978-90-70808-27-3
+
+
 Het vak IITORG word gegeven op de Hogeschool Leiden door Remco Meisner. Het vak is *Inleiding ogrganisatiekunde*. Na het volgen van dit vak kan de student het volgende:
 
 - verschillende bedrijfskundige modellen uitleggen, verklaren en toepassen
