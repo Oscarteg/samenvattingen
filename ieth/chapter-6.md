@@ -4,14 +4,14 @@
 
 In dit hoofdstuk wordt er een onderscheid gemaakt tussen drie verschillende aspecten van rechtvaardigheid: rechtvaardige behandeling, rechtvaardige verdeling en rechtvaardige procedures.
 
-## 6.1 Rechtvaardige behandeling.
+## Rechtvaardige behandeling.
 Rechtvaardigheid heeft alles te maken met gelijkwaardigheid van mensen. Bij rechtvaardigheid gaat het dan om gelijkheid binnen een structuur waarin macht een rol speelt. Bijvoorbeeld de Nederlandse wet, de organisatie voor wie je werkt en je gezin. Voor al deze structuren geldt: mensen dienen gelijk behandeld te worden en gelijke kansen te hebben. Dit is ook vastgelegd in de Nederlandse Grondwet. Rechtvaardige behandeling betekent in eerste instantie recht doen aan deze fundamentele gelijkwaardigheid van mensen. Nu hoeft niet iedereen precies hetzelfde worden behandeld maar er moet wel een duidelijke reden om mensen verschillend te behandelen. Mensen kunnen dus verschillend worden behandeld maar dat het wel rechtvaardig is. Denk hieraan bijvoorbeeld aan onderlinge afspraken tussen werknemers en werkgevers.
 Je hebt drie voorwaarden van rechtvaardige behandeling:
 1. mensen zijn gelijkwaardig aan elkaar en het is dus slecht om mensen ongelijk te behandelen.
 2. het erkennen van grondrechten.
 3. het erkennen van specifieke rechten.
 
-## 6.2 Rechtvaardige verdeling.
+## Rechtvaardige verdeling.
 Het begrip rechtvaardigheid komt ook naar voren als er dingen verdeeld moeten worden. Denk hierbij aan materiële zaken (geld en goederen) en aan immateriële zaken (kansen en mogelijkheden). Bij rechtvaardige verdeling gaat het om de vraag in hoeverre de ongelijkheid tussen mensen gevolgen heeft voor het verdelen van de zaken.  
 Voorbeelden van manieren om iets te verdelen:
 - 'wie 't eerst komt, wie 't eerst maalt'.
@@ -29,7 +29,7 @@ De ongelijkheid van mensen kan echter ook van dien aard zijn, dat je zaken echt 
 2. verdeling naar verdienste. > De verdienste of prestatie van iemand op een bepaald terrein, levert een gerechtvaardige claim op bij een verdeling.
 3. verdeling naar behoefte. > Hierbij staat de mens als ontvanger centraal; sommige mensen ontvangen meer dan andere om in hun behoeften te voorzien. VB: kinderbijslagstelsel.
 
-## 6.3 Rechtvaardige procedures.
+## Rechtvaardige procedures.
 Een rechtvaardige procedure wil zeggen een procedure waarin op een goede wijze een besluit tot stand is gekomen. De manier waarop wordt besloten kan in twee aspecten variëren:
 1. Heeft iedereen inspraak die inspraak behoort te hebben?
 2. Is de juiste informatie gebruikt?

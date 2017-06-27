@@ -3,7 +3,7 @@
 
 > Een integer persoon is iemand die in staat is moreel gedrag te tonen.
 
-## 7.1 Wat is nodig voor moreel gedrag.
+## Wat is nodig voor moreel gedrag.
 Als je beseft dat er moreel iets aan de hand is, heb je *morele intuitie*. Als je in staat bent om iemand goed te woord te staan en diegene te overtuigen heb je de vaardigheid van morele oordeelsvorming. *Morele oordeelsvorming* betekent dat je in staat bent bij jezelf na te gaan wat de doorslaggevende reden is waarom je een oordeel hebt én dat je in staat bent deze morele redenen in de vorm van argumenten onder woorden te brengen. *Morele moed* is nodig om je overtuiging in gedrag om te zetten. Het is de karaktereigenschap die ertoe leidt dat je doorzet als het moeilijk wordt.
 
 | Voorwaarde                                                                                                                                         | Vraag voor jezelf                                                                            | Benodigde vaardigheden                               |
@@ -15,7 +15,7 @@ Als je beseft dat er moreel iets aan de hand is, heb je *morele intuitie*. Als j
 Aan alle drie de voorwaarden moet gewerkt worden, wil er sprake zijn van verbetering van de morele competentie. Deze drie voorwaarden moet je toepassen als je moreel verantwoord gedrag wilt tonen.
 
 
-## 7.2 Wat is nodig voor integriteit.
+## Wat is nodig voor integriteit.
 Een ander woord voor integriteit is morele zelfsturing. Hiermee wordt bedoeld dat mensen kritisch nadenken over hun morele verplichtingen en hun morele keuzes, dat mensen zich daarnaar gedragen en dat mensen daarop aanspreekbaar zijn. Morele zelfsturing betekent dat je nadenkt vanuit een moreel gezichtspunt, over wat je doet. En je daarnaar gedraagt. Wat moet je kunnen en wat moet je doen om tot morele zelfsturing te komen? We bespreken drie vaardigheden die morele zelfsturing vormen, te weten identificatie van verplichtingen, het balanceren tussen verschillende verplichtingen en het beschermen van de eigen moraal.
 ***Identificatie van verplichtingen:***  
 Integere professionals herkennen een morele verplichting als die aan de orde is. Een docent snapt dat als de beamer in een lokaal kapot is, dat hij dat even door moet geven. Dit is een voorbeeld van een situatie waarin een beroepsbeoefenaar herkent dat een morele verplichting voor hem of haar geldt. Ze accepteren deze ook.

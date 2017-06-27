@@ -2,12 +2,12 @@
 
 <!-- toc -->
 
-## 4.1 Zelfbeschikking zonder dwang.
+## Zelfbeschikking zonder dwang.
 Er zijn twee aspecten aan vrijheid. Het feit dat vrijheid zo belangrijks is dat haast een levensvoorwaarde is, én het feit dat vrijheid van de één de vrijheid van de ander kan schaden. Voor iedereen heeft vrijheid een andere betekenis. Bijvoorbeeld dat je kan gaan en staan waar je zelf wilt, maar ook je mening verkondigen of je bij een vereniging aansluiten. Als deze vormen van vrijheid worden door het woord *zelfbeschikking* weergeven. Om de vrijheid tot zelfbeschikking te beschermen heeft iedere burger dan ook een zelfbeschikkingsrecht. Ieder mens heeft de vrijheid om zelf te beschikken hoe ze hun eigen leven vormgeven. Maar hoever gaat dit zelfbeschikkingsrecht? Inbreken bij iemand op grond van het zelfbeschikkingsrecht mag niet. Het zelfbeschikkingsrecht wordt dus ingeperkt door het verbod anderen schade aan te brengen. Deze inperking van ieders vrijheid noem we het *schadebeginsel*.
 
-## 4.2 Vrijheid van en vrijheid tot.
+## Vrijheid van en vrijheid tot.
 Vrijheid van is het achterwege blijven van bemoeienis van een ander met je leven. Een voorbeeld is bijvoorbeeld dat als jij graag naar het buitenland wilt en je hebt geldige papieren, dat de autoriteiten je niet tegen mogen houden. Ook hebben mensen rechten om hun vrijheid te beschermen. De rechten die vrijheid van beschermen, worden *klassieke vrijheidsrechten* genoemd. Vrijheid van is weliswaar een groot goed, maar soms kun je er weinig mee als je de juiste middelen niet hebt. Voor het daadwerkelijk gebruikmaken van je vrijheid heb je de vrijheid tot. Vrijheid tot wil zeggen dag de gemeenschap, een overheid, de verplichting heeft een bijdrage te leveren om ieders vrijheid te helpen realiseren. Ook voor vrijheid tot geldt dat deze door rechten worden beschermd. Deze rechten worden ook wel *sociale rechten* genoemd.
 Het belang van het hebben van vrijheidsrechten en sociale rechten is internationaal onderkend en is uitgedrukt in de Universele Verklaring van de Rechten van de Mens.
 
-## 4.3 Vrijheid als verantwoordelijkheid.
+## Vrijheid als verantwoordelijkheid.
 Filosofen hebben vrijheid gekoppeld aan je verantwoordelijkheid. In de vorige eeuw benadrukte de Franse filosoof Jean- Paul Sartre (1905- 1980) dat mensen vrije wezens zijn, die het leven dat ze leiden per definitie zelf kiezen. Jezelf verontschuldigen voor een handeling, dat wil zeggen geen verantwoordelijkheid nemen voor wat je doet, noemt Sartre *kwader trouw*. Het is de ontkenning van het wezen van je menselijkheid: dat je altijd vrij en dus verantwoordelijk bent. Er is nooit een excuus buiten jezelf, je hebt het altijd zelf gedaan.
