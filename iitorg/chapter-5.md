@@ -107,7 +107,42 @@ Selling In
 Selling Out
 - Het typische verkopen aan de volgende schakel in de bedrijfskolom. Nadruk ligt op verkooptechnieken.
 
+
+
+## Plaats
+
+- De plaats in de valuechain
+- De fysieke of virtuele locatie waar de goederen worden
+aangeboden
+- De organisatie van de goederenstroom
+
 ![value-geldstroom](images/value-geldstroom.png)
 
+### Plaats integratie
+> Er worden een of meer schakels uit de waardeketen weggenomen, doordat ergens iemand er wat bij pakt. Daardoor ontstaat voor deze 'erbijpakkende partij' ruimte en kan hij het het geld, dat eerst door een ander in de keten werd verdiend, zelf benutten. Hij krijgt er natuurlijk wel werkzaamheden en verantwoordelijkheden bij. Zijn assortiment wordt groter (vanwege de extra werkzaamheden). Er kan voorwaartse of achterwaartse uitschakeling plaatsvinden. Voorwaarts is met de goederenstroom meebewegend erbij pakken. Achterwaarts is in omgekeerde richting.
 
+![plaats integratie](images/plaats-integratie.png)
+
+### Plaats differentatie
+> Er ontstaan nieuwe schakels in de waardeketen, die zich specialiseren en waarbij nieuwe markten worden aangeboord.
+![plaats differentatie](images/plaats-differentatie.png)
+
+### Plaats specialisatie
+> Bij specialisatie worden producten samengevoegd. Daarbij treedt dus een beperking op van het assortiment.
+
+![plaats specialisatie](images/plaats-specialisatie.png)
+
+### Plaats paralellisatie (productontwikkeling)
+> Producten worden gesplitst. Uitbreiding van assortiment
+![plaats parallelisatie](images/plaats-parallelisatie.png)
+
+
+## Distributie
 > Distributie overbrugt plaats- tijd en hoeveelheidsverschillen tussen producent en afnemer.
+
+## Kanaalstructuren
+
+> Kanaalstructuren beschrijven de manier waarop een fabrikant of verkopend bedrijf producten en diensten bij de klant aflevert.
+
+
+

@@ -162,3 +162,22 @@ Een product is:
 
 - Uitvaartpolis
 - Verzekeringen
+
+## Productensamenhang
+- Substitutie goederen 
+- Indifferente goederen 
+- Complementaire goederen
+
+## Producten naar inkomen
+- Inferieure producten is een goed waarvan de consument minder gaat kopen als zijn inkomen stijgt en waarvan hij meer gaat kopen als zijn inkomen daalt 
+- Noodzakelijke producten 
+- Luxe producten zijn goederen die niet direct in de eerste levensbehoefte van de consument voorzien, maar waaraan de consument wel een zeker nut onttrekt.
+
+## Merk
+Een merk is een naam, beeld, symbool om het product te onderscheiden van concurrerende producten.
+
+## Trading up
+Toevoeging aan het assortiment van een of meer producten met een hoger gewaardeerde prijs/ kwaliteitverhouding
+
+## Trading down
+Toevoeging aan het assortiment van een of meer producten met een lager gewaardeerde prijs/ kwaliteitverhouding

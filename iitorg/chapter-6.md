@@ -2,12 +2,12 @@
 
 <!-- toc -->
 
+## Prijs
+> Klant: datgene wat de klant betaalt om het product of dienst geleverd te krijgen
 
-# Prijs
-Klant: datgene wat de klant betaalt om het product of dienst geleverd te krijgen
-Bedrijf: Datgene wat het bedrijf binnen krijgt aan omzet
+> Bedrijf: Datgene wat het bedrijf binnen krijgt aan omzet
 
-## Functies van "prijs"
+### Functies van "prijs"
 - Rantsoeneringsfunctie
 	- Consument kan niet alles kopen.
 - Evenwicht
@@ -15,7 +15,7 @@ Bedrijf: Datgene wat het bedrijf binnen krijgt aan omzet
 - Vergelijkingsmaatstaaf
 	- Producten met een hogere prijs worden in het algemeen door de consument beoordeeld als “beter” of “betrouwbaarder”.
 
-## Prijsstrategieën 
+### Prijsstrategieën 
 
 | Actief prijsbeleid | Passief prijsbeleid |
 | --------------------- | ------------------------- |
@@ -26,44 +26,44 @@ Bedrijf: Datgene wat het bedrijf binnen krijgt aan omzet
 | Prijsdicriminatie |  |
 | Penetratie pricing |  |
 
-### Actief prijsbeleid
+#### Actief prijsbeleid
 
-#### Skim pricing  
+##### Skim pricing  
 
 ![skim-pricing](http://www.witiger.com/marketing/skimming.jpg)
 
 Het beetje bij beetje verlagen van de prijs om zodoende de markt af te romen. Ook wel de kaasschaafmethode genoemd. Deze methode kan alleen worden toegepast in een monopolie-positie
 
-#### Stay-Out pricing
+##### Stay-Out pricing
 
 Stay out betekent ‘blijf weg'. Door de bestaande aanbieders op de markt worden de prijzen zo laag gehouden dat het voor nieuwkomers niet interessant is te investeren om zich op deze markt te begeven.
 
-#### Put-Out pricing
+##### Put-Out pricing
 
 Put out betekent ‘druk weg'. Een op de concurrentie gerichte prijsstrategie, waarbij de marktleider zijn prijs -tijdelijk- sterk verlaagt om kleinere concurrenten uit de markt te dwingen.
 
-#### Prijsdifferentiatie
+##### Prijsdifferentiatie
 
 Van prijsdifferentiatie is sprake als dezelfde leverancier op basis van onderhandelingen verschillende prijzen vraagt aan verschillende klanten. Bijvoorbeeld als een fabrikant van diervoedsel voor zijn producten aan supermarkten een lagere prijs vraagt dan aan dierenwinkels en dat bijvoorbeeld verpakt als kwantumkorting.
 
-#### Prijsdiscriminatie
+##### Prijsdiscriminatie
 
 Van prijsdiscriminatie is sprake als dezelfde leverancier verschillende prijzen vraagt op verschillende markten op grond van uiteenlopende afzetsituaties. Voorwaarde hiervoor is dat de markten gescheiden zijn, zodat de goederen niet via een omweg van de ene markt naar de andere stromen..
 
-#### Penetratie pricing
+##### Penetratie pricing
 
 Penetratiepricing is een techniek waarbij een prijs wordt gevraagd die (ver) beneden die van de concurrenten ligt. Voordelen zijn het snel verhogen van de omzet alsook het verkrijgen van naamsbekendheid en marktaandeel.
 
-## Passief prijsbeleid
+### Passief prijsbeleid
 
-### Kartel
+#### Kartel
 Een economisch kartel is een overeenkomst tussen bedrijven die bedoeld is om de onderlinge concurrentie te verminderen.
 
-### Me-Too pricing
+#### Me-Too pricing
 
 Met name bij oligopolie (enkele grote spelers op de markt) probeert men prijsconflicten te vermijden. Er vindt dan non-price competition plaats. De prijzen tussen de verschillende leveranciers verschillen weinig tot niets.
 
-## Prijselasticiteit
+### Prijselasticiteit
 
 $$
 prijselasticiteit = \frac{\Delta Vraag (in \% )}{\Delta Prijs (in \%)}
@@ -86,7 +86,7 @@ $$
 P = 5 * (1-0.17) = 5 * 0.83 = 4.15 Euro
 $$
 
-# Kosten
+## Kosten
 > **Vaste kosten** zijn kosten die NIET reageren op een verandering in de hoeveelheid bedrijfsactiviteiten
 
 > **Variabele kosten** zijn kosten die DIRECT reageren op de verandering in de hoeveelheid bedrijfsactiviteiten
@@ -99,7 +99,7 @@ Van **directe kosten** kan zondermeer gezegd worden voor welk product zij zijn g
 
 ![kosten](images/kosten.png)
 
-# Integrale kostprijs
+## Integrale kostprijs
 $$
 Kostprijs = \frac{C}{N}+\frac{Vn}{N}
 $$

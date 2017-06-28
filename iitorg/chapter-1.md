@@ -109,6 +109,3 @@ Hofstede heeft 5 dimensies bedacht die als graadmeter dienen voor culturele vers
 - **Onzekerheidsvermijding**: organisaties die zekerheden heel belangrijk vinden en niet goed om kunnen gaan met het onverwachte (onzekerheidsvermijding) versus organisaties die veranderingen en het onverwachte volkomen normaal vinden en die daarmee heel goed overweg kunnen (onzekerheidaccepterend).
 - **Lange termijn vs. korte termijn**: organisaties die het focus leggen op termijnen van vele jaren of decennia, zoals vaker in bijv. Japan en China aangetroffen wordt (lange termijn) versus organisaties die slechts kort vooruitkijken, bijv. enkele aanden, zoals je dat vaker in bijv. Europa en Noordamerika aantreft.
 
-Bijvoorbeeld: 
-
-<!-- TODO Voorbeeld noemen -->
