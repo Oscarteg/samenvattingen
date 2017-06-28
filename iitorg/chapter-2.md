@@ -123,7 +123,14 @@ Elke onderdeel van een organisatie heeft zijn eigen belangen.
 
 Een zendings organisatie staat ideologie voorop. Management staat dicht bij de uitvoering. Hierbij kan je denken aan WNF die dieren over heel de wereld helpt. Een politike organisatie draait het om macht. Dit zijn zowel politieke partijen als regeringen. 
 
+# Contigentietheorie
+Het gedrag van de medewerkers uit zich op een bepaalde manier en dat wordt bijv. ervaren als stimulerend of juist demotiverend. Dit gedrag is het gevolg van wat er in de organisatie is gebeurd. Het staat dus niet op zichzelf.
 
+Voor informatievoorziening zijn de belangrijkste factoren:
+– de structuur van het bedrijf
+– de cultuur van het bedrijf
+– het belang van IT voor het bedrijf
+– de fase waarin het gebruik van IT zich bevindt – de automatiseringserfenis
 
 ### Levenscyclus van organisatie
 

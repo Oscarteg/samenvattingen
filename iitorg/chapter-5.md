@@ -86,6 +86,10 @@ $$
 	- Luisteren
 	- Onjuiste beweringen weerleggen
 	- onderhandelen
+- **I**nstemming
+	- de koop is gesloten, je maakt een koopbon of een koopcontract,
+	- de koop is nog niet gesloten, eerst is meer informatie nodig
+	- er wordt geen instemming bereikt, zo nodig wordt een afspraak gemaakt en het gesprek wordt afgesloten
 - **O**rder 
 	- De kooptransactie vindt plaats 
 
