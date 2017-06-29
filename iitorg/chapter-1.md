@@ -2,9 +2,10 @@
 
 > Hoofdstuk 3, hoofstuk 6, hoofdstuk 9, hoofstuk 12, hoofdstuk 16, hoofstuk 17, hoofstuk 18
 
+<!-- toc -->
 
-## Missie & visie
-
+## Organisatie, Missie & visie
+### Organisatie
 Organisatie is een groep mensen die met technische en financiele middelen activiteiten uitvoeren om een gemeenschappelijk doel te realiseren.
 
 Een aantal "eigenschappen" van een organisatie zijn:
@@ -16,12 +17,15 @@ Een aantal "eigenschappen" van een organisatie zijn:
 
 Zowel profit en non profit organisaties zijn organisaties. Een ZZP-bedrijf is ook een non profit organisatie.
 
+### Missie
 De missie van de organisatie beschrijft de maatschappelijke behoefte waar de organisatie in voorziet. 
  - Wie zijn we?
  - Wat doen we?
  - Wie zijn onze klanten?
  - In welke behoeften van klanten voorzien onze producten?
 
+
+### Visie
 Naast de missie is er ook de visie. Die valt te typeren als "visie = missie + principes". Principes hebben betrekking op de normen en waarden van de organisatie bijvoorbeeld:  
  - De kwaliteit komt eerst.
  - De klant komt eerst.
