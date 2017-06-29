@@ -111,8 +111,6 @@ Selling In
 Selling Out
 - Het typische verkopen aan de volgende schakel in de bedrijfskolom. Nadruk ligt op verkooptechnieken.
 
-
-
 ## Plaats
 
 - De plaats in de valuechain
@@ -148,5 +146,15 @@ aangeboden
 
 > Kanaalstructuren beschrijven de manier waarop een fabrikant of verkopend bedrijf producten en diensten bij de klant aflevert.
 
+## Agenten
+Agenten zijn een manier om contacten te verminderen en 1 centraal contact te hebben voor de medewerker.
 
+Voordelen
+- Minder contacten
+- Gezamenlijke in- of verkoopacties 
+
+Nadelen
+- Afhankelijkheid
+- Gebrek aan controle en transparantie 
+- Geen contact met producent of klant
 
