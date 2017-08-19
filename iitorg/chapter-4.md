@@ -58,7 +58,7 @@ Het model illustreert dat een product/dienst een bepaalde ontwikkeling probeert 
 
 ## Product Life Cycle
 
-![product-life-cycle](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Product_life-cycle_curve.jpg/613px-Product_life-cycle_curve.jpg)
+![product-life-cycle](https://sehlhorst.smugmug.com/Other/blog/product-life-cycle3/132613762_mj4Rf-O-1.png)
 
 Een product maakt de volgende fase door:
 - development

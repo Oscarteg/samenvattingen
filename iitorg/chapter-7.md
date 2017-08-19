@@ -1,5 +1,7 @@
 # Personeel, Maslow, Herzberg, marketingmix, vijfkrachtenmodel
 
+<!-- toc -->
+
 ## Ontwikkeling van Leiderschap
 - Directief Leiderschap
 - Team Mangement

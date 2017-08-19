@@ -21,10 +21,10 @@
 | --------------------- | ------------------------- |
 | Skim pricing | Kartelvorming |
 | Stay-Out pricing | Me-Too pricing |
-| Put-Out pricing |  |
-| Prijsdifferentiatie |  |
-| Prijsdicriminatie |  |
-| Penetratie pricing |  |
+| Put-Out pricing |  
+| Prijsdifferentiatie |  
+| Prijsdicriminatie |  
+| Penetratie pricing |  
 
 #### Actief prijsbeleid
 
