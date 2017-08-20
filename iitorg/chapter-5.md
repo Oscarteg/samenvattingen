@@ -14,13 +14,17 @@ Onder promotie vallen onder andere:
 > Reclame is overredende commerciele communicatie over producten en organisaties waarbij tegen betaling gebruik wordt gemaakt van massamedia en waarvan het doel is de kennis en attitude en waar mogelijk het gedrag van de doelgroep in een voor de adverteerder gunstige richting te beinvloeden.
 
 Een aantal reclame technieken zijn:
-- Herhaling 
-- Groepsgeest
-- Associatie
-- Slogans
-- Teasing 
-- Buzzen 
-- Virals
+- Herhaling: Om te zorgen dat hun product of merk goed herkend wordt, gebruiken veel reclamemakers herhaling. Een goed voorbeeld hiervan zijn de herhalingen binnen hetzelfde reclameblok. De hoeveelheid herhaling wordt vaak als reclamedruk omschreven.
+- Groepsgeest: Door te impliceren dat al veel mensen het product gebruiken, spelen de reclamemakers zowel in op het gevoel 'erbij te willen horen', als op de vermeende risicoreductie die hiervan uit gaat.
+- Getuigenissen: Om de superieure kwaliteit van hun product aan te tonen, gebruiken reclamemakers verklaringen van gewone gebruikers, experts of allebei. Ook worden hiervoor bekende personen gebruikt. In het reclamejargon wordt hiervoor de Engelse term testimonials gebruikt.
+- Actiegeoriënteerd: Door mensen onder druk zetten om snel te kiezen zonder al te veel bedenktijd hopen reclamemakers impulsaankopen te genereren.
+- Associatie: Reclamemakers proberen hun product te associëren met aangename of begeerlijke dingen (bijvoorbeeld bij erotisatie) om hun eigen product even begerig te maken. Hiervoor gebruiken ze modellen, landschappen en ander vergelijkbaar beeldmateriaal.
+- Slogans: faciliteert de herinnering aan het aanbod.
+- Cognitieve stijl: Techniek om mensen op een of meerdere van hun mentale denkstijlen aan te spreken: logisch; pragmatisch; emotioneel of creatief.
+- Aspirationele leeftijd: Door de boodschap te richten op de aspirationele leeftijd van de doelgroep, wordt deze voor de daadwerkelijke doelgroep aantrekkelijker.
+- Teasing: Een techniek waarbij de reclamemakers de nieuwsgierigheid van de consument willen prikkelen, vaak door het geven van een voorproefje: ze doen de consument gissen of verlangen naar het eigenlijke product dat achter de advertentie zit. Deze techniek werkt vaak met symbolen. De teaser is extra effectief als deze tot nadenken aanzet.
+- Buzzen: Door een zogenaamde buzzer een artikel te laten uitproberen, kan deze in zijn omgeving voor mond-tot-mond-reclame zorgen. Zeker bij nieuwe artikelen kan dit snel voor goede naamsbekendheid zorgen.
+- Virals: Een relatief nieuwe techniek waarbij het doel is dat de consument via e-mail de reclameboodschap doorstuurt. Dit kan bijvoorbeeld een grappig filmpje, webspelletje of een prijsvraag zijn. In het laatste geval is doorsturen vaak een vereiste om kans op de prijzen te maken.
 - Narrowcasting
 
 > **PR** is het bevorderen van het begrip tussen de organisatie en de publieksgroepen. Daartoe wordt gebruikgemaakt van interne en externe communicatie om een bepaald publiek te informeren of te beïnvloeden met behulp van tekst, advertenties, publiciteit, promoties en speciale gebeurtenissen.
