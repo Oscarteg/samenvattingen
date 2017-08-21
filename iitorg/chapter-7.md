@@ -13,6 +13,12 @@
 
 ![managementstijlen](images/managementstijlen.png)
 
+- Country club:  De stijl van de gezelligheidsverenigingen met veel aandacht voor het welzijn van de medewerker en nauwelijks aandacht voor productie.
+- Team management: Teamleiderschap, waarbij door middel van een goede sfeer en samenwerking binnen de groep een hoge efficiency wordt nagestreefd.
+- Middle of the road:  Met een in het diagram evenwichtig verdeelde aandacht voor zowel de productie als de mens.
+- Autocraat: Dit is een zeer productiegerichte stijl waar nauwelijks sprake is van aandacht voor de mens. Hier is sprake van taakgericht leiderschap.
+- Laissez-Faire: Deze stijl wordt gekenmerkt door een zeer geringe aandacht voor zowel de groepstaak als de menselijke aspecten van het werk.
+
 ## Piramide van Maslow
 ![piramide-van-maslow](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Piramide_van_Maslow.png/400px-Piramide_van_Maslow.png)
 
