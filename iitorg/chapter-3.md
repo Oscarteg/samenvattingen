@@ -70,4 +70,14 @@ Door eenzijdige nadruk op resultaten voelen mensen zich een nummer en ontstaat e
 
 ## Vierfasen model van Hardjono
 
+Het model van Hardjono word gebruikt om de huidige organisatie te analyseren en vast te stellen wat de organisatorische controlepunten zijn en welke interventies gepleegd moeten worden in lijn met de strategie.
+
+
+Er zijn van 4 verschillende cirkels. Van binnen naar buiten zijn dit:
+- Materieel
+- Commercieel
+- Sociaal
+- Intellectueel
+
+
 ![vierfasen-hardjono](http://www.quinnassociation.com/userfiles/Image/schemas/hfdst-1-1.png)
