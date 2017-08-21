@@ -48,7 +48,15 @@ De vijf belangrijkste hygiënefactoren zijn:
 - werkomstandigheden
 - salaris, loon e.d.
 
-**Motivatie** is intrinsiek gelegen in je taken, dus in de werkzaamheden die je verricht.
-**Demotivatie** vindt voornamelijk plaats door de omgeving daaromheen.
+> **Motivatie** is intrinsiek gelegen in je taken, dus in de werkzaamheden die je verricht.
+
+> **Demotivatie** vindt voornamelijk plaats door de omgeving daaromheen.
 
 ![herzberg](http://www.leaufort.nl/wp-content/uploads/2012/01/Motivatietheorie-van-Herzberg-web.jpg)
+
+## Michael Porter: vijfkrachtenmodel
+
+Het vijfkrachtenmodel van Porter is een instrument, aan de hand waarvan de volledige bedrijfstak, waarin het bedrijf zich bevind, kan worden geanalyseerd. Er wordt een onderverdeling gemaakt in verschillende bedrijfstakgroepen. per groep kan gekeken worden in welke mate zij invloed hebben op het bedrijf. 
+
+
+
