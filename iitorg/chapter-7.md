@@ -13,6 +13,12 @@
 
 ![managementstijlen](images/managementstijlen.png)
 
+- Country club:  De stijl van de gezelligheidsverenigingen met veel aandacht voor het welzijn van de medewerker en nauwelijks aandacht voor productie.
+- Team management: Teamleiderschap, waarbij door middel van een goede sfeer en samenwerking binnen de groep een hoge efficiency wordt nagestreefd.
+- Middle of the road:  Met een in het diagram evenwichtig verdeelde aandacht voor zowel de productie als de mens.
+- Autocraat: Dit is een zeer productiegerichte stijl waar nauwelijks sprake is van aandacht voor de mens. Hier is sprake van taakgericht leiderschap.
+- Laissez-Faire: Deze stijl wordt gekenmerkt door een zeer geringe aandacht voor zowel de groepstaak als de menselijke aspecten van het werk.
+
 ## Piramide van Maslow
 ![piramide-van-maslow](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Piramide_van_Maslow.png/400px-Piramide_van_Maslow.png)
 
@@ -42,7 +48,15 @@ De vijf belangrijkste hygiënefactoren zijn:
 - werkomstandigheden
 - salaris, loon e.d.
 
-**Motivatie** is intrinsiek gelegen in je taken, dus in de werkzaamheden die je verricht.
-**Demotivatie** vindt voornamelijk plaats door de omgeving daaromheen.
+> **Motivatie** is intrinsiek gelegen in je taken, dus in de werkzaamheden die je verricht.
+
+> **Demotivatie** vindt voornamelijk plaats door de omgeving daaromheen.
 
 ![herzberg](http://www.leaufort.nl/wp-content/uploads/2012/01/Motivatietheorie-van-Herzberg-web.jpg)
+
+## Michael Porter: vijfkrachtenmodel
+
+Het vijfkrachtenmodel van Porter is een instrument, aan de hand waarvan de volledige bedrijfstak, waarin het bedrijf zich bevind, kan worden geanalyseerd. Er wordt een onderverdeling gemaakt in verschillende bedrijfstakgroepen. per groep kan gekeken worden in welke mate zij invloed hebben op het bedrijf. 
+
+
+

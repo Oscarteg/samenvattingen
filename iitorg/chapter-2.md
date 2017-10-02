@@ -83,7 +83,7 @@ Mintzberg heeft bepaald dat er 5 configuraties zijn van een organisatie.
 - projectmatig werken
 - onduidelijke taakverdeling
 - veel onzekerheid en politiek
-- medewerkers hebben vaan laptops met allerlei ‘freeware’
+- medewerkers hebben vaak laptops met allerlei ‘freeware’
 
 ![innovatieve-organisatie](images/innovatieve-organisatie.png)
 

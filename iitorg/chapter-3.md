@@ -70,4 +70,27 @@ Door eenzijdige nadruk op resultaten voelen mensen zich een nummer en ontstaat e
 
 ## Vierfasen model van Hardjono
 
+Het model van Hardjono word gebruikt om de huidige organisatie te analyseren en vast te stellen wat de organisatorische controlepunten zijn en welke interventies gepleegd moeten worden in lijn met de strategie.
+
+
+Er zijn van 4 verschillende cirkels. Van binnen naar buiten zijn dit:
+- Materieel
+- Commercieel
+- Sociaal
+- Intellectueel
+
+Organisaties kunnen hun doelstellingen bereiken door te kiezen voor een bepaalde oriëntatie: intern of extern, en control (beheersing) of verandering. Het is niet mogelijk alle oriëntaties tegelijk evenveel aandacht te geven, maar combinaties van niet-tegengestelde oriëntaties zijn wel mogelijk.  Zo ontstaan vier mogelijke strategische keuzes:
+
+- Innovatie
+- Markt
+- Productie
+- Lean
+
+In het ideale geval zou een organisatie doelstellingen hanteren voor alle vier de keuzes: effectiviteit, efficiency, flexibiliteit en creativiteit. Organisatie-ontwikkeling kenmerkt zich echter juist door het feit dat gedurende een bepaalde tijd de nadruk ligt op één van de vier keuzes en de overige drie minder aandacht krijgen. Er is volgens Hardjono bovendien een ideale volgorde van die vier keuzes die ontwikkelingsfasen vormen (vandaar de benaming ‘vierfasenmodel’):
+
+- Het idee (_innovatie_)
+- Vermarkten (_markt_)
+- Organisatie (_productie_)
+- Herorientatie (_lean_)
+
 ![vierfasen-hardjono](http://www.quinnassociation.com/userfiles/Image/schemas/hfdst-1-1.png)
