@@ -50,6 +50,15 @@
 
 ------
 
+* [Minor](minor/minor.md)
+  * [Filosofie](minor/filosofie/filosofie.md)
+    * [Ethiek](minor/filosofie/ethiek.md)
+  * [Wereldreligies](minor/wereldreligies/wereldreligies.md)
+    * [Jodendom](minor/wereldreligies/jodendom.md)
+    * [Christendom](minor/wereldreligies/christendom.md)
+
+------
+
 <!-- Not taking this class anymore -->
 <!-- * [Kennismanagement](ikema/ikema.md)
 	* [Sheets]()
