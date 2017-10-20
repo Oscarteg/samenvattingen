@@ -2,6 +2,19 @@
 
 ------
 
+* [Minor](minor/minor.md)
+  * [Filosofie](minor/filosofie/filosofie.md)
+    * [Ethiek](minor/filosofie/ethiek.md)
+  * [Wereldreligies](minor/wereldreligies/wereldreligies.md)
+    * [Fenomenologie](minor/wereldreligies/fenomenologie.md)
+    * [Jodendom](minor/wereldreligies/jodendom.md)
+    * [Christendom](minor/wereldreligies/christendom.md)
+    * [Islam](minor/wereldreligies/islam.md)
+    * [Antieke religies](minor/wereldreligies/antieke-religies.md)
+    
+
+------
+
 * [Introductie organisatiekunde](iitorg/iitorg.md)
     * [Organisatie,omgeving,leiderschap,cultuur](iitorg/chapter-1.md)
     * [Valuechain,Mintzberg,contingentie,levenscyclus](iitorg/chapter-2.md)
@@ -10,6 +23,7 @@
 	* [Promotie,plaats,distributieenkanalen](iitorg/chapter-5.md)
 	* [Kosten,(prijs)strategieën,prijselasticiteit,winst](iitorg/chapter-6.md)
 	* [Personeel,Maslow,Herzberg,marketingmix/PLC](iitorg/chapter-7.md)
+
 ------
 
 * [Kwaliteit in de IT](iqua/iqua.md)
@@ -47,15 +61,6 @@
     * [Rechten](ieth/chapter-5.md)
     * [Rechtvaardigheid](ieth/chapter-6.md)
     * [Integriteit en morele competentie](ieth/chapter-7.md)
-
-------
-
-* [Minor](minor/minor.md)
-  * [Filosofie](minor/filosofie/filosofie.md)
-    * [Ethiek](minor/filosofie/ethiek.md)
-  * [Wereldreligies](minor/wereldreligies/wereldreligies.md)
-    * [Jodendom](minor/wereldreligies/jodendom.md)
-    * [Christendom](minor/wereldreligies/christendom.md)
 
 ------
 

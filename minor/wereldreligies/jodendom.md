@@ -1,5 +1,7 @@
 # Jodendom
 
+<!-- toc -->
+
 ## Geschiedenis
 
 ### Godsdienst van het boek
@@ -70,62 +72,52 @@ De Torah word voorgelezen op de Biema (verhoging waar de eerste 5 boeken van de 
 
 
 
+## Vragen  
 
+1.  Waarom is het jaar 586/7 v. Chr. een belangrijk keerpunt in de Joodse geschiedenis?
+2.  Welke rol speelde de Tempel?
+3.  Waarom is het systeem van synagogen ontstaan?
+4.  Wat is Chanoeka?
+5.  Wat is de oorsprong van het rabbijnse jodendom?
+6.  Welke historische gebeurtenis draagt bij aan de diaspora, de verspreiding?
 
+Stromingen van het jodendom
+7.  Wat zijn Sefardische en Asjkenazische joden?
+8.  Wat is een belangrijk verschil tussen orthodoxe en reform (liberale) joden?
+9.  Wat zijn chassidiem en wat is het chassidisme?
 
+Ontwikkelingen in het jodendom
+10. Wie was Maimonides en wat is zijn verdienste?
+11. Wat is de kabbala en wat is het belangrijkste boek in deze stroming?
 
-## Vragen
-- Wie was de eerste aartsvader en in welk boek staat hij beschreven?
-  - Abraham was de eerste aartsvader. In de Tenach staat die beschreven.
-- Hoe is volgens de Joodse traditie de naam Israël ontstaan?
-  - Is de tweede naam van de aartsvader Jacob die God hem had gegeven
-- Welke rol had Mozes in het Jodendom?
-  - Schrijver van de Thora en leider van de Israelieten door de woestijn tot aan Kanaan
-- Waarover gaat het boek Exodus?
-  - Vertelt het verhaal van het vertrek van het Israelitische volk uit Egypte naar het beloofde Land
-  - Het begint met de zin "Dit zijn de namen van de zonen van Israel ..."
-- Wat  zijn de 10 geboden?
-  - In het joods 10 woorden niet 10 geboden
-  1. Ik ben de eeuwige, uw God, die uit het land Egypte, uit het diensthuis, geleid heb.
-  2. Gij zult geen andere goden voor mijn aangezicht hebben
-  3. Gij zult de naam van de Eeuwige, uw God, niet ijdel gebruiken
-  4. Gedenk de Sjabbat, dat gij die heiligt.
-  5. Eert uw vader en uw moeder
-  6. Gij zult niet moorden
-  7. Gij zult niet echtbreken
-  8. Gij zult niet stelen
-  9. Gij zult geen valse getuigenis spreken tegen uw naaste.
-  10. Gij zult niets begeren dat van uw naaste is. 
+Het verbond
+12. Wie was de eerste aartsvader en in welk boek staat hij beschreven?
+13. Hoe is volgens de Joodse traditie de naam Israël ontstaan? PPT
+14. Welke rol had Mozes in het Jodendom?
+15. Waarover gaat het boek Exodus?
+16. Wat zijn de 10 geboden?
+17. Wie is koning David?
 
-- Wie is koning David?
-  - koning van Israël en de Joden en een voorvader van de Messias.
-- Wat betekent de Davidster (magen David)?
-- Wat is de Ark van het verbond?
-  - Allerheiligste voorwerp
-  - Draagbare kist met 2 stenen tafelen met daarop de 10 geboden.
-- Waarom is het jaar 586/7 v. Chr. een belangrijk keerpunt in de Joodse geschiedenis?
-  - Juda werd veroverd door koning Nebukadnezar II
-  - Joden werden meegevoerd naar Babylon
-  - De eerste Joodse tempel van Salamo werd verwoest.
-- Wie was Salomo? Waarvan is hij bekend? Ken je een voorbeeld van zijn wijsheid?
-  - 
-- Welke rol speelde de Tempel?
-- Waarin verschilden Sadduceeërs van Farizeeën?
+Heilige geschriften
+18. Wat is de Thora, of ook wel Pentateuch? Welke boeken behoren daartoe? 
+19. Wat is de Tenach? Uit welke delen is het opgebouwd?
+20. Wat zijn de Misjna?
+21. Wat is de Talmoed en welke versies zijn er?
 
-- Wat is het verschil tussen orthodoxie en hervormingsgezinde joden?
-- Wat is het chassidisme?
-- Wat is de kabbala?
-- Wat is de Thora, of ook wel Pentateuch? Welke boeken behoren daartoe?
-- Wat zijn de Mishna en de Talmoed en wat is hun relatie?
-- Wat is de rol van de sabbat?
-- Wat is halacha?
-- Wat zijn kenmerken van de joodse ethiek?
-- Wat is de relatie tussen de mitswot en het joods monotheïsme?
-- Hoe gaat met in het jodendom om met het tetragram?
-- Wat leert het Sjema-gebed: “Hoor Israël, JHWH is onze God, JHWH is één”(Dt. : 4)
-- Hoe staat het jodendom doorgaans tegenover het ‘leven na de dood’?
-- Wat is ‘messianisme’?
-- Wat betekenen bar en bat mitswa?
-- Evenals in powerpoint: leer de betekenis van de feesten!
-- Wat verstaat met onder kashurt/koosjer?
-- Welke betekenis hebben rituelen en het joodse dagelijkse leven?
+Geloofsovertuigingen
+22. Wat is de betekenis van  het sjema-gebed?
+23. Beschrijf de begrippen transcendentie en immanentie in relatie tot God als Schepper!
+24. Beschrijf de begrippen tijd, eeuwigheid, almacht en alwetendheid volgens Joodse theologie!
+25. Wat is zijn mitswot en welke 2 hoofdgroepen zijn er?
+Familie en samenleving
+26. Wat is bat of bar mitswah? En wat betekent dat in rituele zin?
+27. Hoe vaak bidt een jood? Wat zijn kipa, tailliet, tsietsiet en tefilien? 
+28. Wat is koosjer?
+29. Wat is de betekenis van Sjabbat? Wanneer begint deze dag? Welke gebruiken zijn er?
+30. Beschrijf in hoe huwelijk en echtscheiding verlopen?
+31. Hoe staat het jodendom doorgaans tegenover het ‘leven na de dood’?
+Verering en  feesten
+32. Welke zijn de drie pelgrimsfeesten en wat wordt er gevierd?
+33. Wat viert men met Rosh Hasjana, Jom Kippoer, Chanoeka, Poerim?
+34. Wat leert het Sjema-gebed: “Hoor Israël, JHWH is onze God, JHWH is één”(Dt. : 4) Pg. 286
+

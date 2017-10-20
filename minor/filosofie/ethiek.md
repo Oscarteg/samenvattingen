@@ -35,3 +35,13 @@ Universele criteria ter beoordeling van menselijk handelen
 
 ### Meta-ethiek
 betekenis van begrippen die in moraal en ethiek een rol spelen. Wat betekent 'goed'?
+
+## Vragen
+
+1.  Wat is ethiek?
+2.  Wat is moraal?
+3.  Waarom is vrijheid in ethiek belangrijk?
+4.  Wat is bij het utilitarisme van belang?
+5.  Wanneer is bij Kant iets goed?
+6.  Wat draait het bij Sartre om (existentialisme)?
+7.  Wat je zeggen over het goede en het juiste in de ethiek?

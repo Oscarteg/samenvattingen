@@ -8,7 +8,7 @@ Kennistoets 1
 - Filosofie
   - Ethiek 
   - Logica en retorica
-  - Esthetiek
+  - Ontologie
   
 - Wereldreligies
   - Fenomenologie: pagina 10-37
@@ -18,3 +18,21 @@ Kennistoets 1
   - Islam: pagina 72-119
 
 
+Kennistoets 2
+- Filosofie
+  - Cultuurfilosofie
+  - Esthetiek
+  - Ontologie en metafysica: pagina 10-41
+  - Epistemologie: pagina 74-87
+  - Politieke filosfie: pagina 178-214
+  - Geloof en rede: pagina 108-131
+  - Weteschapsfilosofie: pagina 88-106
+  - Antropologie: pagina 44-72
+- Wereldreligies
+  - Hindoeïsme: pagina 134-164
+  - Indiase filosofie: HUBL
+  - Boeddhisme: pagina 188-215
+  - Chinese filosofie: pagina 394-403
+  - Humanisme: Humanisme pdf
+  - Sikhisme: pagina 216-241
+  - Ongebonden spirituelen: pagina 444-455
