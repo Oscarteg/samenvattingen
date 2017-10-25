@@ -7,7 +7,7 @@
 
 Elke organisatie heeft een levenscyclus. Greiner heeft bepaald dat er 6 fasen zijn die elke organisatie doormaakt. Elke fase word afgesloten met een crisis. Organisaties kunnen anticiperen en voorbereiden op de aankomende crisis.
 
-![greiner](https://managementmodellensite.nl/webcontent/uploads/Greiner.jpg)
+![greiner](images/greiner.jpg)
 
 ## Fase 1
 
@@ -93,4 +93,4 @@ In het ideale geval zou een organisatie doelstellingen hanteren voor alle vier d
 - Organisatie (_productie_)
 - Herorientatie (_lean_)
 
-![vierfasen-hardjono](http://www.quinnassociation.com/userfiles/Image/schemas/hfdst-1-1.png)
+![vierfasen-hardjono](images/vierfasen-hardjono.png)
