@@ -2,16 +2,39 @@
 
 ------
 
+* [IDEPA](idepa/idepa.md)
+    - [Creational patterns](idepa/creational-patterns/creational-patterns.md)
+        + [Abstract factory](idepa/creational-patterns/abstract-factory.md)
+        + [Factory Method](idepa/creational-patterns/factory-method.md)
+        + [Singleton](idepa/creational-patterns/singleton.md)
+    + [Structural patterns](idepa/structural-patterns/structural-patterns.md)
+        * [Adapter](idepa/structural-patterns/adapter.md)
+        * [Composite](idepa/structural-patterns/composite.md)
+        * [Decorator](idepa/structural-patterns/decorator.md)
+        * [Facade](idepa/structural-patterns/facade.md)
+    + [Behavorial](idepa/behavorial/behavorial.md)
+        * [Command](idepa/behavorial/command.md)
+        * [Iterator](idepa/behavorial/iterator.md)
+        * [Observer](idepa/behavorial/observer.md)
+        * [Strategy](idepa/behavorial/strategy.md)
+        * [Template methode](idepa/behavorial/template.md)
+        * [State](idepa/behavorial/state.md)
+        * [Proxy](idepa/behavorial/proxy.md)
+
+------
+  
 * [Minor](minor/minor.md)
   * [Filosofie](minor/filosofie/filosofie.md)
     * [Ethiek](minor/filosofie/ethiek.md)
+    * [Logica en retorica](minor/filosofie/logica-en-retorica.md)
+    * [Ontologie en metafysica](minor/filosofie/ontologie-en-metafysica.md)
   * [Wereldreligies](minor/wereldreligies/wereldreligies.md)
     * [Fenomenologie](minor/wereldreligies/fenomenologie.md)
     * [Jodendom](minor/wereldreligies/jodendom.md)
     * [Christendom](minor/wereldreligies/christendom.md)
     * [Islam](minor/wereldreligies/islam.md)
     * [Antieke religies](minor/wereldreligies/antieke-religies.md)
-    
+  * [Oefentoets](minor/oefentoets.md)
 
 ------
 

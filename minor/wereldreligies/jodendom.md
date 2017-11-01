@@ -75,7 +75,11 @@ De Torah word voorgelezen op de Biema (verhoging waar de eerste 5 boeken van de 
 ## Vragen  
 
 1.  Waarom is het jaar 586/7 v. Chr. een belangrijk keerpunt in de Joodse geschiedenis?
+Jeruzalem werd verwoest door Nebukadnezar II en werd het volk in ballingschap weggevoerd naar Babylon. In de overleveringen staat ook dat toen de Tempel van Salomo werd verwoest maar er is geen bewijs dat het heeft bestaan
+
 2.  Welke rol speelde de Tempel?
+Het was de eerste Joodse tempel. 
+
 3.  Waarom is het systeem van synagogen ontstaan?
 4.  Wat is Chanoeka?
 5.  Wat is de oorsprong van het rabbijnse jodendom?
