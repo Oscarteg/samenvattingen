@@ -2,7 +2,6 @@
 
 > Hoofdstuk 3, hoofstuk 6, hoofdstuk 9, hoofstuk 12, hoofdstuk 16, hoofstuk 17, hoofstuk 18
 
-<!-- toc -->
 
 ## Organisatie, Missie & visie
 ### Organisatie

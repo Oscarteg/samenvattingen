@@ -1,6 +1,5 @@
 # Jodendom
 
-<!-- toc -->
 
 ## Geschiedenis
 
@@ -9,7 +8,7 @@
 #### Torah
 De Torah bevat de 5 boeken van Mozes: **Genesis, Exodus, Leviticus, Numeri en Deuteronomium**. De Torah wordt behandeld als een koningin of een bruid. 
 
-> Je mag de Torah niet aanraken. Daar is een aanwijsstokje voor de zogenoemde *Jad*
+!> Je mag de Torah niet aanraken. Daar is een aanwijsstokje voor de zogenoemde *Jad*
 
 De Torah word voorgelezen op de Biema (verhoging waar de eerste 5 boeken van de Tenach worden voogelezen). Dit is het hoogtepunt in de viering van het Jodendom. De Biema staat in het midden van de synagoge en symboliseert het Altaar in de Tempel. Het altaar werd gebruikt om te offeren. Rond de Biema staan de banken. 
 

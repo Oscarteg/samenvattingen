@@ -1,6 +1,5 @@
 # Antieke religies
 
-<!-- toc -->
 
 ## Mesopotamië 
 

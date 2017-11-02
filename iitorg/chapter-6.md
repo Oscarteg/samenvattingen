@@ -1,6 +1,5 @@
 # Kosten, (prijs)strategieën, prijselasticiteit, winst
 
-<!-- toc -->
 
 ## Prijs
 > Klant: datgene wat de klant betaalt om het product of dienst geleverd te krijgen

@@ -1,6 +1,5 @@
 # Logica en retorica
 
-<!-- toc -->
 
 
 ## Vragen

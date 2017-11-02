@@ -2,7 +2,6 @@
 
 > Hoofstuk 15, hoofdstuk 19, hoofdstuk 20
 
-<!-- toc -->
 
 
 ## Valuechain of porter 

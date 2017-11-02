@@ -1,6 +1,5 @@
 # Hoofdstuk 5 Rechten.
 
-<!-- toc -->
 
 
 ## Rechten, een speciaal soort normen.

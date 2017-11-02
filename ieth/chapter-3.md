@@ -1,6 +1,5 @@
 # Hoofstuk 3 - Verantwoordelijkheid
 
-<!-- toc -->
 
 ## Verantwoordelijkheis is overal
 

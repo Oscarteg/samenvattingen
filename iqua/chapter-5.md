@@ -1,4 +1,3 @@
-<!-- toc -->
 
 # GOTIK
 GOTIK is een methode voor het beheersen van verschillende aspecten van projectmanagement. De aspecten zijn geld, organisatie, tijd, informatie en kwaliteit. GOTIK word het meest gebruikt bij bouw projecten.

@@ -1,6 +1,5 @@
 # State
 
-<!-- toc -->
 
 ## Intent
 

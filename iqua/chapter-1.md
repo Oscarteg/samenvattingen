@@ -1,6 +1,5 @@
 # Introductie
 
-<!-- toc -->
 
 **Wat is kwaliteit?**
 

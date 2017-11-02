@@ -1,6 +1,5 @@
 # Christendom
 
-<!-- toc -->
 
 ## Vragen
 

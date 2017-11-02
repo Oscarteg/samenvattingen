@@ -1,6 +1,5 @@
 # Security
 
-<!-- toc -->
 
  > *Network Security*: Een set van acties in technologie, proces en gedrag om de (CIA) confidentiality (vertrouwelijkheid) integriteit en availability (beschikbaarheid) op een acceptabel niveau te houden.
 

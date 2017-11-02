@@ -1,6 +1,5 @@
 # Prince 2 
 
-<!-- toc -->
 
  > **Pr**ojects **IN** **C**ontrolled **E**nvironments
 

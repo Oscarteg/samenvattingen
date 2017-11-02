@@ -2,7 +2,6 @@
 
 > Pagina 134-172 van boek van Papinau en Ethiek Geerlings PDF
 
-<!-- toc -->
 
 ## Wat is ethiek?
 

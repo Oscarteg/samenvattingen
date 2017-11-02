@@ -1,7 +1,6 @@
 # Software ontwikkelmethoden
 
 
-<!-- toc -->
 
 ## Software ontwikkelmethoden
 

@@ -1,6 +1,5 @@
 # Hoofdstuk 2 - Normen, waarden en deugden
 
-<!-- toc -->
 
 ## Normen
 

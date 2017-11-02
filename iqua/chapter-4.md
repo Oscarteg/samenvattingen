@@ -1,5 +1,4 @@
 
-<!-- toc -->
 
 <!-- TODO chaotisch, doorlezen en refactoren en verder afmaken. Gestopt bij sheet 19-->
 

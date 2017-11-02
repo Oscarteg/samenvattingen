@@ -1,6 +1,5 @@
 # Hoofdstuk 6 Rechtvaardigheid.
 
-<!-- toc -->
 
 In dit hoofdstuk wordt er een onderscheid gemaakt tussen drie verschillende aspecten van rechtvaardigheid: rechtvaardige behandeling, rechtvaardige verdeling en rechtvaardige procedures.
 

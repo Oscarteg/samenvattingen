@@ -6,11 +6,11 @@ De verschillende onderwerpen die worden behandeld zijn:
 
 Eerste periode:
 
-- [Fenomenologie](./fenomenologie.md)
-- [Antieke religies](./antieke-religies.md)
-- [Jodendom](./jodendom.md)
-- [Christendom](./christendom.md)
-- [Islam](./islam.md)
+* [Fenomenologie](minor/wereldreligies/fenomenologie.md)
+* [Jodendom](minor/wereldreligies/jodendom.md)
+* [Christendom](minor/wereldreligies/christendom.md)
+* [Islam](minor/wereldreligies/islam.md)
+* [Antieke religies](minor/wereldreligies/antieke-religies.md)
 
 Tweede periode:
 
