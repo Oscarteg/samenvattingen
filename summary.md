@@ -60,22 +60,6 @@
 
 ------
 
-* Introduction to network security
-    * [Security](isec/chapter-1.md)
-    * [Checking](isec/chapter-2.md)
-    * [Encryptie](isec/chapter-3.md)
-    * [VPN](isec/chapter-4.md)
-    * [Applicaties](isec/chapter-5.md)
-
-------
-
-* Logica
-    * [Logica](ilg1/chapter-1.md)
-    * [Verzamelingen](ilg1/chapter-2.md)
-    * [Relaties](ilg1/chapter-3.md)
-
-------
-
 * Ethiek
     * [Moraal een kwestie van oordelen](ieth/chapter-1.md)
     * [Normen, waarden en deugden](ieth/chapter-2.md)
@@ -85,7 +69,21 @@
     * [Rechtvaardigheid](ieth/chapter-6.md)
     * [Integriteit en morele competentie](ieth/chapter-7.md)
 
-------
+<!-- Not complete
+* Introduction to network security
+    * [Security](isec/chapter-1.md)
+    * [Checking](isec/chapter-2.md)
+    * [Encryptie](isec/chapter-3.md)
+    * [VPN](isec/chapter-4.md)
+    * [Applicaties](isec/chapter-5.md) 
+-->
+
+<!-- Not complete
+* Logica
+    * [Logica](ilg1/chapter-1.md)
+    * [Verzamelingen](ilg1/chapter-2.md)
+    * [Relaties](ilg1/chapter-3.md)
+-->
 
 <!-- Not taking this class anymore -->
 <!-- * [Kennismanagement](ikema/ikema.md)
