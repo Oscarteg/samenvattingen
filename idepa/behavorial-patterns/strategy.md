@@ -1,4 +1,4 @@
-# Decorator
+# Strategy
 
 ## Intent
 

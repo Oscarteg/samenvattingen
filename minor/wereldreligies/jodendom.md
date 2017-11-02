@@ -70,6 +70,135 @@ De Torah word voorgelezen op de Biema (verhoging waar de eerste 5 boeken van de 
 
 > Doel: eenheid in interpretatie van Halacha = geheel van Joodse leefregels
 
+## Feesten en gewoonten
+Namen voor Israël 
+
+- Hebreeers - stamvader Abraham - Abrahamers
+    - Hebreeuws (ivriet)
+- Israël - Jacob werd na nachtelijk gevecht  Israël (hij die worstelt met God) genoemd.
+    - Israëliet - naam voor de 12 stammen van Egypte. 
+        + Israël had 12 zonen en Israëlieten behoren tot de 12 stammen/nakomelingen daarvan
+- Scheuring koningrijken 
+    - Noordrijk Israël - Wonen 10 stammen
+    - Zuidrijk Judea - 2 stammen 
+- Juda -> Judeeers -> Joden (Joden zijn etymologisch maar 1 stam)
+- Israëli - inwoners van de staat Israël
+
+**Cijfers**
+- 13,3 miljoen joden
+- 0.2% van de wereldbevolking
+- 100 landen
+- Israël heeft 7,7 miljoen inwoners (75% jood);
+
+### Wereldbeeld
+- Schepping
+    + De wereld is geschapen. De wereld is gebroken. (Kain en Abel, Noach)
+- Openbaring
+    + Openbaard aan Israël, Mozes etc. 
+    + Verbintenis tussen geschiedenis en openbaring.
+- Verlossing
+    + Verwachting van Messias (de gezalfde).
+
+Sjabbat rust voor alle mensen
+
+
+- Uitverkoren (omwille van de wereld)
+    + Je bent speciaal. Kers op de taart. Uitverkoren.  
+    + Andere stroming. Je bent een voorbeeld voor alle andere volken. Alle andere volken laat zien van zo is het bedoelt om te leven. 
+
+### Leefwijze
+- Gelovig of niet-gelovig
+    + Orthopraxis(?)
+    + Veel gebruiken worden gedeeld. 
+        * Sjabat 
+        * Besnijdenis
+- Verhalen
+    + Schepping
+    + Openbarig
+    + Verlossing in messiaanse tijd
+        * De jood is de partner van God in dit verlossingproject
+        * Bijdraagt aan de verlossing
+
+
+### Feestdagen
+#### Pelgrims feesten
+Pelgrims feesten uit de tijd dat er een tempel stond in Jeruzalem.
+
+- Pesach (Pasen - in de lente, 8 dagen) **Belangrijkste feest**
+    + Schepping - vanuit winter naar lente
+    + Bevrijding uit Egypte
+    + Verlossing (relatie, verslaving etc.)
+    + Op zaterdag na Sjabat
+    + Jongste van het gezin begint de Hakada(?)
+    + Symbolische gerechten
+        * 4 bekers wijn - elke beker wijn staat voor een bevrijdingswoord
+            - Uitgeleid door Mozes
+        * Bittere mieriks wortel
+            - De bitterheid staat voor de bittere slavernij
+        * Pesach 
+            - Lams - de plaag ging voorbij aan het joods huis
+    + In gesprek gaan met je familie over waar je van bevrijd wordt.
+- Sjawoe'ot (valt met pinksteren)
+    + wekenfeest, oogstfeest
+    + Mag niet trouwen in deze periode
+    + Word de openbaring gevierd van de Thora. De 10 leefregels.
+- Soekkot (loofhuttenfeest - in het najaar)
+    + Bescherming (hoop en vertrouwen)  
+    + Simchat Tora
+        * Tora rollen worden uit de heilige ark gehaalt en dansen om de tora.
+    + Duurt 8 dagen
+
+
+#### Hogefeestdagen
+- Jom Kippoer (Grote verzoendag, 10 dagen)
+    + Mag alleen als je geen ruzie meer hebt.
+    + Vastendag - geen eten drinken omgang
+
+#### Overig
+- Chanoeka (inwijdingsfeest)
+    + Joodse identiteit
+    + Chanoekia met kaarsen die laten zien dat mensen joods zijn
+        * Had maar olie voor 1 dag en brandde voor 8 dagen
+    + Joodse identiteit
+- Poerim (verkleedfeest)
+    + Verhaal Esther word gelezen. Goddeloos boek.
+    + Soort carnaval. Verkleden
+- Vastendagen
+    + Poerim
+    + Jom Kippoer
+
+### Rituelen
+- 613 Geboden - Halacha - de Joodse wet
+    + Niet allemaal relevant bv. hoe ga je met je slaven om.
+    + Besnijdenis
+        * Geboden. 
+        * Abraham kreeg opdracht om alle manen te besnijdenis incl. zonen
+        * Gebeurt op de 8ste dag van de jongen. Dan pas krijgt die zijn naam.  
+    + Bar (zoon) Bat (dochter) mitswa
+        * Mag voor het eerst voorlezen uit de Tora
+        * Groot feest. 
+
+- Reinigs- en spijswetten (kasjroet/kosjer)
+    + Mentaal voorbereiden op bidden
+    + Leefwijzen en identiteit
+    + Bewust van Joods zijn
+    + 
+- Mezoezah
+- Tefillien
+- Tsietsie
+    + Kwastjes
+
+
+### Sjabat
+- Schepping 
+- Vrijdagavond met zonsondergang
+- Geopent door de vrouw
+- Openbaring (lezing uit de Tora)
+- Verlossing - Overgang naar de nieuwe week (Lied ana Elia)
+
+
+
+
 
 
 ## Vragen  

@@ -6,9 +6,9 @@ Bij de minor "Filosofie, Wereldreligies en Spiritualiteit" zijn er 2 kennis toet
 Kennistoets 1
 
 - Filosofie
-  - Ethiek 
+  - Ethiek
   - Logica en retorica
-  - Ontologie
+  - Ontologie en metafysica
   
 - Wereldreligies
   - Fenomenologie: pagina 10-37
@@ -21,8 +21,7 @@ Kennistoets 1
 Kennistoets 2
 - Filosofie
   - Cultuurfilosofie
-  - Esthetiek
-  - Ontologie en metafysica: pagina 10-41
+  - Esthetiek: pagina 172-179
   - Epistemologie: pagina 74-87
   - Politieke filosfie: pagina 178-214
   - Geloof en rede: pagina 108-131

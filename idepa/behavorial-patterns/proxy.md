@@ -1,4 +1,4 @@
-# Decorator
+# Proxy
 
 ## Intent
 
