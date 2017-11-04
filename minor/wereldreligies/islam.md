@@ -1,6 +1,14 @@
 # Islam
 
 
+## 5 zuilen
+- De geloofsbelijdenis (sjahada)
+- De rituele gebeden (salat of salah)
+- Het geven van aalmoezen (zakat of zakah)
+- Het vasten tijdens ramadan (saum/sawm of siyam)
+- De pelgrimstocht naar Mekka (hadj, hajj of haj)
+
+
 ## Vragen 
 
 ### Docent

@@ -2,6 +2,21 @@
 
 ------
 
+* Minor
+  * [Filosofie](minor/filosofie/filosofie.md)
+    * [Ethiek](minor/filosofie/ethiek.md)
+    * [Logica en retorica](minor/filosofie/logica-en-retorica.md)
+    * [Ontologie en metafysica](minor/filosofie/ontologie-en-metafysica.md)
+  * [Wereldreligies](minor/wereldreligies/wereldreligies.md)
+    * [Fenomenologie](minor/wereldreligies/fenomenologie.md)
+    * [Jodendom](minor/wereldreligies/jodendom.md)
+    * [Christendom](minor/wereldreligies/christendom.md)
+    * [Islam](minor/wereldreligies/islam.md)
+    * [Antieke religies](minor/wereldreligies/antieke-religies.md)
+  * [Oefentoets](minor/oefentoets.md)
+
+------
+
 * IDEPA
     - Creational patterns
         + [Abstract factory](idepa/creational-patterns/abstract-factory.md)
@@ -20,21 +35,6 @@
         * [Template methode](idepa/behavorial-patterns/template.md)
         * [State](idepa/behavorial-patterns/state.md)
         * [Proxy](idepa/behavorial-patterns/proxy.md)
-
-------
-  
-* Minor
-  * [Filosofie](minor/filosofie/filosofie.md)
-    * [Ethiek](minor/filosofie/ethiek.md)
-    * [Logica en retorica](minor/filosofie/logica-en-retorica.md)
-    * [Ontologie en metafysica](minor/filosofie/ontologie-en-metafysica.md)
-  * [Wereldreligies](minor/wereldreligies/wereldreligies.md)
-    * [Fenomenologie](minor/wereldreligies/fenomenologie.md)
-    * [Jodendom](minor/wereldreligies/jodendom.md)
-    * [Christendom](minor/wereldreligies/christendom.md)
-    * [Islam](minor/wereldreligies/islam.md)
-    * [Antieke religies](minor/wereldreligies/antieke-religies.md)
-  * [Oefentoets](minor/oefentoets.md)
 
 ------
 

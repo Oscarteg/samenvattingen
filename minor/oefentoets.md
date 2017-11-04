@@ -109,8 +109,6 @@ Noem de vijf zuilen van de Islam en leg hun betekenis uit?
 - Het vasten tijdens ramadan (saum/sawm of siyam)
 - De pelgrimstocht naar Mekka (hadj, hajj of haj)
 
-
-
 17. Christendom:
 Beschrijf de 7 sacramenten van de Rooms-katholieke Kerk?
 
@@ -129,20 +127,30 @@ De naar het Westen uitgeweken voormalig Oost-Duitse schrijver Jurek Becker (1937
 In een filosofische bezinning op dit probleem moeten we ons in eerste instantie afvragen, waarom we instemmen met de oplossing van Jakob of waarom we deze afwijzen; daarna is het noodzakelijk de argumenten voor en tegen te wegen en daarbij bijvoorbeeld de vraag te betrekken of het altijd gerechtvaardigd is om te liegen.
 
 
-    * Welke waarden zijn hier in het geding? Noem er ten minste drie.
-    * Formuleer bij elk van de drie waarden een daarmee verbonden norm die in deze situatie een rol speelt.
-    * Zijn de bij a genoemde waarden volgens jou intrinsiek of instrumenteel?
-    * Volgens de directeur is het de bedoeling van de kunstenaar om de bezoeker voor een moreel dilemma te plaatsen. Doet hij dat? Met andere woorden: is hier sprake van een moreel dilemma?
-    * Geef je commentaar op het standpunt van de Jacob: ‘Ik heb niet op die knop gedrukt.’
+* Welke waarden zijn hier in het geding? Noem er ten minste drie.
+    - Naastenliefde
+    - Eerlijkheid
+    - Behulpzaamheid
+* Formuleer bij elk van de drie waarden een daarmee verbonden norm die in deze situatie een rol speelt.
+    - __Naastenliefde__: Ik ben liefdevol naar anderen, Dus Jacob moet het goede doen voor de mensen om hem heen.
+    - __Eerlijkheid__:Ik spreek de waarheid, dus Jacob vertelt dat die waarheid heeft verzonnen.
+    - __Behulpzaamheid__: Ik help de mensen om me heen, dus Jacob moet blijven liegen.
+* Zijn de bij a genoemde waarden volgens jou intrinsiek of instrumenteel? 
+    - __Naastenliefde__: intrinsiek 
+    - __Eerlijkheid__: instrumenteel 
+    - __Behulpzaamheid__: instrumenteel 
+* Is hier sprake van een moreel dilemma?
+    - Er staan hier 2 waarden tegenover elkaar. Dus het is een moreel dilemma.
+* Geef je commentaar op het standpunt van Jacob: ‘Ik heb niet op die knop gedrukt.’
 
 Een andere mogelijke vraag bij een dergelijke casus zou kunnen zijn:
-    * Pas de generalisatietest toe op de beslissing van de directeur:
+* Pas de generalisatietest toe op de beslissing van de directeur:
     - maxime
     - veralgemeniseren
     - redelijkerwijs
     - conclusie
-    * Welke argumenten zou een utilist voor deze tentoonstelling kunnen hebben?
-    * Welke bezwaren kun jij tegen het utilisme invoeren?
+* Welke argumenten zou een utilist voor deze tentoonstelling kunnen hebben?
+* Welke bezwaren kun jij tegen het utilisme invoeren?
 
 ### Logica en retorica
 

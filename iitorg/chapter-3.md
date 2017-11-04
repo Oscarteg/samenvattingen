@@ -2,8 +2,6 @@
 
 > Hoofdstuk 20
 
-
-
 Elke organisatie heeft een levenscyclus. Greiner heeft bepaald dat er 6 fasen zijn die elke organisatie doormaakt. Elke fase word afgesloten met een crisis. Organisaties kunnen anticiperen en voorbereiden op de aankomende crisis.
 
 ![greiner](images/greiner.jpg)
@@ -65,13 +63,9 @@ Medewerkers worden geacht ondernemers te worden die zelf initiatieven nemen.
 
 ### Crisis 6 - identiteitscrisis
 Door eenzijdige nadruk op resultaten voelen mensen zich een nummer en ontstaat een ‘sociale identiteitscrisis’
-
-
 ## Vierfasen model van Hardjono
 
 Het model van Hardjono word gebruikt om de huidige organisatie te analyseren en vast te stellen wat de organisatorische controlepunten zijn en welke interventies gepleegd moeten worden in lijn met de strategie.
-
-
 Er zijn van 4 verschillende cirkels. Van binnen naar buiten zijn dit:
 - Materieel
 - Commercieel
