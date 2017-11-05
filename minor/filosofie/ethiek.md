@@ -20,6 +20,9 @@ __Moraal__ gaat over `Wat moet ik doen? Wat is de juiste keuze? (Morele dillema'
 
 !> Je moet er vanuit gaan dat er vrijheid bestaat! 
 
+
+!> Moreel dilemma: een echt dilemma is sprake als aan alle mogelijkheden waartussen je kunt kiezen nadelen kleven, wat je ook kiest, er is altijd wel iets verkeerd aan je keuze. 
+
 ## Soorten ethiek
 
 ### Toegepaste ethiek
@@ -33,8 +36,6 @@ Universele criteria ter beoordeling van menselijk handelen. Men zoekt dus naar d
 
 ### Meta-ethiek
 Betekenis van begrippen die in moraal en ethiek een rol spelen. Wat betekent 'goed'?
-
-
 
 ## Ethische positie
 
@@ -143,8 +144,8 @@ __Generalisatie test__
 
 | Begrip | Beschrijving |
 |---|---|
-|Waarde| Een ideaal, een grondbeginsel om goed samen te leven dat we realiseren door ons gedrag |
-| Norm  | Zelf opgelegde regel die gedraf voorschirjft betreffende goed samenleven |
+|Waarde| Een ideaal, een grondbeginsel om goed samen te leven dat we realiseren door ons gedrag. Aan waarden hecht je je.|
+| Norm  | Zelf opgelegde regel die gedraf voorschirjft betreffende goed samenleven. Aan normen houd je je|
 | Deugd | Karakter/houding/gedrag. |
 
 

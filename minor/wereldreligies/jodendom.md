@@ -98,8 +98,7 @@ Namen voor Israël
 - Verlossing
     + Verwachting van Messias (de gezalfde).
 
-Sjabbat rust voor alle mensen
-
+!> Sjabbat rust voor alle mensen
 
 - Uitverkoren (omwille van de wereld)
     + Je bent speciaal. Kers op de taart. Uitverkoren.  
@@ -187,7 +186,6 @@ Pelgrims feesten uit de tijd dat er een tempel stond in Jeruzalem.
 - Tsietsie
     + Kwastjes
 
-
 ### Sjabat
 - Schepping 
 - Vrijdagavond met zonsondergang
@@ -195,10 +193,22 @@ Pelgrims feesten uit de tijd dat er een tempel stond in Jeruzalem.
 - Openbaring (lezing uit de Tora)
 - Verlossing - Overgang naar de nieuwe week (Lied ana Elia)
 
+## Samenvatting
 
-
-
-
+1. Monotheïsme - het jodendom is gebaseerd op strikt unitaristisch monotheïsme, het geloof in één God. God wordt opgevat als eeuwig, de schepper van het heelal en de bron van ethiek.
+2. God is één - het idee van een dualiteit of een drievuldigheid van God is voor Joden een heresie; het wordt beschouwd als verwant aan polytheïsme.
+3. God zowel omnipotent of alleskunnend als omniscient of alwetend. De verschillende namen van God zijn manieren om verschillende aspecten van Zijn aanwezigheid in de wereld uit te drukken.
+4. God is niet-fysisch, niet-materieel en eeuwig. Alle verklaringen in de Hebreeuwse Bijbel en in de rabbijnse literatuur die zich van antropomorfisme bedienen, zijn metaforen, aangezien het anders onmogelijk zou zijn om over God te spreken.
+5. Aan God alleen kan men een gebed aanbieden. Iedere tussenpersoon, vanuit welke overtuiging dan ook, tussen een mens en God, verplicht of optioneel, wordt traditioneel als afvallig beschouwd.
+6. De Tenach, en veel van wat in de Misjna en Talmoed wordt beschreven, is het product van goddelijke openbaring. Hoe de openbaring werkt, en wat het precies betekent wanneer men zegt dat een boek 'goddelijk' is, is altijd een kwestie van geschil geweest. Onder Joden bestaan verschillende begrippen van dit concept.
+7. De woorden van profeten zijn waarheden.
+8. Mozes was de voornaamste profeet.
+9. De Thora, de vijf boeken van Mozes, is de primaire tekst van het jodendom. Het rabbijnse jodendom stelt dat de Thora dezelfde is als die door God aan Mozes werd gegeven op de berg Sinaï. Het orthodoxe jodendom stelt dat de Thora van nu precies gelijk is aan wat toen werd ontvangen, afgezien van een klein aantal fouten in de overschrijving. Wegens de ontwikkelingen in het tenachisch, archeologisch en taalkundig onderzoek verwerpen vele Joden dit principe. In plaats daarvan aanvaarden zij dat de kern van de mondelinge en geschreven Thora van Mozes afkomstig is, maar dat de geschreven Thora van nu uitgegeven is met andere documenten.
+10. God zal alleen diegenen belonen die zijn geboden nakomen, en hen straffen die ze overtreden hebben.
+11. God koos het Joodse volk om een uniek verbond met hem te hebben; de beschrijving van deze overeenkomst is de Thora zelf. In tegenstelling tot wat vaak wordt beweerd, zijn de Joden niet Gods verkozen volk op zich. Joden geloven dat zij voor een specifieke opdracht zijn gekozen; om een licht te zijn voor de naties en een overeenkomst met God na te komen zoals die wordt beschreven in de Thora. Het reconstructionistisch jodendom verwerpt de idee van uitverkiezing geheel en al.
+12. Er zal een Joodse messias komen of wellicht een messiaans tijdperk.
+13. De ziel is zuiver bij geboorte. Mensen zijn geboren met een jetser hatov, een tendens om goed te doen, en een jetser hara, een tendens om slecht te doen. Daarom zijn de mensen vrij de weg in het leven te kiezen die zij willen nemen.
+14. Mensen kunnen boeten voor zonden, die slechts fouten zijn in het nakomen van de wetten. De liturgie van de belangrijke dagen Rosj Hasjana en Jom Kipoer en de tien dagen van inkeer ertussen verklaren dat het gebed, boete doen en tsedaka, het verplichte geven voor goede doelen zonden herstelt. Dit is dus verschillend van de vrijwillige liefdadigheid. Boete doen wordt alleen zinvol geacht indien vergezeld van een oprecht besluit om op te houden met onaanvaardbare acties en zelfs dan alleen als acties om verontschuldigingen aan derden aan te bieden eerlijk worden ondernomen.
 
 ## Vragen  
 
@@ -209,31 +219,73 @@ Jeruzalem werd verwoest door Nebukadnezar II en werd het volk in ballingschap we
 Het was de eerste Joodse tempel. 
 
 3.  Waarom is het systeem van synagogen ontstaan?
+Omdat de Joden verbannen waren en niet bij hun tempel konden komen hadden ze een plek nodig om hun rituelen uit te oefenen. 
+
 4.  Wat is Chanoeka?
+Het lichtjes feest waarbij een chanoekia word aangestoken en speciale gerechten wordt voorbereid. Herdacht wordt de herinwijding van de Tempel van Jeruzalem.
+
 5.  Wat is de oorsprong van het rabbijnse jodendom?
+Na de val van de tweede tempel verdwenen veel joden uit Israël in ballingschap. In deze tijd werd het de taak van de Rabbijn om het joodse volk bijeen te houden.
+
 6.  Welke historische gebeurtenis draagt bij aan de diaspora, de verspreiding?
+De vernietiging van de eerste Tempel van Jeruzalem. 
 
 Stromingen van het jodendom
 7.  Wat zijn Sefardische en Asjkenazische joden?
+Sefardische joden wier voorouders in Spanje en Portugal leefden. 
+Asjkenazische joden zijn joden uit Duitsland.
+
 8.  Wat is een belangrijk verschil tussen orthodoxe en reform (liberale) joden?
+De orthodoxe joden die houden zich strikt aan de joodse wet en er zijn duizenden boeken die het geloof bepalen. 
+
 9.  Wat zijn chassidiem en wat is het chassidisme?
+Chassidisme is een ultraorthodoxe stroming van het jodendom en de aanhangers zijn chassidiem. 
 
 Ontwikkelingen in het jodendom
 10. Wie was Maimonides en wat is zijn verdienste?
+Was een rabbijn. 
+
 11. Wat is de kabbala en wat is het belangrijkste boek in deze stroming?
+De kabbala is de mystieke, esoterische kant van het Jodendom en zoekt een dieper begrip van de Torah dan zijn letterlijke interpretatie. Het belangrijkste boek is de "Sefer Jetzira".
 
 Het verbond
 12. Wie was de eerste aartsvader en in welk boek staat hij beschreven?
-13. Hoe is volgens de Joodse traditie de naam Israël ontstaan? PPT
+De eerste aartsvader was Abraham en staat beschreven in Genesis.
+
+13. Hoe is volgens de Joodse traditie de naam Israël ontstaan? 
+De naam is gegeven aan de zoon van Abraham Jacob nadat hij geworsteld had met God.
+
 14. Welke rol had Mozes in het Jodendom?
+Mozes kreeg de 10 leefregels van God en heeft de joden door de woestijn geleid naar het beloofde land. 
+
 15. Waarover gaat het boek Exodus?
+Het vertelt het verhaal van het vertrek van het Israëlitische volk uit Egypte naar het Beloofde Land Kanaän.
+
 16. Wat zijn de 10 geboden?
+1. Ik ben de eeuwige, uw God, die u uit het land Egypte, uit het diensthuis, geleid heb.
+2. Gij zult geen andere goden voor mijn aangezicht hebben.
+3. Gij zult de naam van de Eeuwige, uw God, niet ijdel gebruiken.
+4. Gedenk de Sjabbat, dat gij die heiligt.
+5. Eert uw vader en uw moeder.
+6. Gij zult niet moorden.
+7. Gij zult niet echtbreken.
+8. Gij zult niet stelen.
+9. Gij zult geen valse getuigenis spreken tegen uw naaste.
+10. Gij zult niets begeren dat van uw naaste is.
+
 17. Wie is koning David?
+De tweede koning van Israël en de Joden en een voorvader van de Messias. 
 
 Heilige geschriften
 18. Wat is de Thora, of ook wel Pentateuch? Welke boeken behoren daartoe? 
+
+
 19. Wat is de Tenach? Uit welke delen is het opgebouwd?
+
+
 20. Wat zijn de Misjna?
+
+
 21. Wat is de Talmoed en welke versies zijn er?
 
 Geloofsovertuigingen
