@@ -1,12 +1,27 @@
 # Islam
-
-
 ## 5 zuilen
 - De geloofsbelijdenis (sjahada)
 - De rituele gebeden (salat of salah)
 - Het geven van aalmoezen (zakat of zakah)
 - Het vasten tijdens ramadan (saum/sawm of siyam)
 - De pelgrimstocht naar Mekka (hadj, hajj of haj)
+
+
+## Stromingen
+- Soennisme
+- Sjiisme
+- Soefisme
+- Koranisme
+- Khawarij
+
+## Mohammed
+
+In 570 n.c werd Mohammed geboren. Met 6 jaar was hij een wees en trouwde in 595 met rijke weduwe Chad
+
+
+## Boeken
+- Koran
+    + 
 
 
 ## Vragen 
@@ -40,7 +55,6 @@ Via de originele traditie (Sharia) of de Koran (bronnen).
 Omdat ze alle 3 beginnen bij Abraham als eerste profeet
 
 **8. Wat zijn de bronnen van de islam?**  
-
 
 **9. Wat kunnen we zeggen omtrent de historische betrouwbaarheid van de overleveringen (hadith) van de profeet Mohammed?**  
 
@@ -101,44 +115,45 @@ soennitische
 
 **23. Wat is de verhouding tussen de soennitische islam, (sjiitische islam), soefisme en volksislam?**  
 
+
+--------- 
+
+
 ## Literatuur
-Een historisch overzicht
 **1. In welke tijd ontstaat de Islam en wat kun je zeggen over het geloof van de Arabieren?**  
+
 **2. Wanneer en wat is de hidraj?**  
+Dit was de emigratie van Mohammed met zijn volgelingen van Mekka naar Medina in 622. 
 
-Eenheid en verscheidenheid in de Islam
 **3. Welke twee hoofdstromingen zijn er binnen de Islam?**  
-**4. Wat bedoelt men met Mohammed is het ‘zegel der Profeten’?**  
-**5. Wat betekent het begrip idjmaa?**  
-**6. Hoe verhouden zich de twee dimensies –parallel aan soena en sjia – zich tot elkaar?**  
-**7. Wat is het soefisme?**   Wat is het (uiteindelijke) doel binnen het soefisme?**  
-**8. Wat betekent djihad in het soefisme?**  
+De soennitische en de sjiitische stroming.
 
-Heilige geschriften
+**4. Wat bedoelt men met Mohammed is het ‘zegel der Profeten’?**  
+Dat het de laatset profeet en boodschapper van God is. 
+
+**5. Wat betekent het begrip idjmaa?**  
+Concensus
+
+**6. Hoe verhouden zich de twee dimensies –parallel aan soena en sjia – zich tot elkaar?**  
+
+
+**7. Wat is het soefisme? Wat is het (uiteindelijke) doel binnen het soefisme?**
+
+**8. Wat betekent djihad in het soefisme?**  
 **9. Welke waarde kennen moslims toe aan de Koran?**  
 **10. Hoe is de Koran opgebouwd en welke verschillen zijn er tussen openbaringen Mekka en Medina?**  
 **11. Wat zijn de hadith?**  
-
-Geloofsovertuigingen
 **12. Wat wordt bedoeld met tauhied?**  
 **13. Wat is de verhouding van de Koran met de Tora (tauraat), de Psalmen (zaboer) en het Evangelie (indjiel)?**  
 **14. Hoe beschrijft de Islamitische theologie over opstanding en oordeel?**  
-
-Verering en feesten
 **15. Wat betekent dat de Islam zich verstaat als een natuurlijke religie?**  
 **16. Wat is de letterlijke betekenis van islam en moslim?**  
-**17. Wat is de sjahada?** Wanneer wordt deze uitgesproken?**  
+**17. Wat is de sjahada? Wanneer wordt deze uitgesproken?**  
 **18. Wat is de salat en welke relatie heeft deze met de tauhied?**  
-**19. Wat is de zakat?** Wat is het doel?**  
-**20. Wat is de saum?** Hoe gaat het in zijn werk?** Wat is de afsluiting?**  
-**21. Wat is de hadj?** Wat is de betekenis?** Welk feest sluit het af?**  
-
-De islamitische wet
+**19. Wat is de zakat? Wat is het doel?**  
+**20. Wat is de saum? Hoe gaat het in zijn werk? Wat is de afsluiting?**  
+**21. Wat is de hadj? Wat is de betekenis? Welk feest sluit het af?**  
 **22. Wat zijn de vier bronnen van de sjaria?**   
 **23. Wat is de plaats van de sjaria in de Islam?**  
-
-Wetenschap, kunst en cultuu r
 **24. Wat is de verdienste van Mamoen?**  
 **25. Kun je enkele moslimfilosofen noemen die Aristoteles verwerkten in hun filosofie?**  
-
-

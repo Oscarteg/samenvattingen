@@ -230,7 +230,6 @@ Na de val van de tweede tempel verdwenen veel joden uit Israël in ballingschap.
 6.  Welke historische gebeurtenis draagt bij aan de diaspora, de verspreiding?
 De vernietiging van de eerste Tempel van Jeruzalem. 
 
-Stromingen van het jodendom
 7.  Wat zijn Sefardische en Asjkenazische joden?
 Sefardische joden wier voorouders in Spanje en Portugal leefden. 
 Asjkenazische joden zijn joden uit Duitsland.
@@ -241,14 +240,12 @@ De orthodoxe joden die houden zich strikt aan de joodse wet en er zijn duizenden
 9.  Wat zijn chassidiem en wat is het chassidisme?
 Chassidisme is een ultraorthodoxe stroming van het jodendom en de aanhangers zijn chassidiem. 
 
-Ontwikkelingen in het jodendom
 10. Wie was Maimonides en wat is zijn verdienste?
 Was een rabbijn. 
 
 11. Wat is de kabbala en wat is het belangrijkste boek in deze stroming?
 De kabbala is de mystieke, esoterische kant van het Jodendom en zoekt een dieper begrip van de Torah dan zijn letterlijke interpretatie. Het belangrijkste boek is de "Sefer Jetzira".
 
-Het verbond
 12. Wie was de eerste aartsvader en in welk boek staat hij beschreven?
 De eerste aartsvader was Abraham en staat beschreven in Genesis.
 
@@ -262,46 +259,68 @@ Mozes kreeg de 10 leefregels van God en heeft de joden door de woestijn geleid n
 Het vertelt het verhaal van het vertrek van het Israëlitische volk uit Egypte naar het Beloofde Land Kanaän.
 
 16. Wat zijn de 10 geboden?
-1. Ik ben de eeuwige, uw God, die u uit het land Egypte, uit het diensthuis, geleid heb.
-2. Gij zult geen andere goden voor mijn aangezicht hebben.
-3. Gij zult de naam van de Eeuwige, uw God, niet ijdel gebruiken.
-4. Gedenk de Sjabbat, dat gij die heiligt.
-5. Eert uw vader en uw moeder.
-6. Gij zult niet moorden.
-7. Gij zult niet echtbreken.
-8. Gij zult niet stelen.
-9. Gij zult geen valse getuigenis spreken tegen uw naaste.
-10. Gij zult niets begeren dat van uw naaste is.
+    1. Ik ben de eeuwige, uw God, die u uit het land Egypte, uit het diensthuis, geleid heb.
+    2. Gij zult geen andere goden voor mijn aangezicht hebben.
+    3. Gij zult de naam van de Eeuwige, uw God, niet ijdel gebruiken.
+    4. Gedenk de Sjabbat, dat gij die heiligt.
+    5. Eert uw vader en uw moeder.
+    6. Gij zult niet moorden.
+    7. Gij zult niet echtbreken.
+    8. Gij zult niet stelen.
+    9. Gij zult geen valse getuigenis spreken tegen uw naaste.
+    10. Gij zult niets begeren dat van uw naaste is.
 
 17. Wie is koning David?
 De tweede koning van Israël en de Joden en een voorvader van de Messias. 
 
 Heilige geschriften
 18. Wat is de Thora, of ook wel Pentateuch? Welke boeken behoren daartoe? 
-
+De eerste 5 boeken van de TeNaCH. De 5 boeken van de Thora zijn _Genesis, Exodus, Leviticus, Numeri, Deuteronomium_. Oftewel de 5 boeken van Mozes. 
 
 19. Wat is de Tenach? Uit welke delen is het opgebouwd?
-
+De TeNaCH is de bijbel van het Jodendom. Het bestaat uit de _Thora, Nebe'im en de Chetoebim_. 
 
 20. Wat zijn de Misjna?
-
+Het is een toelichting op de geboden en verboden van de Thora.
 
 21. Wat is de Talmoed en welke versies zijn er?
+Het bevat de commentaren van belangrijke rabijnen en schriftgeleerden van de TeNaCH. Je hebt de _Babylonische Talmoed_ en de _Jeruzalemse Talmoed_. 
 
-Geloofsovertuigingen
-22. Wat is de betekenis van  het sjema-gebed?
-23. Beschrijf de begrippen transcendentie en immanentie in relatie tot God als Schepper!
+22. Wat is de betekenis van het sjema-gebed?
+Het geeft uitdrukking aan het absolute geloof in God, 
+
+23. Beschrijf de begrippen transcendentie en immanentie in relatie tot God als 
+
+
 24. Beschrijf de begrippen tijd, eeuwigheid, almacht en alwetendheid volgens Joodse theologie!
+
+
 25. Wat is zijn mitswot en welke 2 hoofdgroepen zijn er?
-Familie en samenleving
+
+
 26. Wat is bat of bar mitswah? En wat betekent dat in rituele zin?
+
+
 27. Hoe vaak bidt een jood? Wat zijn kipa, tailliet, tsietsiet en tefilien? 
+
+
 28. Wat is koosjer?
+
+
 29. Wat is de betekenis van Sjabbat? Wanneer begint deze dag? Welke gebruiken zijn er?
+
+
 30. Beschrijf in hoe huwelijk en echtscheiding verlopen?
+
+
 31. Hoe staat het jodendom doorgaans tegenover het ‘leven na de dood’?
 Verering en  feesten
-32. Welke zijn de drie pelgrimsfeesten en wat wordt er gevierd?
-33. Wat viert men met Rosh Hasjana, Jom Kippoer, Chanoeka, Poerim?
-34. Wat leert het Sjema-gebed: “Hoor Israël, JHWH is onze God, JHWH is één”(Dt. : 4) Pg. 286
 
+
+32. Welke zijn de drie pelgrimsfeesten en wat wordt er gevierd?
+
+
+33. Wat viert men met Rosh Hasjana, Jom Kippoer, Chanoeka, Poerim?
+
+
+34. Wat leert het Sjema-gebed: “Hoor Israël, JHWH is onze God, JHWH is één”(Dt. : 4) Pg. 286

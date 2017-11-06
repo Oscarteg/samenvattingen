@@ -59,7 +59,6 @@
     * Opstanding van Jezus Christus
     * **Neerdaling van de Heilige Geest**
 
-
 10. Wat is het verschil tussen Rooms-katholiek en Protestants-Christendom?
     * het geloof in een Drie-ene God
     * Maria is de moeder van Jezus

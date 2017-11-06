@@ -4,17 +4,26 @@
 ## Vragen
 
 1.  Wat is de historische context van Jezus? Wie was hij? Welk geloof had hij? In welke tijd leefde hij?
+Jezus leefde in Jeruzalem rond het jaar 0. Hij was van oorsprong Joods. Hij is de zoon van God. Moeder is Heilig Maagd Maria.
+
 2.  Wat betekent Messias, of Christus?
-Vertakkingen binnen de kerk
+Het betekent "de gezalfde". De heilige.
+
 3.  Welke drie hoofdstromingen zijn er in het christendom en noem enkele kenmerken?
-a.  Wat betekent het Grote Schisma van 1054?
-b.  Wat zijn reformatie en contrareformatie?
-c.  Wie waren Luther, Calvijn en Zwingli? Waarin kwamen zij overeen?
-Heilige geschriften
+    - rooms-katholicisme
+        + 
+    - protestantisme
+    - orthodoxe christendom.
+
+
+* Wat betekent het Grote Schisma van 1054?
+* Wat zijn reformatie en contrareformatie?
+* Wie waren Luther, Calvijn en Zwingli? Waarin kwamen zij overeen? Heilige geschriften
+
+
 4.  Wat is de christelijke canon? Wat is de relatie met de Joodse Tenach?
 5.  Wat wordt bedoeld met de bijbel is ‘geïnspireerd’?
 
-Geloofsovertuigingen
 6.  Wat is de theologische relatie met het jodendom? Noem enkele voorbeelden!
 7.  Wat betekende de boodschap van Jezus voor de offercultus?
 8.  Wat is de betekenis van opstanding of verrijzenis van Jezus?
