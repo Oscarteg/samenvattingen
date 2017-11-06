@@ -2,7 +2,7 @@
 
 ------
 
-* [Minor](minor/minor.md)
+* [Minor](minor/minor.md) 
   * [Filosofie](minor/filosofie/filosofie.md)
     * [Ethiek](minor/filosofie/ethiek.md)
     * [Logica en retorica](minor/filosofie/logica-en-retorica.md)
