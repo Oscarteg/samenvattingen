@@ -291,36 +291,25 @@ Het geeft uitdrukking aan het absolute geloof in God,
 
 23. Beschrijf de begrippen transcendentie en immanentie in relatie tot God als 
 
-
 24. Beschrijf de begrippen tijd, eeuwigheid, almacht en alwetendheid volgens Joodse theologie!
-
 
 25. Wat is zijn mitswot en welke 2 hoofdgroepen zijn er?
 
-
 26. Wat is bat of bar mitswah? En wat betekent dat in rituele zin?
-
 
 27. Hoe vaak bidt een jood? Wat zijn kipa, tailliet, tsietsiet en tefilien? 
 
-
 28. Wat is koosjer?
-
 
 29. Wat is de betekenis van Sjabbat? Wanneer begint deze dag? Welke gebruiken zijn er?
 
-
 30. Beschrijf in hoe huwelijk en echtscheiding verlopen?
-
 
 31. Hoe staat het jodendom doorgaans tegenover het ‘leven na de dood’?
 Verering en  feesten
 
-
 32. Welke zijn de drie pelgrimsfeesten en wat wordt er gevierd?
 
-
 33. Wat viert men met Rosh Hasjana, Jom Kippoer, Chanoeka, Poerim?
-
 
 34. Wat leert het Sjema-gebed: “Hoor Israël, JHWH is onze God, JHWH is één”(Dt. : 4) Pg. 286

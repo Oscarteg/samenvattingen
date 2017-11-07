@@ -8,21 +8,27 @@
 
 
 ## Stromingen
-- Soennisme
-- Sjiisme
-- Soefisme
-- Koranisme
-- Khawarij
+De ontwikkeling van de islam in vijf hoofdstromingen (dimensies):
+- Soennitiesche islam
+- Sjiitische islam
+- Soefisme (islamitische mystiek)
+- Volksislam
+- islamitische filosofie
 
 ## Mohammed
 
 In 570 n.c werd Mohammed geboren. Met 6 jaar was hij een wees en trouwde in 595 met rijke weduwe Chad
 
+## Islam en ethiek (vanuit een historisch perspectief)
 
-## Boeken
-- Koran
-    + 
+De bronnen van de islam: Koran (en de hadith (overleveringen))
 
+Visies in de islam: Godsbeeld, mensbeeld: ontwikkeling van een theologie
+
+Invloed van pre-islamitische tradities (jodendom, christendom, zoroastrisme, manicheïsme, neoplatonisme (Griekse filosofie), boeddhisme en sjamanisme) op de ontwikkeling van de islam –in verschillende diverse stromingen en tradities-. Invloeden via het soefisme en de volksislam.      
+
+
+-------- 
 
 ## Vragen 
 
@@ -88,12 +94,12 @@ Ali was neef en schoonzoon van Mohamed.
 
 Opvolging van profeet moet in familie blijven. 
 
-**soennitische**
+__soennitische__
 Er bestaat een eenheid halverwege de 10 de eeuw 
 
 Soenda betekent traditie. Van de profeet Mohamed. Ze beschouwen zich als volgers van de traditie van Mohamed. 
 
-soennitische 
+__soennitische__ 
 - periode van profeet mohamed en van de 4 opvolgers. 4 opvolgers zijn juist geleide kalifer genoemd.
 
 **18. Wat zijn de twee grondslagen van zowel de soennitische als de sjiitische systemen/tradities?**  
@@ -135,7 +141,6 @@ Dat het de laatset profeet en boodschapper van God is.
 Concensus
 
 **6. Hoe verhouden zich de twee dimensies –parallel aan soena en sjia – zich tot elkaar?**  
-
 
 **7. Wat is het soefisme? Wat is het (uiteindelijke) doel binnen het soefisme?**
 

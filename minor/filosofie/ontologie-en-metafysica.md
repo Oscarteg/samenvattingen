@@ -75,6 +75,9 @@ Stel twee metafysische vragen.
 - __Aristoteles__: In hoeverre is de mens besloten in het eerste zijnde?
 - __Berkely__: Waardoor bestaat de mens?
 
+
+---------
+
 ## Vragen
 1. Welke verdeling is er in de categoriënleer van de ontologie?
 

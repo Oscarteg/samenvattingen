@@ -80,6 +80,7 @@ jodendom 613 verboden en geboden
 - de materiële dimensie (is bezit belangrijk of zo min mogelijk, duurzaamheid)
 
 
+---------
 
 
 ## Vragen

@@ -18,6 +18,8 @@ Kennistoets 1
   - Islam: pagina 72-119
 
 
+---------
+
 Kennistoets 2
 - Filosofie
   - Cultuurfilosofie

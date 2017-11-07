@@ -149,6 +149,8 @@ __Generalisatie test__
 | Deugd | Karakter/houding/gedrag. |
 
 
+---------
+
 ## Vragen
 
 1. Wat is ethiek?

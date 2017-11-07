@@ -92,7 +92,7 @@ Conclusie: Ik mag niet doorrijden
 - Argumentum ad baculum Dreigen, manipuleren, intimideren
     + Ik heb gelijk en als je me niet gelooft dan sla ik je in elkaar
 
-
+---------
 
 
 ## Vragen
