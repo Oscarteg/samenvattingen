@@ -12,7 +12,6 @@ Het betekent "de gezalfde". De heilige.
 
 3.  Welke drie hoofdstromingen zijn er in het christendom en noem enkele kenmerken?
     - rooms-katholicisme
-        + 
     - protestantisme
     - orthodoxe christendom.
 

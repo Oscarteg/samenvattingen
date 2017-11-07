@@ -22,10 +22,11 @@
     loadSidebar: true,
     ga: 'UA-61119473-8',
     // load from summary.md
-    loadSidebar: 'summary.md',
     search: 'auto', 
     auto2top: true,
     themeColor: '#3F51B5',
+    subMaxLevel: 2,
+    loadSidebar: true,
     plugins: [
       window.DocsifyCopyCodePlugin.init(),
       EditOnGithubPlugin.create(
@@ -34,6 +35,12 @@
     ]
   }
 </script>
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
+
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
 <script src="//unpkg.com/prismjs/components/prism-php.min.js"></script>

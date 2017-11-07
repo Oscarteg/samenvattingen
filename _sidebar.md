@@ -32,7 +32,7 @@
         * [Iterator](idepa/behavorial-patterns/iterator.md)
         * [Observer](idepa/behavorial-patterns/observer.md)
         * [Strategy](idepa/behavorial-patterns/strategy.md)
-        * [Template methode](idepa/behavorial-patterns/template-methode.md)
+        * [Template methode](idepa/behavorial-patterns/template-method.md)
         * [State](idepa/behavorial-patterns/state.md)
         * [Proxy](idepa/behavorial-patterns/proxy.md)
 

@@ -153,33 +153,31 @@ __Generalisatie test__
 
 ## Vragen
 
-1. Wat is ethiek?
+__1. Wat is ethiek?__  
 Ethiek gaat over de vraag: `Wat is een goed leven?`
 
-2. Wat is moraal?
+__2. Wat is moraal?__  
 Moraal gaat over `Wat is de juiste keuze?` (morele dillema's) en over `waarden, normen en deugden`.
 
-3. Waarom is vrijheid in ethiek belangrijk?
+__3. Waarom is vrijheid in ethiek belangrijk?__  
 Omdat je de vrijheid moet hebben om na te denken en te handelen. Niet geforceerd door iets of iemand om een bepaalde keuze te maken of te denken.
 
-4. Wat is bij het utilitarisme van belang?
+__4. Wat is bij het utilitarisme van belang?__  
 Dat de handeling zoveel mogelijk voordeel oplevert voor zoveel mogelijk mensen.
 
-5. Wanneer is bij Kant iets goed?
+__5. Wanneer is bij Kant iets goed?__  
 Goed is datgene wat niet met zichzelf in tegenspraak is. Door de generalisatietest te gebruiken kan je bepalen of iets goed is.
 
-6. Wat draait het bij Sartre om (existentialisme)?
+__6. Wat draait het bij Sartre om (existentialisme)?__  
 Je bent gedoemd tot vrijheid. Mens bepaalt zichzelf door zijn handelen
 
-7. Wat je zeggen over het goede en het juiste in de ethiek?
+__7. Wat je zeggen over het goede en het juiste in de ethiek?__  
 
-
-8. Wat betekent vrijheid bij Kant, Bentham en Sartre?
+__8. Wat betekent vrijheid bij Kant, Bentham en Sartre?__  
 Kant: 
 Bentham: Daar komt hij op voor de vrijheid van meningsuiting, vrijheid van denken en de vrijheid om het leven zo veel mogelijk naar eigen inzicht in te vullen. Hij pleit voor kies- en stemrecht van vrouwen en trekt op met socialistische radicale om een eind te maken aan de uitbuiting van de arbeiders.
 Sartre: Je bent gedoemd tot vrijheid. 
 
-9. Wat bedoelt Sartre dat men niet aan het waarheidscriterium kan ontkomen?
+__9. Wat bedoelt Sartre dat men niet aan het waarheidscriterium kan ontkomen?__  
 
-
-10. Waarin komen Sartre en Aristoteles deugdethiek overeen met betrekking tot een ‘lafaard’?
+__10. Waarin komen Sartre en Aristoteles deugdethiek overeen met betrekking tot een ‘lafaard’?__  

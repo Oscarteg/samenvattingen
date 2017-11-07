@@ -79,15 +79,15 @@ Stel twee metafysische vragen.
 ---------
 
 ## Vragen
-1. Welke verdeling is er in de categoriënleer van de ontologie?
+__1. Welke verdeling is er in de categoriënleer van de ontologie?__  
 
-2. Wat is het verschil tussen analytische en synthetische uitspraken?
+__2. Wat is het verschil tussen analytische en synthetische uitspraken?__  
 Analytische uitspraken zijn waarheden onafhankelijk van ervaring, bijvoorbeeld "Een rechthoek heeft vier hoeken van 90 graden" en synthethische uitspraken kunnen waar zijn of onwaar en gaat terug op ervaring bijvoorbeeld "Ik hoor gestommel".
 
-3. Welk dilemma kende Berkeley en wat was zijn oplossing?
+__3. Welk dilemma kende Berkeley en wat was zijn oplossing?__  
 
-4. Wie is de geestelijk vader van de fenomenologie?
+__4. Wie is de geestelijk vader van de fenomenologie?__  
 Edmund Husserl (Jean-Paul Sartre)
 
-5. Wat is dualisme?
+__5. Wat is dualisme?__  
 Dat er twee werkelijkheden zijn. Lichaam en geest. 

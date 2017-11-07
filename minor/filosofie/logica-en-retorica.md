@@ -39,7 +39,7 @@ Ons tuinhuis moet dringend worden geverfd, want het hout gaat rotten. Bovendien 
 ### Onderschikkend
 Standpunt onderbouwd die elkaar ondersteunen
 
-# Modus ponens
+### Modus ponens
 !> Als A, dan B. A, dus B
 
 Bijvoorbeeld: 
@@ -49,7 +49,7 @@ Het stoplicht staat op groen
 Conclusie: Ik mag doorrijden
 ```
 
-## Modus tollens
+### Modus tollens
 !> Als A, dan B. Niet B, dan niet A
 
 Bijvoorbeeld:
@@ -96,19 +96,19 @@ Conclusie: Ik mag niet doorrijden
 
 
 ## Vragen
-1. Wat is een redenering?
+__1. Wat is een redenering?__  
 één of meer argumenten en een standpunt
 
-2. Welke soorten argumentatiestructuren zijn er?
+__2. Welke soorten argumentatiestructuren zijn er?__  
 Enkelvoudig, meervoudig, onderschikkend, nevenschikkend
 
-3. Wat is logica?
+__3. Wat is logica?__  
 Als de argumenten de conclusie rechtvaardigen. De logica klopt maar hoeft niet waar te zijn.Logica hoeft niet overtuigend te zijn
 
-4. Wat is retorica?
+__4. Wat is retorica?__  
 Het effectief spreken en schrijven, waarbij het doel is om anderen te overtuigen. 
 
-5. Welke soorten drogredenen zijn er?
+__5. Welke soorten drogredenen zijn er?__
     + Door misleidend taalgebruik
     + Door misleidende beweringen
     + Door misleidend redeneren
