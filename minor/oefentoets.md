@@ -116,7 +116,7 @@ Beschrijf het joodse wereldbeeld aan de hand van ‘schepping – openbaring –
 
 ## Filosofie:
 
-###Ethiek:
+### Ethiek:
 19. Lees de opdrachten zorgvuldig. Herlees een opdracht nog eens nadat je het antwoord hebt opgeschreven en controleer of je niets bent vergeten. schrijf volzinnen, gebruik geen telegramstijl. Een standpunt zonder toelichting, argument enzovoort levert geen punten op. Noem relevante begrippen. Leg begrippen zo nodig uit, ook als daar niet uitdrukkelijk om wordt gevraag *veel succes!
 
 !> Werk de casus uit deze komt op het tentamen.

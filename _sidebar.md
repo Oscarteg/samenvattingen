@@ -7,12 +7,14 @@
     * [Ethiek](minor/filosofie/ethiek.md)
     * [Logica en retorica](minor/filosofie/logica-en-retorica.md)
     * [Ontologie en metafysica](minor/filosofie/ontologie-en-metafysica.md)
+    ------
   * [Wereldreligies](minor/wereldreligies/wereldreligies.md)
     * [Fenomenologie](minor/wereldreligies/fenomenologie.md)
     * [Jodendom](minor/wereldreligies/jodendom.md)
     * [Christendom](minor/wereldreligies/christendom.md)
     * [Islam](minor/wereldreligies/islam.md)
     * [Antieke religies](minor/wereldreligies/antieke-religies.md)
+    ------
   * [Oefentoets](minor/oefentoets.md)
 
 ------
