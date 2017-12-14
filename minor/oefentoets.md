@@ -114,7 +114,7 @@ Beschrijf de 7 sacramenten van de Rooms-katholieke Kerk?
 18. Jodendom:
 Beschrijf het joodse wereldbeeld aan de hand van ‘schepping – openbaring – verlossing’.
 
-## Filosofie:
+## Filosofie
 
 ### Ethiek:
 19. Lees de opdrachten zorgvuldig. Herlees een opdracht nog eens nadat je het antwoord hebt opgeschreven en controleer of je niets bent vergeten. schrijf volzinnen, gebruik geen telegramstijl. Een standpunt zonder toelichting, argument enzovoort levert geen punten op. Noem relevante begrippen. Leg begrippen zo nodig uit, ook als daar niet uitdrukkelijk om wordt gevraag *veel succes!
@@ -124,7 +124,6 @@ Beschrijf het joodse wereldbeeld aan de hand van ‘schepping – openbaring –
 De naar het Westen uitgeweken voormalig Oost-Duitse schrijver Jurek Becker (1937-1997. verhaalt in het boek Jakob der Lügner over de lotgevallen van Jakob in een volkomen van de buitenwereld afgesloten Pools getto tijdens de nazitij *Jakob staat voor het dilemma of hij informatie over de komst van de bevrijders moet blijven verzinnen zodat hij de mensen in het getto een hart onder de riem kan blijven steken, of dat hij daarmee moet ophouden en gewoon moet zeggen dat hij ook niet weet wanneer de bevrijders (het Russische leger. komen. Door zijn in het begin gegeven hoopvolle informatie wordt de stemming in het getto minder moedeloos, de onderlinge solidariteit neemt toe en de zelfmoorden nemen af. Iemand aan wie hij vertrouwelijk meedeelt dat zijn informatie verzonnen is pleegt zelfmoor *Het probleem waar Jakob voor staat, is, in abstractere termen gesteld, of hij de waarheid moet vertellen (dat zijn informatie verzonnen is. of mensen hulp moet verlenen en dus moet blijven liegen. De schrijver geeft de morele onrust van Jakob zo goed weer, dat de lezer zonder meer de beslissing van Jakob (namelijk verder blijven liegen. respecteert als een juiste morele beslissing.
 
 In een filosofische bezinning op dit probleem moeten we ons in eerste instantie afvragen, waarom we instemmen met de oplossing van Jakob of waarom we deze afwijzen; daarna is het noodzakelijk de argumenten voor en tegen te wegen en daarbij bijvoorbeeld de vraag te betrekken of het altijd gerechtvaardigd is om te liegen.
-
 
 * Welke waarden zijn hier in het geding? Noem er ten minste drie.
     - Naastenliefde

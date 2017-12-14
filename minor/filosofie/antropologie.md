@@ -11,12 +11,6 @@ Alles heeft een vorm alleen het denken is vormloos
 
 >! Advaita Vedanta is de filosofie van non-dualiteit.
 
-
-
-
 ------
 
 3 soorten realiteit
-
-
-

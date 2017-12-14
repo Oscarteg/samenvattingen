@@ -87,8 +87,8 @@ Conclusie: Ik mag niet doorrijden
     + Wat weet een dronkenlap zoals jij van politiek?
 - Argumentum ad populum (meerderheid heeft gelijk)
     + Argumentum ad populum (meerderheid heeft gelijk)
-- Argumentum ad verecundiam Autoriteitsargument
-    + Argumentum ad verecundiam Autoriteitsargument
+- Argumentum ad verecundiam (Autoriteitsargument)
+    + Argumentum ad verecundiam (Autoriteitsargument)
 - Argumentum ad baculum Dreigen, manipuleren, intimideren
     + Ik heb gelijk en als je me niet gelooft dan sla ik je in elkaar
 
@@ -109,7 +109,7 @@ __4. Wat is retorica?__
 Het effectief spreken en schrijven, waarbij het doel is om anderen te overtuigen. 
 
 __5. Welke soorten drogredenen zijn er?__
-    + Door misleidend taalgebruik
-    + Door misleidende beweringen
-    + Door misleidend redeneren
-    + Door valse retoriek (rechtstreekse beïnvloeding)
++ Door misleidend taalgebruik
++ Door misleidende beweringen
++ Door misleidend redeneren
++ Door valse retoriek (rechtstreekse beïnvloeding)
