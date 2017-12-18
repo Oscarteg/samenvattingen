@@ -313,3 +313,4 @@ Verering en  feesten
 33. Wat viert men met Rosh Hasjana, Jom Kippoer, Chanoeka, Poerim?
 
 34. Wat leert het Sjema-gebed: “Hoor Israël, JHWH is onze God, JHWH is één”(Dt. : 4) Pg. 286
+ 
