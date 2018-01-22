@@ -19,9 +19,9 @@ Verwijst naar overtuigen, gedragingen en maatschappelijke instituten die iets te
 - einde van het universum
 - over het begrip tijd
 - wat gebeurt er na de dood
- paradijs
-hemel/hel
-reincarnatie
+    - paradijs
+    - hemel/hel
+    - reincarnatie
 bestaan van machtige, niet-menselijke wezens (geesten, voorouders, engelen, demonen, goden)
 en de wijze waarop al deze zaken het gedrag van mensen vormgeven 
 

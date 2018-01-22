@@ -10,9 +10,9 @@
 
 ## Wat is ethiek?
 
-__Ethiek__ gaat over de vraag `Wat is het goed leven?`. Nadenken over het goed handelen.
+__Ethiek__ gaat over de vraag `Wat is het goede leven?`. Nadenken over het goed handelen.
 
-!> __Ethiek__: De wetenschap die moraal bestudeert en die tracht de moraal verder te helepn door nieuwe argumenten te ontwikkelen en te gebruiken in afwegingen
+!> __Ethiek__: De wetenschap die moraal bestudeert en die tracht de moraal verder te helpen door nieuwe argumenten te ontwikkelen en te gebruiken in afwegingen
 
 __Moraal__ gaat over `Wat moet ik doen? Wat is de juiste keuze? (Morele dillema's)`
 
@@ -23,10 +23,17 @@ __Moraal__ gaat over `Wat moet ik doen? Wat is de juiste keuze? (Morele dillema'
 
 !> Moreel dilemma: een echt dilemma is sprake als aan alle mogelijkheden waartussen je kunt kiezen nadelen kleven, wat je ook kiest, er is altijd wel iets verkeerd aan je keuze. 
 
+
+> Waarde = een ideaal, een grondbeginsel om goed samen te leven dat we realiseren door ons gedrag. Aan waarden hecht je, je wilt ze waarmaken of verwezenlijken
+> Norm = zelf opgelegde regel die gedrag voorschrijft betreffende goed samenleven. Aan normen houd je je, je volgt ze en verwacht dat ook anderen ze volgen
+> Deugd = karakter/houding/gedrag, is een karaktereigenschap die blijkt uit de manier waarop we ons gedragen
+
+Vanuit een waarde zijn verschillende normen mogelijk. 
+
 ## Soorten ethiek
 
 ### Toegepaste ethiek
-Zoekt antwoord op probleem dat de praktijk aandient; wat is goed in deze concrete situatie?
+Zoekt antwoord op probleem dat de praktijk aandient; `wat is goed in deze concrete of soortgelijke situatie?` 
 
 #### Descriptieve ethiek
 Beschrijving van geldende normenstelsels; wat is goed > wat vindt men goed?
@@ -72,8 +79,8 @@ Een handeling is goed als het een bepaald doel dient. "Werkt het? Wat levert het
 ### Nihilist 
 Denken over goed en kwaad is zinloos. We zijn dieren en blijven dieren. Onze instincten zijn doorslaggevend. Moraal leid nergens toe.
 
-
-## Stoa
+## Ethische posties
+### Stoa
 - Natuurwetten
 - Geloof in universele harmonie
 - Apatheia (onverstoorbaarheid) / morele wijsheid
@@ -81,10 +88,10 @@ Denken over goed en kwaad is zinloos. We zijn dieren en blijven dieren. Onze ins
 - ‘t onvermijdelijke aanvaarden
 - Plicht om ieders welzijn te bevorderen 
 
-## Socrates
+### Socrates
 - Moreel relativisme
 
-## De Idee van het Goede (Plato)
+### De Idee van het Goede (Plato)
 
 - Eros – menselijke streven naar de Ideeën
 - Wat is het goede?
@@ -94,6 +101,8 @@ Denken over goed en kwaad is zinloos. We zijn dieren en blijven dieren. Onze ins
 
 
 __4 kardinale deugden:__
+
+!> Definitie van Aristoteles: is een houding die ons in staat stelt ons handelingen voor te nemen, en die het midden houdt in relatie tot ons, een midden zoals 
 - Wijsheid
 - Moed 
 - Matigheid 
@@ -153,31 +162,33 @@ __Generalisatie test__
 
 ## Vragen
 
-__1. Wat is ethiek?__  
+- __Wat is ethiek?__  
 Ethiek gaat over de vraag: `Wat is een goed leven?`
 
-__2. Wat is moraal?__  
+- __Wat is moraal?__  
 Moraal gaat over `Wat is de juiste keuze?` (morele dillema's) en over `waarden, normen en deugden`.
 
-__3. Waarom is vrijheid in ethiek belangrijk?__  
+- __Waarom is vrijheid in ethiek belangrijk?__  
 Omdat je de vrijheid moet hebben om na te denken en te handelen. Niet geforceerd door iets of iemand om een bepaalde keuze te maken of te denken.
 
-__4. Wat is bij het utilitarisme van belang?__  
+- __Wat is bij het utilitarisme van belang?__  
 Dat de handeling zoveel mogelijk voordeel oplevert voor zoveel mogelijk mensen.
 
-__5. Wanneer is bij Kant iets goed?__  
+- __Wanneer is bij Kant iets goed?__  
 Goed is datgene wat niet met zichzelf in tegenspraak is. Door de generalisatietest te gebruiken kan je bepalen of iets goed is.
 
-__6. Wat draait het bij Sartre om (existentialisme)?__  
+- __Wat draait het bij Sartre om (existentialisme)?__  
 Je bent gedoemd tot vrijheid. Mens bepaalt zichzelf door zijn handelen
 
-__7. Wat je zeggen over het goede en het juiste in de ethiek?__  
+- __Wat je zeggen over het goede en het juiste in de ethiek?__  
 
-__8. Wat betekent vrijheid bij Kant, Bentham en Sartre?__  
-Kant: 
+
+- __Wat betekent vrijheid bij Kant, Bentham en Sartre?__  
+Kant: Vrijheid is mogelijk omdat het verbonden is met het Categorisch Imperatief
 Bentham: Daar komt hij op voor de vrijheid van meningsuiting, vrijheid van denken en de vrijheid om het leven zo veel mogelijk naar eigen inzicht in te vullen. Hij pleit voor kies- en stemrecht van vrouwen en trekt op met socialistische radicale om een eind te maken aan de uitbuiting van de arbeiders.
 Sartre: Je bent gedoemd tot vrijheid. 
 
-__9. Wat bedoelt Sartre dat men niet aan het waarheidscriterium kan ontkomen?__  
+- __Wat bedoelt Sartre dat men niet aan het waarheidscriterium kan ontkomen?__  
+- 
 
-__10. Waarin komen Sartre en Aristoteles deugdethiek overeen met betrekking tot een ‘lafaard’?__  
+- __Waarin komen Sartre en Aristoteles deugdethiek overeen met betrekking tot een ‘lafaard’?__  

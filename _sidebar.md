@@ -7,6 +7,7 @@
         - [Ethiek](minor/filosofie/ethiek.md)
         - [Logica en retorica](minor/filosofie/logica-en-retorica.md)
         - [Ontologie en metafysica](minor/filosofie/ontologie-en-metafysica.md)
+        - ------
         - [Cultuurfilosofie](minor/filosofie/cultuur-filosofie.md)
         - [Esthetiek](minor/filosofie/esthetiek.md)
         - [Epistemologie](minor/filosofie/epistemologie.md)
@@ -21,6 +22,7 @@
         - [Christendom](minor/wereldreligies/christendom.md)
         - [Islam](minor/wereldreligies/islam.md)
         - [Antieke religies](minor/wereldreligies/antieke-religies.md)
+        - ------
         - [Hindoeïsme](minor/wereldreligies/hindoeisme.md)
         - [Indiase filosofie](minor/wereldreligies/indiase-filosofie.md)
         - [Boeddhisme](minor/wereldreligies/boeddhisme.md)

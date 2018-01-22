@@ -145,6 +145,8 @@ Concensus
 **7. Wat is het soefisme? Wat is het (uiteindelijke) doel binnen het soefisme?**
 
 **8. Wat betekent djihad in het soefisme?**  
+
+
 **9. Welke waarde kennen moslims toe aan de Koran?**  
 **10. Hoe is de Koran opgebouwd en welke verschillen zijn er tussen openbaringen Mekka en Medina?**  
 **11. Wat zijn de hadith?**  

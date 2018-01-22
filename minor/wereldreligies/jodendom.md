@@ -168,7 +168,7 @@ Pelgrims feesten uit de tijd dat er een tempel stond in Jeruzalem.
 ### Rituelen
 - 613 Geboden - Halacha - de Joodse wet
     + Niet allemaal relevant bv. hoe ga je met je slaven om.
-    + Besnijdenis
+    + Besnijdenis (brit mila)
         * Geboden. 
         * Abraham kreeg opdracht om alle manen te besnijdenis incl. zonen
         * Gebeurt op de 8ste dag van de jongen. Dan pas krijgt die zijn naam.  
@@ -289,28 +289,62 @@ Het bevat de commentaren van belangrijke rabijnen en schriftgeleerden van de TeN
 22. Wat is de betekenis van het sjema-gebed?
 Het geeft uitdrukking aan het absolute geloof in God, 
 
-23. Beschrijf de begrippen transcendentie en immanentie in relatie tot God als 
+23. Beschrijf de begrippen transcendentie en immanentie in relatie tot God als Schepper!
+- Ver boven het alledaagse verheven. Boven het bewustzijn. Overstijdende
+- God is altijd en overal.
+
 
 24. Beschrijf de begrippen tijd, eeuwigheid, almacht en alwetendheid volgens Joodse theologie!
 
+
+
 25. Wat is zijn mitswot en welke 2 hoofdgroepen zijn er?
+Dit zijn de 613 geboden die door God via de Thora zijn gegeven. 
 
 26. Wat is bat of bar mitswah? En wat betekent dat in rituele zin?
+De zoon/dochter wordt verantwoordelijk onder de joodse wet. Vanaf dat moment is het aan de persoon zelf om zich aan de Joodse wet te houden. Hiervoor is het de verantwoordelijkheid van de ouders.
 
 27. Hoe vaak bidt een jood? Wat zijn kipa, tailliet, tsietsiet en tefilien? 
 
+- Een Jood bidt 3 keer per dag. Ochtend, middag, avond. 
+- Keppeltje voor joodse mannen
+- echthoekig omzoomd gebedskleed met aan de vier hoeken draadjes
+- draadjes aan de tailliet
+
 28. Wat is koosjer?
+Voedsel dat voldoet aan de spijswetten. Het mag gegeten worden.
 
 29. Wat is de betekenis van Sjabbat? Wanneer begint deze dag? Welke gebruiken zijn er?
+De sjabbat is van vrijdagavond tot zaterdagavond. Zaterdag is de zevende dag in de joodse week en is om te rusten. 
+
+Je mag niet;
+- werken 
+- licht aanzetten
+- koken op vuur
+- schrijven
+- auto gebruiken
+- muziekinstrumenten bespelen
+
+Je mag wel;
+- doorbrengen met je familie
+- Bezoek aan de synagoge
+- familie vrienden bezoeken op loopafstand
+- Zemiros (liederen) zingen
+- 
 
 30. Beschrijf in hoe huwelijk en echtscheiding verlopen?
+Echtscheiding mag alleen als de man dat wilt, er moet een echtscheidingsbrief (*get*) geschreven worden naar de rabbijnse rechtbank.
 
 31. Hoe staat het jodendom doorgaans tegenover het ‘leven na de dood’?
-Verering en  feesten
+Verering en feesten
 
 32. Welke zijn de drie pelgrimsfeesten en wat wordt er gevierd?
+Pesach, Sjawoe'ot, Soekkot
 
 33. Wat viert men met Rosh Hasjana, Jom Kippoer, Chanoeka, Poerim?
+- Rosh Hasjana; joods nieuwjaar. 
+- Jom kippoer; Dag van de Vergevingen, geen ruzie meer hebben 
+
 
 34. Wat leert het Sjema-gebed: “Hoor Israël, JHWH is onze God, JHWH is één”(Dt. : 4) Pg. 286
  

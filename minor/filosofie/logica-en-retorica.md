@@ -1,21 +1,21 @@
 # Logica en retorica
 
 ## Retorica
+
+![Retorische situatie](/minor/filosofie/images/retorische-situatie.png)
 Beoordeling betoog:
 - Argumenten juist en volledig?
 - Is de redenering geldig?
 - Is de argumentatie overtuigend?
+
+
 
 __Onderwerp__: doorspreken van de zaak. algemeen of bijzonder met als doel publiek overtuigen. Nadruk op volledigheid, feitelijkheid, van alle kanten belicht
 
 __Logica__: onderzoekt de geldigheid van redeneringen. Klopt de redenering? Gaat om opbouw betoog. Ongeacht de juistheid van de argumenten
 
 
-!> Retorica Iemand probeert een publick van zijn standpunt te overtuigen.
-
-> Retorica gaat over de hele situatie
-
-> Retorica gaat over overtuigingskracht
+!> Retorica Iemand probeert een publick van zijn standpunt te overtuigen. Retorica gaat over de hele situatie. Retorica gaat over overtuigingskracht
 
 Het doel van retorica is overtuigen. Een geldige redenering zegt nog niets over de waarheid van de conclusie. 
 
@@ -86,9 +86,7 @@ Conclusie: Ik mag niet doorrijden
 - Argumentum ad hominem Op de man spelen / jij-bak
     + Wat weet een dronkenlap zoals jij van politiek?
 - Argumentum ad populum (meerderheid heeft gelijk)
-    + Argumentum ad populum (meerderheid heeft gelijk)
 - Argumentum ad verecundiam (Autoriteitsargument)
-    + Argumentum ad verecundiam (Autoriteitsargument)
 - Argumentum ad baculum Dreigen, manipuleren, intimideren
     + Ik heb gelijk en als je me niet gelooft dan sla ik je in elkaar
 
