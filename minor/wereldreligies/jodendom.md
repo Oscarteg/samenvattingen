@@ -122,7 +122,7 @@ Namen voor Israël
 #### Pelgrims feesten
 Pelgrims feesten uit de tijd dat er een tempel stond in Jeruzalem.
 
-- Pesach (Pasen - in de lente, 8 dagen) **Belangrijkste feest**
+- **Pesach** (Pasen - in de lente, 8 dagen) **Belangrijkste feest**
     + Schepping - vanuit winter naar lente
     + Bevrijding uit Egypte
     + Verlossing (relatie, verslaving etc.)
@@ -136,11 +136,11 @@ Pelgrims feesten uit de tijd dat er een tempel stond in Jeruzalem.
         * Pesach 
             - Lams - de plaag ging voorbij aan het joods huis
     + In gesprek gaan met je familie over waar je van bevrijd wordt.
-- Sjawoe'ot (valt met pinksteren)
+- **Sjawoe'ot** (valt met pinksteren)
     + wekenfeest, oogstfeest
     + Mag niet trouwen in deze periode
     + Word de openbaring gevierd van de Thora. De 10 leefregels.
-- Soekkot (loofhuttenfeest - in het najaar)
+- **Soekkot** (loofhuttenfeest - in het najaar)
     + Bescherming (hoop en vertrouwen)  
     + Simchat Tora
         * Tora rollen worden uit de heilige ark gehaalt en dansen om de tora.
@@ -148,20 +148,20 @@ Pelgrims feesten uit de tijd dat er een tempel stond in Jeruzalem.
 
 
 #### Hogefeestdagen
-- Jom Kippoer (Grote verzoendag, 10 dagen)
+- **Jom Kippoer** (Grote verzoendag, 10 dagen)
     + Mag alleen als je geen ruzie meer hebt.
     + Vastendag - geen eten drinken omgang
 
 #### Overig
-- Chanoeka (inwijdingsfeest)
+- **Chanoeka** (inwijdingsfeest)
     + Joodse identiteit
     + Chanoekia met kaarsen die laten zien dat mensen joods zijn
         * Had maar olie voor 1 dag en brandde voor 8 dagen
     + Joodse identiteit
-- Poerim (verkleedfeest)
+- **Poerim** (verkleedfeest)
     + Verhaal Esther word gelezen. Goddeloos boek.
     + Soort carnaval. Verkleden
-- Vastendagen
+- **Vastendagen**
     + Poerim
     + Jom Kippoer
 
@@ -340,6 +340,11 @@ Verering en feesten
 
 32. Welke zijn de drie pelgrimsfeesten en wat wordt er gevierd?
 Pesach, Sjawoe'ot, Soekkot
+
+- Pesach; einde Joodse slavernij
+- Sjawoe'ot; openbaring van Thora
+- 
+
 
 33. Wat viert men met Rosh Hasjana, Jom Kippoer, Chanoeka, Poerim?
 - Rosh Hasjana; joods nieuwjaar. 

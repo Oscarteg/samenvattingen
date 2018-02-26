@@ -54,7 +54,7 @@
         * [Proxy](idepa/behavorial-patterns/proxy.md)
 -->
 ------
-<!-- Afgerond
+
 * Introductie organisatiekunde
     * [Organisatie,omgeving,leiderschap,cultuur](iitorg/chapter-1.md)
     * [Valuechain,Mintzberg,contingentie,levenscyclus](iitorg/chapter-2.md)
@@ -63,10 +63,10 @@
     * [Promotie,plaats,distributieenkanalen](iitorg/chapter-5.md)
     * [Kosten,(prijs)strategieën,prijselasticiteit,winst](iitorg/chapter-6.md)
     * [Personeel,Maslow,Herzberg,marketingmix/PLC](iitorg/chapter-7.md)
- -->
+
 ------
 
-<!-- Afgerond
+
 * Kwaliteit in de IT
     * [Introductie Kwaliteit](iqua/chapter-1.md)
     * [Software Ontwikkelmethoden](iqua/chapter-2.md)
@@ -75,10 +75,8 @@
     * [Projectmanagement](iqua/chapter-5.md)
     * [Standaarden](iqua/chapter-6.md)
     * [Auditing](iqua/chapter-7.md)
- -->
 ------
 
-<!-- Afgerond
 * Ethiek 
     * [Moraal een kwestie van oordelen](ieth/chapter-1.md)
     * [Normen, waarden en deugden](ieth/chapter-2.md)
@@ -87,7 +85,6 @@
     * [Rechten](ieth/chapter-5.md)
     * [Rechtvaardigheid](ieth/chapter-6.md)
     * [Integriteit en morele competentie](ieth/chapter-7.md) 
--->
 
 <!-- Not complete
 * Introduction to network security
