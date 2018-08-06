@@ -1,2 +1,0 @@
-# Geloof en rede
-
