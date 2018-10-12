@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dev": "vuepress dev"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "devDependencies": {
     "autoprefixer": "^9.1.5",
