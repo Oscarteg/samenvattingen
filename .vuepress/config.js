@@ -1,13 +1,10 @@
 module.exports = {
   title: "My mac os",
-  theme: "oscar",
+  theme: "oscarteg",
   postcss: {
     plugins: [require("tailwindcss")("./tailwind.js"), require("autoprefixer")]
   },
   themeConfig: {
-    sidebarDepth: 0,
-    sidebar: "auto",
-    displayAllHeaders: true,
     sidebar: {
       "/": [
         {
