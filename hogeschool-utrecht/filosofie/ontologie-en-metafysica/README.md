@@ -15,7 +15,9 @@
 
 `Ze beschrijft de eigenschappen, of breder: het zijn van het geheel van dingen, "entiteiten" of ook zijnden genoemd, waarvan aangenomen wordt dat ze bestaan of beter: zijn.`
 
-!> De vraag: "is er -'iets'-; wát dan ook?" dient te worden beantwoord.
+:::tip
+De vraag: "is er -'iets'-; wát dan ook?" dient te worden beantwoord.
+:::
 
 ## Metafysica
 
@@ -29,7 +31,9 @@ Bijvoorbeeld:
 
 ```
 
-!> Feitelijk is de Ontologie/Metafysica de bakermat van de filosofie. Door nieuwsgierig te zijn, worden er vragen gesteld over het alledaagse (de werkelijkheid). Hierdoor word je kritischer en leer je te door-denken.
+:::tip
+Feitelijk is de Ontologie/Metafysica de bakermat van de filosofie. Door nieuwsgierig te zijn, worden er vragen gesteld over het alledaagse (de werkelijkheid). Hierdoor word je kritischer en leer je te door-denken.
+:::
 
 ## Werkelijkheid
 

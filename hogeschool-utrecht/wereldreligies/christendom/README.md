@@ -22,7 +22,9 @@ Christendom komt voort uit het Jodendom.
 
 ## Gebed
 
-!> Gebed tot de Vader, door de Zoon in gemeenschap van de Heilige Geest.
+:::tip
+Gebed tot de Vader, door de Zoon in gemeenschap van de Heilige Geest.
+:::
 
 - Getijdengebed; dagelijks gebed van de kerk. 7 keer
 - Dagelijks gebed voor het eten, na het eten, slapengaan, opstaan
@@ -42,7 +44,9 @@ Reis naar plaats met bijzondere betekenis:
 - Taizé
 - Wereldjongerendagen
 
-!> Aflaat is de kwijtschelding na verkregen vergeving.
+:::tip
+Aflaat is de kwijtschelding na verkregen vergeving.
+:::
 
 ## Boeken
 

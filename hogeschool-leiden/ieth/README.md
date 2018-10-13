@@ -1,5 +1,7 @@
 # Ethiek
 
+<div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
+
 ## Hoofdstuk 1 - Moraal een kwestie van oordelen
 
 ### Moreel oordeel

@@ -1,6 +1,8 @@
 # Hindoeisme
 
-!> Hindoeisme is nergens in de geschriften te vinden. Mensen die achter de sing rivier verblijven worden hindoes genoemd
+:::tip
+Hindoeisme is nergens in de geschriften te vinden. Mensen die achter de sing rivier verblijven worden hindoes genoemd
+:::
 
 A.U.M
 
@@ -9,7 +11,9 @@ U =
 
 de schepper, de schepping, alle levende wezens
 
-!> AUM als geheel staat voor de beleving van het oneindige, het kosmisch bewustzijn.
+:::tip
+AUM als geheel staat voor de beleving van het oneindige, het kosmisch bewustzijn.
+:::
 
 ## Geschriften
 

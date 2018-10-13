@@ -13,7 +13,9 @@ Beoordeling betoog:
 
 **Logica**: onderzoekt de geldigheid van redeneringen. Klopt de redenering? Gaat om opbouw betoog. Ongeacht de juistheid van de argumenten
 
-!> Retorica Iemand probeert een publick van zijn standpunt te overtuigen. Retorica gaat over de hele situatie. Retorica gaat over overtuigingskracht
+:::tip
+Retorica Iemand probeert een publick van zijn standpunt te overtuigen. Retorica gaat over de hele situatie. Retorica gaat over overtuigingskracht
+:::
 
 Het doel van retorica is overtuigen. Een geldige redenering zegt nog niets over de waarheid van de conclusie.
 
@@ -43,7 +45,9 @@ Standpunt onderbouwd die elkaar ondersteunen
 
 ### Modus ponens
 
-!> Als A, dan B. A, dus B
+:::tip
+Als A, dan B. A, dus B
+:::
 
 Bijvoorbeeld:
 
@@ -55,7 +59,9 @@ Conclusie: Ik mag doorrijden
 
 ### Modus tollens
 
-!> Als A, dan B. Niet B, dan niet A
+:::tip
+Als A, dan B. Niet B, dan niet A
+:::
 
 Bijvoorbeeld:
 

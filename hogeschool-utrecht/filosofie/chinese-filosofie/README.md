@@ -1,6 +1,8 @@
 # Chinese filosofie
 
-!> De 5 elementen (vuur, hout, aarde, water, metaal) is belangrijk.
+:::tip
+De 5 elementen (vuur, hout, aarde, water, metaal) is belangrijk.
+:::
 
 ## China
 

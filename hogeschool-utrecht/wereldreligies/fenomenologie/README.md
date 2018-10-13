@@ -24,7 +24,9 @@ Verwijst naar overtuigen, gedragingen en maatschappelijke instituten die iets te
   bestaan van machtige, niet-menselijke wezens (geesten, voorouders, engelen, demonen, goden)
   en de wijze waarop al deze zaken het gedrag van mensen vormgeven
 
-!> Godsdienst is een machtig niet menselijk wezen altijd een godheid
+:::tip
+Godsdienst is een machtig niet menselijk wezen altijd een godheid
+:::
 
 5 grote wereldreligies
 

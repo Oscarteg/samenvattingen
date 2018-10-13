@@ -10,23 +10,33 @@
 
 ## Fundamentele attributiefout
 
-!> Perspectief wat je inneemt van waarnemen. Bijvoorbeeld; als je achter iemand rijd dan wil je dat mensen opschieten en als iemand achterop je zit dan denk je doe maar even rustig. Of ik slaagde voor de test omdat ik wel slim ben. Of ik zakte omdat de test wel erg lastig was.
+:::tip
+Perspectief wat je inneemt van waarnemen. Bijvoorbeeld; als je achter iemand rijd dan wil je dat mensen opschieten en als iemand achterop je zit dan denk je doe maar even rustig. Of ik slaagde voor de test omdat ik wel slim ben. Of ik zakte omdat de test wel erg lastig was.
+:::
 
-!> Is altijd contextueel en is cultuur, tijd, leeftijdsgebonden.
+:::tip
+Is altijd contextueel en is cultuur, tijd, leeftijdsgebonden.
+:::
 
 Toeschrijven van persoonlijke factoren aan redenen voor het gedrag van anderen.
 
 ## Westers scepticisme
 
-!> De mens kan de waarheid niet kennen. Er zijn zoveel perspectieven dat de waarheid niet bestaat.
+:::tip
+De mens kan de waarheid niet kennen. Er zijn zoveel perspectieven dat de waarheid niet bestaat.
+:::
 
-!> Doel is niet het bereiken van de kennis in het onkenbare, maar het bereiken van de zielenrust door het uitstel van het oordeel (epoche).
+:::tip
+Doel is niet het bereiken van de kennis in het onkenbare, maar het bereiken van de zielenrust door het uitstel van het oordeel (epoche).
+:::
 
 Heden: Alles is relatief, hedendaags nemen we geen 1 waarheid meer aan.
 
 ## Wat is kennis?
 
-!> ware, onfeilbare, onbetwijfelbare overtuigingen, of uitspraken. Propostionele kennis (weten dat)
+:::tip
+ware, onfeilbare, onbetwijfelbare overtuigingen, of uitspraken. Propostionele kennis (weten dat)
+:::
 
 - Kennis van _dingen/personen_ op basis van directe betrokkenheid, of vertrouwdheid met deze dingen of personen (is niet overdraagbaar) - **knowledge by acquintance**
   - Hier spreek je van waarden,
@@ -44,7 +54,9 @@ Heden: Alles is relatief, hedendaags nemen we geen 1 waarheid meer aan.
     - Intuïtie (onmiddellijk inzicht)
     - Redenering (door vermogen van de ratio of rede)
 
-!> Komen we tot kennis met onze zintuigen of met onze ratio.
+:::tip
+Komen we tot kennis met onze zintuigen of met onze ratio.
+:::
 
 - P is waar (tegenover onwaar)
 - P is zeker (tegenover twijfel)
@@ -85,7 +97,9 @@ Heden: Alles is relatief, hedendaags nemen we geen 1 waarheid meer aan.
 
 ### Aristoteles
 
-!> Tabula rasa: verstand is een onbeschreven blad. Een onbeschreven blad.
+:::tip
+Tabula rasa: verstand is een onbeschreven blad. Een onbeschreven blad.
+:::
 
 Inductieve conclusies door waarneming vervolgens:
 
@@ -99,7 +113,9 @@ Inductieve conclusies door waarneming vervolgens:
 
 ### Causa leer
 
-!> Wat is de doel oorzaak van dat wat wij zien?
+:::tip
+Wat is de doel oorzaak van dat wat wij zien?
+:::
 
 - Wat is er veranderd?
 - Hoe is de vorm tot stand gekomen?
@@ -115,9 +131,13 @@ Om deze vier vragen te beantwoorden geeft Aristoteles resp. vier "oorzaken":
 
 ## Kant
 
-!> We kunnen niet tot ... uitspraken komen.
+:::tip
+We kunnen niet tot ... uitspraken komen.
+:::
 
 - Wiskundige uitspraken wel **synthetisch**
 - **Synthetische uitspraken** kunnen a priori zijn.
 
-!> Grondvermogens van het kennen; zintuiglijkheid, verstand
+:::tip
+Grondvermogens van het kennen; zintuiglijkheid, verstand
+:::

@@ -135,7 +135,9 @@
 
 19. Lees de opdrachten zorgvuldig. Herlees een opdracht nog eens nadat je het antwoord hebt opgeschreven en controleer of je niets bent vergeten. schrijf volzinnen, gebruik geen telegramstijl. Een standpunt zonder toelichting, argument enzovoort levert geen punten op. Noem relevante begrippen. Leg begrippen zo nodig uit, ook als daar niet uitdrukkelijk om wordt gevraag \*veel succes!
 
-!> Werk de casus uit deze komt op het tentamen.
+:::tip
+Werk de casus uit deze komt op het tentamen.
+:::
 
 De naar het Westen uitgeweken voormalig Oost-Duitse schrijver Jurek Becker (1937-1997. verhaalt in het boek Jakob der Lügner over de lotgevallen van Jakob in een volkomen van de buitenwereld afgesloten Pools getto tijdens de nazitij *Jakob staat voor het dilemma of hij informatie over de komst van de bevrijders moet blijven verzinnen zodat hij de mensen in het getto een hart onder de riem kan blijven steken, of dat hij daarmee moet ophouden en gewoon moet zeggen dat hij ook niet weet wanneer de bevrijders (het Russische leger. komen. Door zijn in het begin gegeven hoopvolle informatie wordt de stemming in het getto minder moedeloos, de onderlinge solidariteit neemt toe en de zelfmoorden nemen af. Iemand aan wie hij vertrouwelijk meedeelt dat zijn informatie verzonnen is pleegt zelfmoor *Het probleem waar Jakob voor staat, is, in abstractere termen gesteld, of hij de waarheid moet vertellen (dat zijn informatie verzonnen is. of mensen hulp moet verlenen en dus moet blijven liegen. De schrijver geeft de morele onrust van Jakob zo goed weer, dat de lezer zonder meer de beslissing van Jakob (namelijk verder blijven liegen. respecteert als een juiste morele beslissing.
 

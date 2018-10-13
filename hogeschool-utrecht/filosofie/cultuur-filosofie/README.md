@@ -2,7 +2,9 @@
 
 ## Wat is cultuur?
 
-!> De wijze waarop individuen collectief betekenis verlenen aan hun leefwereld en hun eigen plaats daarin.
+:::tip
+De wijze waarop individuen collectief betekenis verlenen aan hun leefwereld en hun eigen plaats daarin.
+:::
 
 - Cultuur vs natuur
 - Ontwikkeling van begrip 'cultuur'

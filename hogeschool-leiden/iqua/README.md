@@ -1,5 +1,7 @@
 # IQUA
 
+<div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
+
 De student heeft kennis van:
 
 - Definitie(s) van kwaliteit, kwaliteit algemeen

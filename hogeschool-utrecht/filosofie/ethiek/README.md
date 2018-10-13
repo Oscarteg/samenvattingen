@@ -12,15 +12,23 @@
 
 **Ethiek** gaat over de vraag `Wat is het goede leven?`. Nadenken over het goed handelen.
 
-!> **Ethiek**: De wetenschap die moraal bestudeert en die tracht de moraal verder te helpen door nieuwe argumenten te ontwikkelen en te gebruiken in afwegingen
+:::tip
+**Ethiek**: De wetenschap die moraal bestudeert en die tracht de moraal verder te helpen door nieuwe argumenten te ontwikkelen en te gebruiken in afwegingen
+:::
 
 **Moraal** gaat over `Wat moet ik doen? Wat is de juiste keuze? (Morele dillema's)`
 
-!> **Moraal**: De impliciete en expliciete codes die binnen een bepaalde groep het handelen reguleren. (tijd, plaats, persoonsgebonden)
+:::tip
+**Moraal**: De impliciete en expliciete codes die binnen een bepaalde groep het handelen reguleren. (tijd, plaats, persoonsgebonden)
+:::
 
-!> Je moet er vanuit gaan dat er vrijheid bestaat!
+:::tip
+Je moet er vanuit gaan dat er vrijheid bestaat!
+:::
 
-!> Moreel dilemma: een echt dilemma is sprake als aan alle mogelijkheden waartussen je kunt kiezen nadelen kleven, wat je ook kiest, er is altijd wel iets verkeerd aan je keuze.
+:::tip
+Moreel dilemma: een echt dilemma is sprake als aan alle mogelijkheden waartussen je kunt kiezen nadelen kleven, wat je ook kiest, er is altijd wel iets verkeerd aan je keuze.
+:::
 
 > Waarde = een ideaal, een grondbeginsel om goed samen te leven dat we realiseren door ons gedrag. Aan waarden hecht je, je wilt ze waarmaken of verwezenlijken
 > Norm = zelf opgelegde regel die gedrag voorschrijft betreffende goed samenleven. Aan normen houd je je, je volgt ze en verwacht dat ook anderen ze volgen
@@ -117,7 +125,9 @@ Denken over goed en kwaad is zinloos. We zijn dieren en blijven dieren. Onze ins
 
 **4 kardinale deugden:**
 
-!> Definitie van Aristoteles: is een houding die ons in staat stelt ons handelingen voor te nemen, en die het midden houdt in relatie tot ons, een midden zoals
+:::tip
+Definitie van Aristoteles: is een houding die ons in staat stelt ons handelingen voor te nemen, en die het midden houdt in relatie tot ons, een midden zoals
+:::
 
 - Wijsheid
 - Moed

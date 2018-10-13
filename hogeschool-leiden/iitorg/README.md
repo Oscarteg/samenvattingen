@@ -1,5 +1,7 @@
 # Introductie organisatiekunde
 
+<div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
+
 ## Literatuur
 
 ![It management voor het HBO: Organisatie](http://static.webshopapp.com/shops/019644/files/005256418/it-management-voor-het-hbo-organisatie.jpg)
