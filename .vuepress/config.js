@@ -1,12 +1,13 @@
 module.exports = {
-  title: "My mac os",
+  title: "Samenvattingen",
   theme: "oscarteg",
   postcss: {
     plugins: [require("tailwindcss")("./tailwind.js"), require("autoprefixer")]
   },
-  sidebarDepth: 0,
+
   collapsable: false,
   themeConfig: {
+    sidebarDepth: 0,
     logo: "logo.png",
     // Assumes GitHub. Can also be a full GitLab url.
     repo: "oscarteg/samenvattingen",
