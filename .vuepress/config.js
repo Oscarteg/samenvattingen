@@ -8,7 +8,7 @@ module.exports = {
   collapsable: false,
   themeConfig: {
     sidebarDepth: 0,
-    logo: "logo.png",
+    logo: "/books.png",
     // Assumes GitHub. Can also be a full GitLab url.
     repo: "oscarteg/samenvattingen",
     // custom text for edit link. Defaults to "Edit this page"
@@ -69,27 +69,6 @@ module.exports = {
           {
             text: "Wereldreligies",
             link: "/hogeschool-utrecht/wereldreligies/"
-          },
-          {
-            text: "Languages",
-            items: [
-              { text: "Chinese", link: "/language/chinese" },
-              { text: "Japanese", link: "/language/japanese" }
-            ]
-          },
-          {
-            text: "Languages",
-            items: [
-              { text: "Chinese", link: "/language/chinese" },
-              { text: "Japanese", link: "/language/japanese" }
-            ]
-          },
-          {
-            text: "Languages",
-            items: [
-              { text: "Chinese", link: "/language/chinese" },
-              { text: "Japanese", link: "/language/japanese" }
-            ]
           }
         ]
       }
