@@ -4,10 +4,15 @@ module.exports = {
   postcss: {
     plugins: [require("tailwindcss")("./tailwind.js"), require("autoprefixer")]
   },
-
   collapsable: false,
   themeConfig: {
+    footer: true,
     sidebarDepth: 0,
+    lastUpdated: true,
+    subscription: {
+      email: "oscar@tegiffel.com",
+      buttonTitle: "Subscribe to hear about new articles"
+    },
     logo: "/books.png",
     // Assumes GitHub. Can also be a full GitLab url.
     repo: "oscarteg/samenvattingen",

@@ -4,7 +4,7 @@
     "build": "vuepress build"
   },
   "dependencies": {
-    "vuepress": "^0.14.4",
-    "vuepress-theme-oscarteg": "^0.0.5"
+    "vuepress": "^1.0.0-alpha.11",
+    "vuepress-theme-oscarteg": "^0.0.6"
   }
 }

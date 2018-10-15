@@ -1,6 +1,6 @@
 # IQUA
 
-<div class="border-t-4 border-indigo-dark w-24 mt-4 mb-8"></div>
+<div class="border-t-4 border-indigo-dark w-48 mt-4 mb-8"></div>
 
 De student heeft kennis van:
 
