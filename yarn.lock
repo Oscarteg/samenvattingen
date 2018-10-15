@@ -7045,10 +7045,10 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress-theme-oscarteg@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-oscarteg/-/vuepress-theme-oscarteg-0.0.7.tgz#97def1a7585641c9ef1d230709b5b633678d8393"
-  integrity sha512-HvShuYm446coPaA/iwZlEF/00y3eB0pbAZV2sjgifjMAq7b90/ep7sMNUSxJ4azVw2aKK+niDmw75lW0t7g9bg==
+vuepress-theme-oscarteg@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-oscarteg/-/vuepress-theme-oscarteg-0.0.8.tgz#0c90ab9879b77b950b6877472d9c725abde54fb3"
+  integrity sha512-ZRa1aUfkK2QnvvgS0Aa3X4ZmOry/jfITXtsD94ufn81YKcKeiQjH7i9dE3o00YK1jSwWmYVXYcURuI7hMzJ8iw==
   dependencies:
     autoprefixer "^9.1.5"
     prismjs "^1.15.0"
