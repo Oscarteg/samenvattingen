@@ -4,7 +4,7 @@
 
 ## Literatuur
 
-![It management voor het HBO: Organisatie](http://static.webshopapp.com/shops/019644/files/005256418/it-management-voor-het-hbo-organisatie.jpg)
+![It management voor het HBO: Organisatie](./images/it-management-voor-het-hbo-organisatie.jpg)
 
 - Titel: IT management voor het HBO: Organisatie
 - Auteur: Remco Meisner
@@ -74,7 +74,7 @@ Naast de missie is er ook de visie. Die valt te typeren als "visie = missie + pr
 
 ## Omgevingsfactoren
 
-![Omgevingsfactoren](http://samenvatten.metmathijs.nl/IITORG/organisatie_omgeving.png)
+![Omgevingsfactoren](./images/organisatie_omgeving.png)
 
 ## Indeling organisatie
 
@@ -138,21 +138,21 @@ Politiek
 
 ## Leiderschapsstijlen (Quinn)
 
-![quinn](http://123management.nl/0/030_cultuur/images/010_leiderschap_leiderschapsstijlen2.jpg)
+![quinn](./images/leiderschap_leiderschapsstijlen.png)
 
 ## Situationeel leiderschap (Hersey)
 
-![hersey](http://123management.nl/0/030_cultuur/images/010_leiderschap_leiderschapsstijlen4b_blanchard.jpg)
+![hersey](./images/leiderschap_leiderschapsstijlen_blanchard.png)
 
-![hersey-skill](http://123management.nl/0/030_cultuur/images/010_leiderschap_leiderschapsstijlen4c_competenties.jpg)
+![hersey-skill](./images/leiderschap_leiderschapsstijlen_competenties.jpg)
 
-![hersey](http://123management.nl/0/030_cultuur/images/010_leiderschap_leiderschapsstijlen6_effectief.jpg)
+![hersey](./images/leiderschap_leiderschapsstijlen_effectief.jpg)
 
 ## Culturele typologie (Hofstede)
 
 Hofstede heeft 5 dimensies bedacht die als graadmeter dienen voor culturele verschillen en die zou moeten helpen bij het overbruggen van deze verschillen tijdens de interculturele communicatie tussen partijen van verschillende culturen.
 
-![hofstede](http://managementplatform.nl/wp-content/uploads/2014/02/002_cultuur_type3_hofstede.jpg)
+![hofstede](./images/cultuur_type_hofstede.jpg)
 
 - **Machtsafstand**: Deze dimensie geeft aan de machtsafstand/ongelijkheid in de cultuur, dit kan zijn tussen ouder en kind, baas en werknemer of man en vrouw.
 - **Individualisme vs. collectivisme**: organisaties waarbij ieder individueel werkt en geen of nauwelijks samenhang met de anderen ervaart, ieder hakt voor zichzelf knopen door (individualisme) of organisaties waarbij men in groepen opereert (of als gehele afdeling, of als gehele organisatie) en alleen gezamenlijk knopen doorhakt (collectivisme).
@@ -183,7 +183,7 @@ Ondersteunende activiteiten:
 - technologie ontwikkeling: ict voorzieningen
 - inkoop: marktonderzoek, verwerving goederen.
 
-![value chain of porter](https://www.strategischmarketingplan.com/wp-content/uploads/value-chain-porter.png)
+![value chain of porter](./images/value-chain-porter.png)
 
 ## Mintzberg
 
@@ -191,7 +191,7 @@ Mintzberg heeft bepaald dat een organisatie bestaat uit verschillende onderdelen
 
 ### Configuraties
 
-![organisatie-onderdelen](https://managementmodellensite.nl/webcontent/uploads/organisatieeenhedenmintzberg.jpg)
+![organisatie-onderdelen](./images/organisatieeenhedenmintzberg.jpg)
 
 - De strategische top (het top-management).
 - Het midden management. Deze voert het beleid uit van het top-mangement met in acht nemend de wensen van de operende kern.
@@ -268,7 +268,7 @@ Mintzberg heeft bepaald dat er 5 configuraties zijn van een organisatie.
 
 Elke onderdeel van een organisatie heeft zijn eigen belangen.
 
-![mintzberg belangen](http://www.lindsay-sherwin.co.uk/guide_managing_change/images/mintzberg_3by.gif)
+![mintzberg belangen](./images/mintzberg.jpg)
 
 - _De strategische top_ wilt graag centralizeren. Het belang ligt erbij om de organisatie zoveel mogelijk samen te voegen en optimaal overzicht te houden.
 - _Support_ wilt graag de samenwerking bevorderen intern en met externe belanghebbenden.
@@ -449,13 +449,13 @@ Het Ansoff-model is een strategisch hulpmiddel bij het formuleren van groeistrat
 - Product Development: een nieuw product op een bestaande markt, product moet aansluiten bij de behoeften van de bekende markt.
 - Diversification: een nieuw product op een nieuwe markt. het is een uitbreiding van het bestaande producten pakket
 
-![ansoff-extended](https://image.slidesharecdn.com/48961349-01-ansoffs-matrix-121206001233-phpapp01/95/48961349-01ansoffsmatrix-38-638.jpg?cb=1354752911)
+![ansoff-extended](./images/ansoffsmatrix.jpg)
 
 ## BCG Matrix
 
 De BCG-matrix is een vervolg van het model van Ansoff. De BCG-matrix verbindt de marktgroei of het marktpotentieel aan het marktaandeel.
 
-![bcg-matrix](http://www.quickmba.com/images/strategy/matrix/bcg/growthshare.gif)
+![bcg-matrix](./images/growthshare.gif)
 
 Het model illustreert dat een product/dienst een bepaalde ontwikkeling probeert door te maken. Het model illustreert hoe een product zich kan gunstig of ongunstig kan ontwikkelen.
 
@@ -466,7 +466,7 @@ Het model illustreert dat een product/dienst een bepaalde ontwikkeling probeert 
 
 ## Product Life Cycle
 
-![product-life-cycle](https://sehlhorst.smugmug.com/Other/blog/product-life-cycle3/132613762_mj4Rf-O-1.png)
+![product-life-cycle](./images/product-life-cycle.png)
 
 Een product maakt de volgende fase door:
 
@@ -492,7 +492,7 @@ De BCG matrix en PLC \(Product Life Cycle\) vullen elkaar goed aan. De **develop
 
 ## Adoptiecurve van Rogers
 
-![adoptiecurve rogers](http://marketingmannen-tv.nl/wp-content/uploads/2013/12/Adaption-curve-1024x503.jpg)
+![adoptiecurve rogers](./images/adoptie-curve.jpg)
 
 1. Innovators - zijn het meest bereid om nieuwe producten aan te schaffen voordat ze algemeen geaccepteerd zijn. Cruciaal bij het starten van een trend
 2. Early adopters - zijn er snel bij. Houd trends in de gaten en volgt de nieuwste trends.
@@ -544,7 +544,7 @@ Een product is:
 
 ## Productsamenstelling \(Leeflang\)
 
-![productsamenstelling-leeflang](http://www.economiehulp.nl/images/stories/totale product.jpg)
+![productsamenstelling-leeflang](./images/total_product.jpg)
 
 - het fysiek product: Het kale product, dit zijn de functionele en esthetische kenmerken zoals afmetingen en kleur.
 - het uitgebreide product: Het fysiek product, met toegevoegde eigenschappen. Zoals, verpakking, merknaam, service en garantie.
@@ -793,7 +793,7 @@ Nadelen
 
 ##### Skim pricing
 
-![skim-pricing](http://www.witiger.com/marketing/skimming.jpg)
+![skim-pricing](./images/skimming.jpg)
 
 Het beetje bij beetje verlagen van de prijs om zodoende de markt af te romen. Ook wel de kaasschaafmethode genoemd. Deze methode kan alleen worden toegepast in een monopolie-positie
 
@@ -912,7 +912,7 @@ W = werkelijke productie
 
 ## Piramide van Maslow
 
-![piramide-van-maslow](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Piramide_van_Maslow.png/400px-Piramide_van_Maslow.png)
+![piramide-van-maslow](./images/piramide_van_Maslow.png)
 
 > Maslow stelde dat elk levend wezen dezelfde behoeftes nastreeft. Wanneer aan een behoefte voldaan is schuift het individu op naar een volgend niveau. Wanneer een trap ontbreekt of wegvalt zal het individu opnieuw aan deze behoefte moeten voldoen alvorens verder te kunnen stijgen. Het is niet mogelijk om bepaalde niveaus over te slaan.
 
@@ -946,7 +946,7 @@ De vijf belangrijkste hygiënefactoren zijn:
 
 > **Demotivatie** vindt voornamelijk plaats door de omgeving daaromheen.
 
-![herzberg](http://www.leaufort.nl/wp-content/uploads/2012/01/Motivatietheorie-van-Herzberg-web.jpg)
+![herzberg](./images/motivatietheorie-van-Herzberg.jpg)
 
 ## Michael Porter: vijfkrachtenmodel
 

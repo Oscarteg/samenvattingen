@@ -6,12 +6,14 @@ module.exports = {
   },
   collapsable: false,
   themeConfig: {
-    footer: true,
+    footer: false,
     sidebarDepth: 0,
     lastUpdated: true,
+    search: true,
     subscription: {
-      email: "oscar@tegiffel.com",
-      buttonTitle: "Subscribe to hear about new articles"
+      buttonTitle: "Subscribe to my newsletter§",
+      actionUrl:
+        "https://oscartegiffel.us12.list-manage.com/subscribe/post?u=794fd44a33e214cafd711bbeb&amp;id=7a2125cbd1"
     },
     logo: "/books.png",
     // Assumes GitHub. Can also be a full GitLab url.

@@ -19,7 +19,7 @@ De student heeft kennis van:
 
 ## TMap
 
-![TMap summary](https://www.spritecloud.com/wp-content/uploads/2014/06/Lifecycle_0.png)
+![TMap summary](tmap.png)
 
 **T**est **M**anage **Approach** oftewel **TMap** is een testmethode voor software.
 
