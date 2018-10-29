@@ -5,6 +5,6 @@
   },
   "dependencies": {
     "vuepress": "^1.0.0-alpha.11",
-    "vuepress-theme-oscarteg": "^0.0.8"
+    "vuepress-theme-oscarteg": "^0.0.13"
   }
 }
