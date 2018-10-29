@@ -138,11 +138,11 @@ Politiek
 
 ## Leiderschapsstijlen (Quinn)
 
-![quinn](./images/leiderschap_leiderschapsstijlen.png)
+![quinn](./images/leiderschap_leiderschapsstijlen.jpg)
 
 ## Situationeel leiderschap (Hersey)
 
-![hersey](./images/leiderschap_leiderschapsstijlen_blanchard.png)
+![hersey](./images/leiderschap_leiderschapsstijlen_blanchard.jpg)
 
 ![hersey-skill](./images/leiderschap_leiderschapsstijlen_competenties.jpg)
 
@@ -542,9 +542,9 @@ Een product is:
 - garantie
 - \(meestal\) vaste prijs.
 
-## Productsamenstelling \(Leeflang\)
+## Productsamenstelling (Leeflang)
 
-![productsamenstelling-leeflang](./images/total_product.jpg)
+![productsamenstelling-leeflang](./images/totale_product.jpg)
 
 - het fysiek product: Het kale product, dit zijn de functionele en esthetische kenmerken zoals afmetingen en kleur.
 - het uitgebreide product: Het fysiek product, met toegevoegde eigenschappen. Zoals, verpakking, merknaam, service en garantie.
