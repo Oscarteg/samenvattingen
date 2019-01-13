@@ -1,1 +1,1 @@
-# Filosofie
+# Hogeschool Utrecht

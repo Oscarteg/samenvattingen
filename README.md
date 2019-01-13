@@ -1,5 +1,5 @@
 ---
-home: true
+# home: true
 ---
 
 # Samenvattingen

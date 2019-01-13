@@ -1,3 +1,2 @@
 # Hogeschool Leiden
 
-## Testing

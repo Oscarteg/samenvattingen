@@ -1,40 +1,51 @@
 module.exports = {
   title: "Samenvattingen",
-  theme: "oscarteg",
+  // theme: "oscarteg",
   postcss: {
     plugins: [require("tailwindcss")("./tailwind.js"), require("autoprefixer")]
   },
+  head: [
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css"
+      }
+    ][
+      ("link",
+      {
+        rel: "stylesheet",
+        href:
+          "https://cdn.jsdelivr.net/github-markdown-css/2.2.1/github-markdown.css"
+      })
+    ]
+  ],
+  extendMarkdown: md => {
+    md.use(require("markdown-it-katex"));
+  },
   collapsable: false,
   themeConfig: {
-    footer: false,
     sidebarDepth: 0,
     lastUpdated: true,
-    search: true,
-    subscription: {
-      buttonTitle: "Subscribe to my newsletter§",
-      actionUrl:
-        "https://oscartegiffel.us12.list-manage.com/subscribe/post?u=794fd44a33e214cafd711bbeb&amp;id=7a2125cbd1"
-    },
     logo: "/books.png",
     // Assumes GitHub. Can also be a full GitLab url.
     repo: "oscarteg/samenvattingen",
-    // custom text for edit link. Defaults to "Edit this page"
-    editLinkText: "Help us improve this page!",
     sidebar: {
       "/": [
         {
           title: "Hogeschool Leiden",
-          collapsable: false,
+          // collapsable: false,
           children: [
             "hogeschool-leiden/ieth/",
             "hogeschool-leiden/iitorg/",
             "hogeschool-leiden/iqua/",
-            "hogeschool-leiden/isec/"
+            "hogeschool-leiden/isec/",
+            "hogeschool-leiden/ikml/"
           ]
         },
         {
           title: "Hogeschool Utrecht",
-          collapsable: false,
+          // collapsable: false,
           children: [
             "hogeschool-utrecht/filosofie/antropologie/",
             "hogeschool-utrecht/filosofie/chinese-filosofie/",
@@ -66,18 +77,16 @@ module.exports = {
         link: "/"
       },
       {
+        text: "Homepage",
+        link: "https://oscartegiffel.com"
+      },
+      {
         text: "Hogeschool Leiden",
         link: "/hogeschool-leiden/"
       },
       {
         text: "Hogeschool Utrecht",
-        items: [
-          { text: "Filosofie", link: "/hogeschool-utrecht/filosofie/" },
-          {
-            text: "Wereldreligies",
-            link: "/hogeschool-utrecht/wereldreligies/"
-          }
-        ]
+        link: "/hogeschool-utrecht/"
       }
     ]
   }

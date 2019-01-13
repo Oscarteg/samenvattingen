@@ -4,7 +4,8 @@
     "build": "vuepress build"
   },
   "dependencies": {
-    "vuepress": "^1.0.0-alpha.11",
+    "markdown-it-katex": "^2.0.3",
+    "vuepress": "^1.0.0-alpha.31",
     "vuepress-theme-oscarteg": "^0.0.13"
   }
 }

@@ -191,8 +191,8 @@ module.exports = {
   fonts: {
     proza: ["Proza Libre"],
     sans: [
-      "Open Sans",
       "system-ui",
+      "Open Sans",
       "BlinkMacSystemFont",
       "-apple-system",
       "Segoe UI",
@@ -470,6 +470,7 @@ module.exports = {
     "16": "4rem",
     "24": "6rem",
     "32": "8rem",
+    "40": "10rem",
     "48": "12rem",
     "64": "16rem",
     "1/2": "50%",
@@ -539,7 +540,7 @@ module.exports = {
 
   minWidth: {
     "0": "0",
-    "40": "40rem",
+    "40": "10rem",
     full: "100%"
   },
 
