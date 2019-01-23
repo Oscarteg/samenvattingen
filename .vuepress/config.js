@@ -1,27 +1,27 @@
 module.exports = {
   title: "Samenvattingen",
-  // theme: "oscarteg",
-  postcss: {
-    plugins: [require("tailwindcss")("./tailwind.js"), require("autoprefixer")]
-  },
+  plugins: ["vuepress-plugin-nprogress"],
   head: [
     [
       "link",
       {
         rel: "stylesheet",
-        href: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css"
+        href: "https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css"
       }
-    ][
-      ("link",
+    ],
+    [
+      "link",
       {
         rel: "stylesheet",
         href:
           "https://cdn.jsdelivr.net/github-markdown-css/2.2.1/github-markdown.css"
-      })
+      }
     ]
   ],
-  extendMarkdown: md => {
-    md.use(require("markdown-it-katex"));
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require("markdown-it-katex"));
+    }
   },
   collapsable: false,
   themeConfig: {

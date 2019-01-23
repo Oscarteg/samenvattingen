@@ -1,5 +1,6 @@
 # Machine learning
 
+
 > 
 
 **De student leert tijdens de module:**
@@ -21,7 +22,7 @@
 ## Machine learning pipeline
 1. Aangeleverde data
 2. Machine learning algoritme. Welke technieken ga je gebruiken? Waarom? En welke technieken zijn het beste voor de data?
-3. Interpreatie en visualisatie. Resultaten terug geven.
+3. Interpretatie en visualisatie. Resultaten terug geven.
 
 ## Data
 
@@ -129,10 +130,9 @@ De computer (agent) leert aanpassen aan de omgeving. In de AI hoek.
 Zoek je model
 De error is het verschil tussen de rechte lijn (het model) en de afstand tot het datapunt.
 
-- **S**um Of **S**quared **E**rrors (SSE) = Het kwadrateren van alle errors
-- **S**um Of **S**quared **E**quation (SSR) = 
-- **S**um Of **S**quared **R**egression (**SSR**) = Als er sprake is van een regressie lijn (dus 2 variabelen) dan SSR berekenen. 
-- **S**um Of **S**quared **T**otals = SSR + SSE
+- **S**um Of **S**quared **E**rrors (SSE) = Het kwadrateren van alle errors.  $min \sum (y_i - \^{y}_i)^2$
+- **S**um Of **S**quared **R**egression (**SSR**) = Als er sprake is van een regressie lijn (dus 2 variabelen) dan SSR berekenen. $\sum (\hat{y} - \bar{y})^2$
+- **S**um Of **S**quared **T**otals = SSR + SSE = $\sum (y_i - \bar{y})^2$
 
 :::tip
 Doel is het ontwerpen van het model dat SSE minimaliseert. (dus zo accuraat mogelijk)
@@ -141,15 +141,9 @@ Doel is het ontwerpen van het model dat SSE minimaliseert. (dus zo accuraat moge
 :::tip
 SSE minimaliseren gaat als volgt
 
-$
-min \sum (y_i - \^{y}_i)^2
-$
+$y_i =$ de waarde van de afhankelijk van de fooi
 
- $\\sqrt{3x-1}+(1+x)^2$'
-
-y_i = de waarde van de afhankelijk van de fooi
-
-\^{y}_i = de geschatte waarde van de afhankelijke variable
+$\^{y}_i =$ de geschatte waarde van de afhankelijke variable
 :::
 
 :::warning
@@ -157,6 +151,48 @@ Alleen lineaire regressie toepassen als het model een rechte lijn kan zijn.
 :::
 
 De lineaire lijn/regressie lijn gaat altijd door het gemiddelde van de variable waarde.
+
+
+### Vergelijking van rechte lijn
+
+$y = mx + b$
+
+$m =$ de helling
+
+$b =$ de snijpunt met je y-as, dus waar x = 0
+
+$$
+m = \frac{rise}{run} = \frac{y_j - y_i}{x_j - x_i}
+$$
+
+$$
+\hat{y} = b_0 + b_1x_i
+$$
+
+$$
+b_1 = \frac{\sum (x_i - \bar{x})(y_i - \bar{y})} {\sum (x_i - \bar{x})^2}
+$$
+
+$\bar{x} =$ gemiddelde van de onafhankelijke variable
+
+
+$\bar{y} =$ gemiddelde van de afhankelijke variabele
+
+
+$x_i =$ waarde van de onafhankelijke variabele
+
+
+$x_y =$ waar de van de afhankelijke variabele
+
+Als je de helling hebt bepaalt kun je waarde berekenen voor $x=0$. 
+$$
+b_0 = \bar{y} - b_1\bar{x}
+$$
+
+Vul de waardes in die je weet.
+
+## K Nearest neighbor classifier
+
 
 ## Begrippenlijst
 

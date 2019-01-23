@@ -5,7 +5,9 @@
   },
   "dependencies": {
     "markdown-it-katex": "^2.0.3",
-    "vuepress": "^1.0.0-alpha.31",
-    "vuepress-theme-oscarteg": "^0.0.13"
+    "vuepress-plugin-nprogress": "^0.1.0"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.31"
   }
 }
