@@ -1,21 +1,22 @@
 # Machine learning
 
-
-> 
-
+:::tip
 **De student leert tijdens de module:**
 1. Datasets lezen in R en deze analyseren en visualiseren
 2. Uitleggen hoe machine learning werkt
 3. Het trainen en testen (valideren) van een classifier op datasets
 4. Geavanceerde machine learning technieken zoals Neurale Netwerken
 5. Gebruik maken van bestaande ML platformen zoals TensorFlow of Sci-kit
+:::
 
+:::tip
 **De student kan aan het einde van deze module:**
 1. Werken met R en R studio
 2. Een dataset analyseren in R en R studio
 3. Een classifier trainen en testen en de resultaten visualiseren
 4. kennis over geavanceerde machine learning technieken
 5. Toepassingsgebieden noemen waar ML gebruikt wordt
+:::
 
 ## Wat is machine learning?
 
@@ -192,6 +193,45 @@ $$
 Vul de waardes in die je weet.
 
 ## K Nearest neighbor classifier
+Gebaseerd op gelijksoortigheid van training van data. 
+
+KNN is gebaseerd op gelijkwaardige eigenschappen. 
+
+Een van de simpelste **Supervised Machine Learning** algoritme.
+
+
+## Cross validatie
+
+:::tip
+Crossvalidatie geeft de mogelijkheid om verschillende machine learning algoritmes te vergelijken. R
+:::
+Hoe controlleer je of een model goed is?
+
+$$
+R^2 = 1 - \frac{\sum(y_i-f_i)^2}{\sum(y_i-\bar{y})^2}
+$$
+
+Dit is de verhouding van fouten in een model ten opzichte van de totale variantie in de afhankelijke waarde. Hoe lager de fout hoe hoger de $R^2$-waarde. 
+
+R-kwadraat wordt gebruikt als maatstaaf voor de kwaliteit van fit in een regressie. 
+
+
+Crossvalidatie split de data in train data en test data. Dit kan de helft zijn of een derde of een andere variant. 
+
+> Leave-one-out is dat elke sample individueel wordt getest. 
+> n-fold Cross validation
+
+
+## Naive Bayes Classifier
+
+
+
+## Reinforced Learning
+
+
+
+### Multi Armed Bandit (MAB)
+
 
 
 ## Begrippenlijst
