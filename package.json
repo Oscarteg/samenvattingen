@@ -4,10 +4,10 @@
     "build": "vuepress build"
   },
   "dependencies": {
-    "markdown-it-katex": "^2.0.3",
-    "vuepress-plugin-nprogress": "^0.1.0"
+    "markdown-it-katex": "2.0.3",
+    "vuepress-plugin-nprogress": "0.1.0"
   },
   "devDependencies": {
-    "vuepress": "^1.0.0-alpha.31"
+    "vuepress": "1.0.0-alpha.31"
   }
 }
